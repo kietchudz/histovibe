@@ -1,0 +1,109 @@
+{
+    "id": "grade12_lesson14",
+    "title": "Bài 7: Chiến thắng Điện Biên Phủ",
+    "genZTitle": "Điện Biên Phủ - Lừng Lẫy Năm Châu 💥",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ĐIỆN BIÊN PHỦ! 💥\n\n'Lừng lẫy năm châu, chấn động địa cầu!'\n\nChiến thắng kết thúc 9 năm chống Pháp!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH 📍\n\n🇫🇷 Pháp xây 'pháo đài bất khả xâm phạm'\n🏔️ 49 cứ điểm, 16.000 quân tinh nhuệ\n✈️ Không vận tiếp tế\n\n→ Pháp + Mỹ nghĩ: KHÔNG THỂ THUA!",
+            "note": "Mỹ viện trợ 80% chi phí chiến tranh!",
+            "url": "https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CHUẨN BỊ CỦA TA 💪\n\n🚴 Dân công xe đạp thồ 100kg/người\n🛤️ Mở đường qua núi\n🏔️ Kéo pháo lên núi bằng tay (!)\n🎯 Thay đổi cách đánh: 'Đánh chắc tiến chắc'\n\n→ Chuẩn bị 4 tháng, huy động toàn dân!",
+            "note": "260.000 dân công, 20.000 xe đạp thồ!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "DIỄN BIẾN ⚔️\n\n📅 Đợt 1 (13-17/3): Diệt Him Lam, Độc Lập, Bản Kéo\n📅 Đợt 2 (30/3-26/4): Đánh phân khu C, D, E\n📅 Đợt 3 (1-7/5): Tổng công kích\n\n📅 7/5/1954, 17h30: De Castries đầu hàng!",
+            "note": "56 ngày đêm 'khoét núi ngủ hầm'!"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "7/5/1954 - Cờ đỏ sao vàng bay trên nóc hầm De Castries!\n\nPháp thất bại thảm hại! 🇻🇳",
+            "note": "Đại tướng Võ Nguyên Giáp chỉ huy!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Ý NGHĨA 🌟\n\n✅ Chấm dứt 9 năm kháng chiến\n✅ Buộc Pháp ký Hiệp định Geneva\n✅ Cổ vũ phong trào giải phóng dân tộc\n✅ Bài học cho chiến tranh chống Mỹ\n\n→ Chiến thắng LỊCH SỬ!",
+            "note": "Lần đầu quân dân thuộc địa đánh bại đế quốc!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📅 56 ngày đêm (13/3 - 7/5/1954)\n💥 De Castries đầu hàng\n🌟 Ý nghĩa: Kết thúc kháng chiến, Pháp rút\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Điện Biên Phủ kéo dài bao lâu?",
+            "options": [
+                "30 ngày",
+                "45 ngày",
+                "56 ngày",
+                "100 ngày"
+            ],
+            "correctAnswer": 2,
+            "explanation": "56 ngày đêm từ 13/3 đến 7/5/1954!"
+        },
+        {
+            "question": "Ai là tổng chỉ huy chiến dịch phía VN?",
+            "options": [
+                "Hồ Chí Minh",
+                "Võ Nguyên Giáp",
+                "Trường Chinh",
+                "Phạm Văn Đồng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đại tướng Võ Nguyên Giáp là Tổng tư lệnh chiến dịch!"
+        },
+        {
+            "question": "Tướng Pháp chỉ huy Điện Biên Phủ là ai?",
+            "options": [
+                "Navarre",
+                "De Castries",
+                "De Lattre",
+                "Salan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "De Castries là chỉ huy tập đoàn cứ điểm Điện Biên Phủ!"
+        },
+        {
+            "question": "Phương châm tác chiến của ta?",
+            "options": [
+                "Đánh nhanh thắng nhanh",
+                "Đánh chắc tiến chắc",
+                "Du kích",
+                "Phòng thủ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đại tướng Giáp thay đổi từ 'đánh nhanh' sang 'đánh chắc tiến chắc' để đảm bảo thắng lợi!"
+        },
+        {
+            "question": "Điện Biên Phủ thắng lợi ngày nào?",
+            "options": [
+                "13/3/1954",
+                "30/4/1954",
+                "7/5/1954",
+                "21/7/1954"
+            ],
+            "correctAnswer": 2,
+            "explanation": "7/5/1954, 17h30 - De Castries đầu hàng, chiến dịch toàn thắng!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+}

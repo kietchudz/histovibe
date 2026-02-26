@@ -1,0 +1,104 @@
+{
+    "id": "grade11_lesson6",
+    "title": "Bài 6: Hành trình đi đến độc lập dân tộc ở ĐNA",
+    "genZTitle": "ĐNA Nổi Dậy - Đòi Lại Tự Do ✊",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ĐNA NỔI DẬY! ✊\n\nTừ đấu tranh tự phát → Có tổ chức, có lãnh đạo!\n\nHành trình gian nan đòi lại TỰ DO!",
+            "url": "https://vi.wikipedia.org/wiki/Phi_th%E1%BB%B1c_d%C3%A2n_h%C3%B3a"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "GIAI ĐOẠN ĐẦU 😔\n\nĐấu tranh TỰ PHÁT:\n👨‍🌾 Chủ yếu nông dân, văn thân sỹ phu\n⚔️ Thiếu tổ chức, thiếu vũ khí\n\n→ THẤT BẠI!",
+            "note": "Yêu nước thôi chưa đủ, cần có đường lối!",
+            "url": "https://vi.wikipedia.org/wiki/Indonesia"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "GIAI ĐOẠN 1920-1945 📈\n\n💼 Giai cấp tư sản ra đời (kinh doanh)\n👷 Giai cấp vô sản ra đời (công nhân)\n\n☭ Đảng Cộng sản các nước thành lập\n→ Đấu tranh CÓ TỔ CHỨC, có đường lối!",
+            "note": "Có lý luận cách mạng mới thắng được!",
+            "url": "https://vi.wikipedia.org/wiki/Philippines"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "THỜI CƠ 1945 ⭐\n\n🇯🇵 Nhật đầu hàng Đồng minh!\n→ Khoảng trống quyền lực!\n\n🚀 Các nước chớp thời cơ:\n🇮🇩 Indonesia (17/8/1945)\n🇻🇳 Việt Nam (2/9/1945)\n🇱🇦 Lào (12/10/1945)",
+            "note": "Thời cơ ngàn năm có một!",
+            "url": "https://vi.wikipedia.org/wiki/Myanmar"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "SAU 1945 ⚔️\n\nThực dân cố QUAY LẠI!\n\n🇻🇳 VN: Chống Pháp (1945-54), chống Mỹ (1954-75)\n🇮🇩 Indonesia: Chống Hà Lan\n🇲🇾 Malaysia: Chống Anh\n\n→ Tiếp tục kháng chiến → Độc lập hoàn toàn!",
+            "note": "Đường đến độc lập không dễ dàng!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n😔 Đầu: Tự phát → Thất bại\n📈 1920-45: Có tổ chức, Đảng CS\n⭐ 1945: Thời cơ vàng\n⚔️ Sau 1945: Kháng chiến đến cùng\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Đấu tranh giai đoạn đầu có đặc điểm gì?",
+            "options": [
+                "Có tổ chức chặt chẽ",
+                "Tự phát, thiếu tổ chức",
+                "Do Đảng lãnh đạo",
+                "Có vũ khí hiện đại"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Giai đoạn đầu là đấu tranh tự phát, chủ yếu nông dân, thiếu tổ chức nên thất bại!"
+        },
+        {
+            "question": "Thời cơ 1945 là gì?",
+            "options": [
+                "Pháp rút quân",
+                "Nhật đầu hàng Đồng minh",
+                "Anh giúp đỡ",
+                "Mỹ ủng hộ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhật đầu hàng tạo khoảng trống quyền lực - thời cơ ngàn năm có một!"
+        },
+        {
+            "question": "Nước ĐNA nào tuyên bố độc lập đầu tiên năm 1945?",
+            "options": [
+                "Việt Nam",
+                "Indonesia",
+                "Lào",
+                "Campuchia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Indonesia tuyên bố độc lập 17/8/1945, trước VN (2/9/1945)!"
+        },
+        {
+            "question": "Việt Nam tuyên bố độc lập ngày nào?",
+            "options": [
+                "17/8/1945",
+                "2/9/1945",
+                "12/10/1945",
+                "1/1/1946"
+            ],
+            "correctAnswer": 1,
+            "explanation": "2/9/1945 - Bác Hồ đọc Tuyên ngôn độc lập tại Ba Đình!"
+        },
+        {
+            "question": "Sau 1945, các nước ĐNA phải làm gì?",
+            "options": [
+                "Xây dựng kinh tế",
+                "Tiếp tục kháng chiến chống thực dân quay lại",
+                "Du lịch",
+                "Nghỉ ngơi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thực dân cố quay lại, các nước phải tiếp tục kháng chiến!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Nam_%C3%81"
+}

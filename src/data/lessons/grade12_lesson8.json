@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson8",
+    "title": "Bài 11: Công cuộc Đổi mới (1986 - nay)",
+    "genZTitle": "Việt Nam Hóa Rồng (Đang Load...) 📈",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "VIỆT NAM HÓA RỒNG! 📈\n\nTừ 1986 đến nay...\nTừ đói nghèo → Kinh tế năng động!\n\nĐang load... 🔄",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "KINH TẾ 💰\n\n📈 Tăng trưởng liên tục (6-7%/năm)\n🌾 Xuất khẩu gạo, cà phê top thế giới\n📱 Công nghệ phát triển (Samsung, Intel...)\n💵 Thu nhập tăng gấp 10 lần\n\n→ Từ nghèo nhất → Thu nhập trung bình!",
+            "note": "GDP từ 6 tỷ USD (1990) → 400 tỷ USD (2023)!",
+            "url": "https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "XÃ HỘI 🏠\n\n📉 Xóa đói giảm nghèo ẤN TƯỢNG\n(Từ 58% → dưới 5% người nghèo!)\n\n🎓 Giáo dục phổ cập\n🏥 Y tế cải thiện\n🏠 Đời sống nâng cao",
+            "note": "Liên Hợp Quốc khen ngợi thành tựu xóa nghèo VN!",
+            "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "HỘI NHẬP QUỐC TẾ 🌏\n\n🤝 ASEAN (1995)\n🌐 APEC (1998)\n🏪 WTO (2007)\n📝 Nhiều FTA (CPTPP, EVFTA...)\n\n'Việt Nam muốn làm BẠN với tất cả!'",
+            "note": "Quan hệ ngoại giao với 190+ quốc gia!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "THÁCH THỨC 😤\n\n⚠️ Năng suất lao động còn thấp\n⚠️ Chênh lệch giàu nghèo\n⚠️ Ô nhiễm môi trường\n⚠️ Già hóa dân số\n\n→ Còn nhiều việc phải làm!",
+            "note": "Phát triển phải đi đôi với bền vững!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n💰 Kinh tế: Tăng trưởng mạnh\n🏠 Xã hội: Xóa nghèo ấn tượng\n🌏 Hội nhập: WTO, ASEAN, FTA\n😤 Thách thức: Năng suất, môi trường\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "VN xuất khẩu gì nhiều nhất thế giới?",
+            "options": [
+                "Ô tô",
+                "Gạo, cà phê",
+                "Dầu mỏ",
+                "Vàng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN là nước xuất khẩu gạo, cà phê hàng đầu thế giới!"
+        },
+        {
+            "question": "VN gia nhập WTO năm nào?",
+            "options": [
+                "1995",
+                "2000",
+                "2007",
+                "2010"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Việt Nam gia nhập WTO năm 2007 - hội nhập kinh tế toàn cầu!"
+        },
+        {
+            "question": "Tỷ lệ nghèo VN giảm từ bao nhiêu?",
+            "options": [
+                "10% → 5%",
+                "30% → 10%",
+                "58% → dưới 5%",
+                "80% → 50%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Từ 58% (1993) giảm xuống dưới 5% - thành tựu xóa nghèo ấn tượng!"
+        },
+        {
+            "question": "VN có quan hệ với bao nhiêu quốc gia?",
+            "options": [
+                "50",
+                "100",
+                "150",
+                "190+"
+            ],
+            "correctAnswer": 3,
+            "explanation": "VN có quan hệ ngoại giao với hơn 190 quốc gia - 'muốn làm bạn với tất cả'!"
+        },
+        {
+            "question": "Thách thức của VN hiện nay là gì?",
+            "options": [
+                "Chiến tranh",
+                "Năng suất thấp, ô nhiễm, già hóa",
+                "Không có thách thức",
+                "Dân số giảm"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN cần nâng cao năng suất, bảo vệ môi trường, đối phó già hóa dân số!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
+}

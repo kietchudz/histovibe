@@ -1,0 +1,101 @@
+{
+    "id": "grade10_lesson11",
+    "title": "Bài 11: Các cuộc cách mạng công nghiệp thời cận đại",
+    "genZTitle": "Máy Hơi Nước & Điện - Game Changer 🚂",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CÁCH MẠNG CÔNG NGHIỆP! 🏭\n\nTừ làm tay → Làm máy\nTừ nông nghiệp → Công nghiệp\n\nThế giới thay đổi HOÀN TOÀN! 🚀",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CMCN LẦN 1 (Cuối TK 18 - ANH) 🇬🇧\n\n🔑 Key: MÁY HƠI NƯỚC (James Watt)\n\nKết quả:\n📈 Năng suất tăng vọt\n👔 Hình thành 2 giai cấp: Tư sản & Vô sản",
+            "note": "Anh là 'công xưởng thế giới' lúc đó!",
+            "url": "https://vi.wikipedia.org/wiki/M%C3%A1y_h%C6%A1i_n%C6%B0%E1%BB%9Bc"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CMCN LẦN 2 (Cuối TK 19) ⚡\n\n🔑 Key: ĐIỆN NĂNG + ĐỘNG CƠ ĐỐT TRONG\n\n✈️ Máy bay (Wright)\n🚗 Ô tô (Karl Benz)\n📞 Điện thoại (Bell)\n💡 Bóng đèn (Edison)",
+            "note": "Thế giới kết nối nhanh hơn!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p_l%E1%BA%A7n_th%E1%BB%A9_hai"
+        },
+        {
+            "id": 4,
+            "type": "timeline",
+            "content": "1760s | CMCN 1 bắt đầu ở Anh 🇬🇧\n1769 | James Watt cải tiến máy hơi nước\n1879 | Edison phát minh bóng đèn 💡\n1903 | Anh em Wright bay thành công ✈️"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "TÁC ĐỘNG:\n\n✅ Tích cực: Năng suất tăng, đô thị hóa, giao thông phát triển\n\n❌ Tiêu cực: Bóc lột công nhân, ô nhiễm môi trường, chênh lệch giàu nghèo"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🚂 CMCN 1: Máy hơi nước (Anh, TK 18)\n⚡ CMCN 2: Điện, động cơ (TK 19)\n\nQuiz time! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "CMCN lần 1 bắt đầu từ đâu?",
+            "options": [
+                "Pháp",
+                "Mỹ",
+                "Anh",
+                "Đức"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CMCN 1 bắt đầu từ Anh vào những năm 1760!"
+        },
+        {
+            "question": "Phát minh quan trọng nhất của CMCN 1?",
+            "options": [
+                "Điện",
+                "Máy hơi nước",
+                "Ô tô",
+                "Máy bay"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Máy hơi nước của James Watt thay đổi cách sản xuất!"
+        },
+        {
+            "question": "Hai giai cấp mới sau CMCN 1?",
+            "options": [
+                "Vua-quan",
+                "Nông dân-địa chủ",
+                "Tư sản-vô sản",
+                "Thầy tu-tín đồ"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tư sản (chủ) và Vô sản (công nhân)!"
+        },
+        {
+            "question": "CMCN 2 dựa trên năng lượng gì?",
+            "options": [
+                "Hơi nước",
+                "Gió",
+                "Điện và động cơ đốt trong",
+                "Mặt trời"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CMCN 2 dùng điện năng và động cơ đốt trong!"
+        },
+        {
+            "question": "Tác động tiêu cực của CMCN?",
+            "options": [
+                "Năng suất tăng",
+                "Đô thị hóa",
+                "Bóc lột, ô nhiễm",
+                "Giao thông tốt"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bóc lột lao động và ô nhiễm môi trường!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson12",
+    "title": "Bài 16: Lịch sử địa phương",
+    "genZTitle": "Sử Làng Tôi - Khám Phá Quê Hương 🏠",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "SỬ LÀNG TÔI! 🏠\n\nLịch sử không chỉ trong SGK!\n\nLịch sử NGAY CẠNH NHÀ BẠN!",
+            "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "TÌM HIỂU QUÊ HƯƠNG 📍\n\n🏛️ Tỉnh/thành của bạn hình thành từ khi nào?\n📜 Tên gọi qua các thời kỳ?\n👑 Những sự kiện lịch sử quan trọng?\n\n→ Mỗi vùng đất đều có câu chuyện riêng!",
+            "note": "Thử tìm hiểu nơi mình sống đi!",
+            "url": "https://vi.wikipedia.org/wiki/Di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "DANH NHÂN ĐỊA PHƯƠNG 🦸\n\nQue nhỏ cũng có người tài!\n\n🎖️ Anh hùng, liệt sĩ\n📚 Nhà văn, nhà thơ\n🏭 Doanh nhân, nhà khoa học\n\n→ Bạn biết danh nhân nào ở quê mình?",
+            "note": "Tự hào về người cùng quê!",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "DI TÍCH LỊCH SỬ 🏛️\n\nĐi một vòng quanh phố...\n\n🏛️ Đình, chùa, đền\n🏠 Nhà cổ, phố cổ\n⛰️ Di tích kháng chiến\n🎭 Lễ hội truyền thống\n\n→ Có thể bạn đi qua mỗi ngày mà không biết!",
+            "note": "Mở mắt ra sẽ thấy lịch sử quanh mình!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CÁCH TÌM HIỂU 🔍\n\n👴 Hỏi ông bà, người già\n📚 Đọc sách địa phương chí\n🏛️ Thăm bảo tàng tỉnh\n🌐 Tìm trên Internet\n📝 Viết bài, làm video\n\n→ Bạn có thể trở thành 'sử gia' của quê mình!",
+            "note": "Ai cũng có thể nghiên cứu lịch sử!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📍 Tìm hiểu lịch sử nơi mình sống\n🦸 Danh nhân địa phương\n🏛️ Di tích quanh nhà\n🔍 Cách tìm hiểu: Hỏi, đọc, thăm, viết\n\n→ HIỂU QUÊ = YÊU QUÊ!"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Lịch sử địa phương là gì?",
+            "options": [
+                "Lịch sử thế giới",
+                "Lịch sử nơi mình sống",
+                "Lịch sử sách giáo khoa",
+                "Lịch sử tưởng tượng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lịch sử địa phương = Lịch sử của tỉnh, thành, làng xã nơi bạn sống!"
+        },
+        {
+            "question": "Tại sao nên tìm hiểu lịch sử địa phương?",
+            "options": [
+                "Để thi",
+                "Để hiểu và yêu quê hương hơn",
+                "Không cần thiết",
+                "Chỉ người già mới cần"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiểu quê hương = Yêu quê hương, tự hào về nguồn cội!"
+        },
+        {
+            "question": "Cách tìm hiểu lịch sử địa phương?",
+            "options": [
+                "Đợi ai đó kể",
+                "Hỏi người già, đọc sách, thăm bảo tàng",
+                "Không có cách nào",
+                "Chờ học ở trường"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhiều cách: hỏi ông bà, đọc địa phương chí, thăm bảo tàng, tìm Internet!"
+        },
+        {
+            "question": "Di tích lịch sử địa phương gồm những gì?",
+            "options": [
+                "Chỉ có chùa",
+                "Đình, chùa, đền, nhà cổ, di tích kháng chiến...",
+                "Chỉ có núi",
+                "Không có gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Di tích rất đa dạng: đình, chùa, đền, nhà cổ, chiến trường xưa..."
+        },
+        {
+            "question": "Bạn có thể làm gì để lưu giữ lịch sử địa phương?",
+            "options": [
+                "Quên đi",
+                "Viết bài, làm video, kể chuyện",
+                "Phá bỏ di tích",
+                "Không làm gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bạn có thể trở thành 'sử gia' bằng cách viết bài, làm video, kể lại câu chuyện quê mình!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam"
+}

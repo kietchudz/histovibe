@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson6",
+    "title": "Bài 8, 9: Kháng chiến chống Mỹ (1954-1975)",
+    "genZTitle": "20 Năm Đánh Cho Mỹ Cút, Ngụy Nhào ✌️",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "KHÁNG CHIẾN CHỐNG MỸ! ✌️\n\n20 năm (1954-1975)\nĐánh bại siêu cường số 1 thế giới!\n\nĐại thắng mùa Xuân 1975!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH 📍\n\n🇺🇸 Mỹ nhảy vào thay Pháp\n🏛️ Dựng chính quyền Sài Gòn (Ngô Đình Diệm)\n✂️ Chia cắt VN tại vĩ tuyến 17\n\n→ Âm mưu: Biến miền Nam thành thuộc địa kiểu mới!",
+            "note": "Mỹ chi 700 tỷ USD cho cuộc chiến!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_T%E1%BA%BFt_M%E1%BA%ADu_Th%C3%A2n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CÁC CHIẾN LƯỢC CỦA MỸ 🎯\n\n1️⃣ Chiến tranh đơn phương\n2️⃣ Chiến tranh đặc biệt (Cố vấn Mỹ)\n3️⃣ Chiến tranh cục bộ (Lính Mỹ trực tiếp)\n4️⃣ Việt Nam hóa (Rút dần, để VNCH đánh)\n\n→ Tất cả đều THẤT BẠI!",
+            "note": "4 đời tổng thống Mỹ, 4 chiến lược, đều thua!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Paris_1973"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TRẬN THEN CHỐT 🔥\n\n🎆 MẬU THÂN 1968:\nĐánh úp toàn miền Nam dịp Tết!\n→ Mỹ lung lay ý chí!\n\n🛩️ ĐIỆN BIÊN PHỦ TRÊN KHÔNG 1972:\nBắn rơi B52 tại Hà Nội (12 ngày đêm)\n→ Mỹ phải ký Paris 1973, RÚT QUÂN!",
+            "note": "Mỹ mất 34 B52 'pháo đài bay'!"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "30/4/1975 - Xe tăng HÚC ĐỔ cổng Dinh Độc Lập!\n\n'NON SÔNG THU VỀ MỘT MỐI!' 🇻🇳",
+            "note": "Chiến dịch Hồ Chí Minh lịch sử!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🇺🇸 Bối cảnh: Mỹ thay Pháp, chia cắt VN\n🔥 Trận then chốt: Mậu Thân, ĐBP trên không\n📜 Paris 1973: Mỹ rút quân\n✌️ 30/4/1975: Thống nhất đất nước!\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Mỹ chia cắt VN tại đâu?",
+            "options": [
+                "Vĩ tuyến 15",
+                "Vĩ tuyến 17",
+                "Vĩ tuyến 20",
+                "Vĩ tuyến 38"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vĩ tuyến 17 (sông Bến Hải) chia cắt VN theo Hiệp định Geneva!"
+        },
+        {
+            "question": "Tết Mậu Thân 1968 có ý nghĩa gì?",
+            "options": [
+                "VN thua",
+                "Làm lung lay ý chí Mỹ",
+                "Mỹ thắng lớn",
+                "Hòa bình"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mậu Thân 1968 làm lung lay ý chí xâm lược của Mỹ, dư luận Mỹ phản đối chiến tranh!"
+        },
+        {
+            "question": "Điện Biên Phủ trên không diễn ra năm nào?",
+            "options": [
+                "1968",
+                "1970",
+                "1972",
+                "1975"
+            ],
+            "correctAnswer": 2,
+            "explanation": "12 ngày đêm tháng 12/1972 - Bắn rơi B52 trên bầu trời Hà Nội!"
+        },
+        {
+            "question": "Hiệp định Paris ký năm nào?",
+            "options": [
+                "1968",
+                "1973",
+                "1975",
+                "1976"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiệp định Paris ký 27/1/1973 - Mỹ phải rút quân khỏi VN!"
+        },
+        {
+            "question": "Sự kiện 30/4/1975 là gì?",
+            "options": [
+                "Ký hiệp định",
+                "Giải phóng miền Nam, thống nhất đất nước",
+                "Mỹ quay lại",
+                "Chia cắt"
+            ],
+            "correctAnswer": 1,
+            "explanation": "30/4/1975 - Chiến dịch Hồ Chí Minh toàn thắng, thống nhất đất nước!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_Nam"
+}

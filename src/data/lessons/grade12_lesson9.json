@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson9",
+    "title": "Bài 12: Hoạt động đối ngoại",
+    "genZTitle": "Ngoại Giao Cây Tre 🎋",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "NGOẠI GIAO CÂY TRE! 🎋\n\nGốc vững - Thân mềm dẻo!\n\nChính sách đối ngoại đặc sắc của Việt Nam!",
+            "url": "https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 2,
+            "type": "quote",
+            "content": "'Dĩ bất biến ứng vạn biến'\n\nGốc = Lợi ích quốc gia (KHÔNG ĐỔI)\nThân = Linh hoạt ứng biến",
+            "note": "Nguyên tắc ngoại giao của Bác Hồ!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_h%E1%BB%99i_c%C3%A1c_qu%E1%BB%91c_gia_%C4%90%C3%B4ng_Nam_%C3%81"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "NGUYÊN TẮC 🎯\n\n✅ Độc lập, tự chủ\n✅ Đa phương hóa, đa dạng hóa\n✅ Hòa bình, hợp tác\n✅ Là bạn, đối tác tin cậy\n\n→ 'VN muốn làm bạn với TẤT CẢ!'",
+            "note": "Không theo phe nào, làm bạn với mọi người!",
+            "url": "https://vi.wikipedia.org/wiki/T%E1%BB%95_ch%E1%BB%A9c_Th%C6%B0%C6%A1ng_m%E1%BA%A1i_Th%E1%BA%BF_gi%E1%BB%9Bi"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "THÀNH TỰU 🏆\n\n🤝 Quan hệ đối tác chiến lược với các nước lớn:\n🇺🇸 Mỹ (từ cựu thù → đối tác)\n🇨🇳 Trung Quốc\n🇷🇺 Nga\n🇯🇵 Nhật Bản\n🇰🇷 Hàn Quốc\n\n→ Vị thế quốc tế ngày càng CAO!",
+            "note": "Từ bị cô lập → quan hệ toàn cầu!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "VAI TRÒ QUỐC TẾ 🌏\n\n🇺🇳 Thành viên HĐBA LHQ (2 lần)\n🏛️ Chủ tịch ASEAN (2010, 2020)\n🕊️ Tham gia Gìn giữ hòa bình LHQ\n🌐 Đăng cai APEC, WEF...\n\n→ Tiếng nói VN được thế giới lắng nghe!",
+            "note": "VN đóng góp tích cực cho hòa bình thế giới!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🎋 Nguyên tắc: Cây tre (gốc vững, thân mềm)\n🤝 Thành tựu: Đối tác chiến lược với Mỹ, TQ, Nga...\n🌏 Vai trò: HĐBA, ASEAN, Gìn giữ hòa bình\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "'Ngoại giao cây tre' nghĩa là gì?",
+            "options": [
+                "Chỉ dùng tre",
+                "Gốc vững (nguyên tắc), thân mềm dẻo (linh hoạt)",
+                "Trồng tre ở biên giới",
+                "Yếu đuối"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gốc vững = Giữ vững nguyên tắc lợi ích quốc gia. Thân mềm = Linh hoạt trong cách ứng xử!"
+        },
+        {
+            "question": "VN có quan hệ đối tác chiến lược với nước nào?",
+            "options": [
+                "Chỉ ASEAN",
+                "Mỹ, Trung Quốc, Nga, Nhật...",
+                "Không có ai",
+                "Chỉ Trung Quốc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN có quan hệ đối tác chiến lược với nhiều nước lớn: Mỹ, TQ, Nga, Nhật, Hàn..."
+        },
+        {
+            "question": "VN làm thành viên HĐBA LHQ mấy lần?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "VN làm thành viên không thường trực HĐBA 2 lần: 2008-2009 và 2020-2021!"
+        },
+        {
+            "question": "'Dĩ bất biến ứng vạn biến' nghĩa gì?",
+            "options": [
+                "Không thay đổi gì",
+                "Lấy cái không đổi (nguyên tắc) ứng phó mọi biến đổi",
+                "Thay đổi liên tục",
+                "Không ứng biến"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Giữ vững nguyên tắc cốt lõi, linh hoạt trong cách ứng xử với tình huống!"
+        },
+        {
+            "question": "VN làm chủ tịch ASEAN năm nào?",
+            "options": [
+                "2005, 2015",
+                "2010, 2020",
+                "2012, 2022",
+                "Chưa bao giờ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN làm Chủ tịch ASEAN năm 2010 và 2020!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam"
+}

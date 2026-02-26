@@ -1,0 +1,102 @@
+{
+    "id": "grade11_lesson10",
+    "title": "Bài 12, 13: Biển Đông & Chủ quyền",
+    "genZTitle": "Biển Đông - Nhà Của Mình, Mình Giữ 🌊",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BIỂN ĐÔNG - CHỦ QUYỀN! 🌊\n\nNhà của mình, MÌNH PHẢI GIỮ!\n\nHoàng Sa & Trường Sa = Lãnh thổ thiêng liêng!",
+            "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "TẦM QUAN TRỌNG 🎯\n\n🚢 Đường hàng hải huyết mạch thế giới\n(1/3 thương mại toàn cầu đi qua!)\n⛽ Giàu dầu khí, hải sản\n🛡️ Cửa ngõ an ninh của VN",
+            "note": "Biển Đông = Yết hầu giao thương thế giới!",
+            "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Ho%C3%A0ng_Sa"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CHỦ QUYỀN VN 🇻🇳\n\nVN có bằng chứng LỊCH SỬ và PHÁP LÝ không thể chối cãi!\n\n📍 Hoàng Sa (Paracel)\n📍 Trường Sa (Spratly)\n\n→ Của Việt Nam từ hàng trăm năm trước!",
+            "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Tr%C6%B0%E1%BB%9Dng_Sa"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "BẰNG CHỨNG 📜\n\n📜 Châu bản triều Nguyễn (văn bản hành chính)\n🗺️ Bản đồ cổ phương Tây (ghi VN sở hữu)\n🪨 Bia chủ quyền\n⛵ Đội Hoàng Sa/Bắc Hải đi khai thác từ thời Nguyễn",
+            "note": "Bằng chứng cụ thể, rõ ràng!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "HIỆN TẠI 🛡️\n\n⚖️ Kiên quyết bảo vệ bằng LUẬT PHÁP QUỐC TẾ\n📜 UNCLOS 1982 (Công ước LHQ về Luật Biển)\n🕊️ Biện pháp HÒA BÌNH\n\n→ Đấu tranh bằng pháp lý, ngoại giao!",
+            "note": "Hòa bình nhưng kiên quyết!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🎯 Tầm quan trọng: Hàng hải, tài nguyên, an ninh\n📜 Bằng chứng: Châu bản, bản đồ, bia\n⚖️ Hiện tại: UNCLOS, biện pháp hòa bình\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Tại sao Biển Đông quan trọng?",
+            "options": [
+                "Có nhiều cá",
+                "Đường hàng hải thế giới, dầu khí, an ninh",
+                "Gần bờ",
+                "Nước trong"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1/3 thương mại toàn cầu đi qua Biển Đông, giàu tài nguyên, quan trọng về an ninh!"
+        },
+        {
+            "question": "Bằng chứng lịch sử nào chứng minh chủ quyền VN?",
+            "options": [
+                "Không có",
+                "Châu bản triều Nguyễn, bản đồ cổ",
+                "Chỉ lời nói",
+                "Truyền thuyết"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Châu bản triều Nguyễn, bản đồ cổ phương Tây, bia chủ quyền, đội Hoàng Sa!"
+        },
+        {
+            "question": "UNCLOS 1982 là gì?",
+            "options": [
+                "Tổ chức quân sự",
+                "Công ước LHQ về Luật Biển",
+                "Hiệp ước thương mại",
+                "Đảng phái"
+            ],
+            "correctAnswer": 1,
+            "explanation": "UNCLOS 1982 = United Nations Convention on the Law of the Sea - Công ước Luật Biển!"
+        },
+        {
+            "question": "VN bảo vệ chủ quyền bằng cách nào?",
+            "options": [
+                "Chiến tranh",
+                "Luật pháp quốc tế và biện pháp hòa bình",
+                "Đầu hàng",
+                "Không làm gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN kiên quyết bảo vệ chủ quyền bằng pháp lý, ngoại giao, hòa bình!"
+        },
+        {
+            "question": "Đội nào đi khai thác Hoàng Sa thời Nguyễn?",
+            "options": [
+                "Đội Thủy quân",
+                "Đội Hoàng Sa/Bắc Hải",
+                "Đội Thương gia",
+                "Không có đội nào"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đội Hoàng Sa và đội Bắc Hải được cử đi khai thác, cắm mốc chủ quyền từ thời Nguyễn!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng"
+}

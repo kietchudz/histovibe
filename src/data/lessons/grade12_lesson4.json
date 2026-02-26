@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson4",
+    "title": "Bài 5: Cách mạng tháng Tám 1945",
+    "genZTitle": "Mùa Thu Lịch Sử - Việt Nam Hồi Sinh ⭐",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CÁCH MẠNG THÁNG TÁM! ⭐\n\nMùa thu 1945 - Việt Nam HỒI SINH!\n\nThời cơ NGÀN NĂM có một!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "THỜI CƠ VÀNG ⏰\n\n📅 15/8/1945: Nhật đầu hàng Đồng minh!\n\n→ Khoảng trống quyền lực!\n→ 'NGÀN NĂM CÓ MỘT'!\n\n→ Phải chớp lấy ngay!",
+            "note": "Thời cơ không chờ đợi ai!",
+            "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "DIỄN BIẾN ⚡\n\n🏛️ Hà Nội: 19/8 - Chiếm Bắc Bộ phủ\n🏯 Huế: 23/8 - Vua Bảo Đại thoái vị\n🌆 Sài Gòn: 25/8 - Giành chính quyền\n\n→ NHANH, GỌN, ÍT ĐỔ MÁU!",
+            "note": "Chỉ 10 ngày giành chính quyền cả nước!",
+            "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_l%E1%BA%ADp_(Vi%E1%BB%87t_Nam)"
+        },
+        {
+            "id": 4,
+            "type": "quote",
+            "content": "2/9/1945 - Bác Hồ đọc TUYÊN NGÔN ĐỘC LẬP tại Ba Đình!\n\n'Tất cả mọi người đều sinh ra có quyền bình đẳng...'",
+            "note": "Nước Việt Nam Dân chủ Cộng hòa ra đời! 🇻🇳"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "Ý NGHĨA 🌟\n\n✅ Chấm dứt 80 năm thực dân Pháp\n✅ Chấm dứt nghìn năm phong kiến\n✅ Mở ra kỷ nguyên ĐỘC LẬP, TỰ DO\n✅ Nhân dân làm chủ vận mệnh",
+            "note": "Bước ngoặt vĩ đại nhất lịch sử VN hiện đại!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n⏰ Thời cơ: Nhật đầu hàng (15/8)\n⚡ Diễn biến: 19/8 → 25/8 (Nhanh, gọn)\n📜 2/9/1945: Tuyên ngôn Độc lập\n🌟 Ý nghĩa: Kỷ nguyên mới!\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Thời cơ CM tháng 8 là gì?",
+            "options": [
+                "Pháp rút quân",
+                "Nhật đầu hàng Đồng minh",
+                "Mỹ ủng hộ",
+                "Liên Xô giúp"
+            ],
+            "correctAnswer": 1,
+            "explanation": "15/8/1945 Nhật đầu hàng tạo khoảng trống quyền lực - thời cơ vàng!"
+        },
+        {
+            "question": "Khởi nghĩa ở Hà Nội ngày nào?",
+            "options": [
+                "15/8",
+                "19/8",
+                "23/8",
+                "2/9"
+            ],
+            "correctAnswer": 1,
+            "explanation": "19/8/1945 - Khởi nghĩa giành chính quyền ở Hà Nội!"
+        },
+        {
+            "question": "Vua nào thoái vị ngày 23/8?",
+            "options": [
+                "Thành Thái",
+                "Duy Tân",
+                "Khải Định",
+                "Bảo Đại"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Vua Bảo Đại thoái vị ngày 23/8/1945 tại Huế!"
+        },
+        {
+            "question": "Tuyên ngôn Độc lập đọc ngày nào?",
+            "options": [
+                "19/8/1945",
+                "25/8/1945",
+                "2/9/1945",
+                "10/9/1945"
+            ],
+            "correctAnswer": 2,
+            "explanation": "2/9/1945 - Bác Hồ đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình!"
+        },
+        {
+            "question": "CM tháng 8 chấm dứt chế độ gì?",
+            "options": [
+                "Chỉ phong kiến",
+                "Chỉ thực dân",
+                "Thực dân và phong kiến",
+                "Tư bản"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CM tháng 8 chấm dứt cả 80 năm thực dân Pháp và nghìn năm phong kiến!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+}

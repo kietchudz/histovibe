@@ -1,0 +1,109 @@
+{
+    "id": "grade10_lesson3",
+    "title": "Bài 3: Sử học với các lĩnh vực khoa học khác",
+    "genZTitle": "Sử Học - 'Trùm Cuối' Đa Ngành 🤝",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Sử học KHÔNG chơi solo! 🎮\n\nĐể tìm ra sự thật, Sử học cần combo với các môn khoa học khác.\n\nTeamwork makes the dream work! 🤜🤛"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "SỬ + KHOA HỌC TỰ NHIÊN 🔬\n\n📅 Dùng C-14 để định tuổi cổ vật\n(Carbon-14 = Đồng hồ tự nhiên của vũ trụ)\n\n🌟 Dùng thiên văn học để tính lịch\n(Biết nhật thực năm nào = Xác định niên đại)",
+            "note": "Không có khoa học = Không biết đồ cổ bao nhiêu tuổi!",
+            "url": "https://vi.wikipedia.org/wiki/Kh%E1%BA%A3o_c%E1%BB%95_h%E1%BB%8Dc"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "SỬ + KHOA HỌC XÃ HỘI 📚\n\n📖 Văn học phản ánh lịch sử\n(Đọc Truyện Kiều = Hiểu xã hội phong kiến)\n\n🗺️ Địa lý quy định lịch sử\n(Sông Hồng → Văn minh lúa nước)\n(Biển → Dân tộc đi biển giỏi)",
+            "note": "Mỗi vùng đất tạo ra lịch sử riêng!",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_h%E1%BB%8Dc"
+        },
+        {
+            "id": 4,
+            "type": "quote",
+            "content": "Sử học và các ngành khác có mối quan hệ TƯƠNG HỖ - Win-Win! 🏆",
+            "note": "Sử học cho data, các ngành khác cho công cụ xác minh"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "Sử học CUNG CẤP gì cho các ngành khác?\n\n📊 Dữ liệu nền tảng\n📈 Xu hướng phát triển\n📋 Bài học kinh nghiệm\n\nKinh tế học, Xã hội học, Chính trị học... đều cần Sử học!",
+            "note": "Muốn dự đoán tương lai → Phải hiểu quá khứ",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_ch%E1%BB%A7ng_h%E1%BB%8Dc"
+        },
+        {
+            "id": 6,
+            "type": "timeline",
+            "content": "1869 | Mendeleev tạo Bảng tuần hoàn (cần biết lịch sử phát hiện nguyên tố)\n1953 | Watson-Crick khám phá ADN (dựa trên các nghiên cứu trước đó)\n2020 | Vaccine COVID (học từ lịch sử dịch bệnh)",
+            "note": "Khoa học luôn kế thừa từ lịch sử!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt bài 3:\n\n🔬 Sử + Tự nhiên = Định tuổi, tính lịch\n📚 Sử + Xã hội = Hiểu văn hóa, địa lý\n🤝 Quan hệ = Tương hỗ, Win-Win\n\nQuiz time! Xem bạn team nào nè! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Phương pháp C-14 dùng để làm gì?",
+            "options": [
+                "Đo nhiệt độ cổ vật",
+                "Định tuổi cổ vật",
+                "Phân tích thành phần hóa học",
+                "Vẽ bản đồ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Carbon-14 như đồng hồ tự nhiên, giúp xác định cổ vật đã tồn tại bao nhiêu năm!"
+        },
+        {
+            "question": "Văn học có vai trò gì với Sử học?",
+            "options": [
+                "Không liên quan",
+                "Phản ánh lịch sử xã hội",
+                "Chỉ để giải trí",
+                "Thay thế Sử học"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đọc Truyện Kiều ta hiểu xã hội phong kiến, đọc thơ Hồ Xuân Hương hiểu tư tưởng thời đó!"
+        },
+        {
+            "question": "Địa lý ảnh hưởng đến lịch sử như thế nào?",
+            "options": [
+                "Không ảnh hưởng gì",
+                "Quy định đặc điểm văn minh của vùng đất",
+                "Chỉ ảnh hưởng thời tiết",
+                "Chỉ ảnh hưởng động vật"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sông Hồng sinh ra văn minh lúa nước, Địa Trung Hải sinh ra thương mại biển - địa lý tạo nên lịch sử!"
+        },
+        {
+            "question": "Mối quan hệ giữa Sử học và các ngành khác là gì?",
+            "options": [
+                "Sử học là trùm cuối, không cần ai",
+                "Tương hỗ, cùng có lợi (Win-Win)",
+                "Các ngành khác không cần Sử học",
+                "Sử học chỉ là môn phụ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sử học cho dữ liệu, các ngành khác cho công cụ - cùng nhau tìm ra sự thật!"
+        },
+        {
+            "question": "Sử học cung cấp gì cho các ngành khoa học khác?",
+            "options": [
+                "Tiền nghiên cứu",
+                "Dữ liệu nền tảng và bài học kinh nghiệm",
+                "Giáo viên",
+                "Phòng thí nghiệm"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Các ngành như Kinh tế, Chính trị đều cần dữ liệu lịch sử để phân tích và dự đoán!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+}

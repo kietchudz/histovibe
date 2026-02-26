@@ -1,0 +1,109 @@
+{
+    "id": "grade11_lesson1",
+    "title": "Bài 1: Cách mạng tư sản (Anh, Mỹ, Pháp)",
+    "genZTitle": "Team Tư Sản Lật Đổ Team Phong Kiến 🔥",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CÁCH MẠNG TƯ SẢN! 🔥\n\nMục tiêu: Đánh đổ chế độ phong kiến (Vua chúa) lỗi thời!\n\nMở đường cho kinh tế thị trường (CNTB) phát triển!"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CÁCH MẠNG ANH (TK 17) 🇬🇧\n\n⚔️ Crom-oen 'xử đẹp' Vua Sác-lơ I (chặt đầu!)\n\n📜 Kết quả: QUÂN CHỦ LẬP HIẾN\n• Vua vẫn còn NHƯNG\n• Quyền lực thuộc về QUỐC HỘI",
+            "note": "Anh là nước CM tư sản đầu tiên!",
+            "url": "https://vi.wikipedia.org/wiki/N%E1%BB%99i_chi%E1%BA%BFn_Anh"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CHIẾN TRANH GIÀNH ĐỘC LẬP MỸ (TK 18) 🇺🇸\n\n13 thuộc địa Anh 'BẬT' lại mẫu quốc!\n\n🦅 Washington gánh team\n📜 Tuyên ngôn độc lập Mỹ ra đời:\n'Ai cũng có quyền mưu cầu hạnh phúc'",
+            "note": "4/7/1776 - Ngày Quốc khánh Mỹ!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%C3%A0nh_%C4%91%E1%BB%99c_l%E1%BA%ADp_Hoa_K%E1%BB%B3"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CÁCH MẠNG PHÁP (1789) 🇫🇷\n\nCuộc CM TRIỆT ĐỂ NHẤT!\n\n🔪 Chặt đầu Vua Louis 16\n🏴 Khẩu hiệu: 'TỰ DO - BÌNH ĐẲNG - BÁC ÁI'\n\n→ Ảnh hưởng toàn thế giới!",
+            "note": "14/7/1789 - Phá ngục Bastille - Quốc khánh Pháp!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Ph%C3%A1p"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "Tự do - Bình đẳng - Bác ái",
+            "note": "Khẩu hiệu bất hủ của CM Pháp 🇫🇷",
+            "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_Nh%C3%A2n_quy%E1%BB%81n_v%C3%A0_D%C3%A2n_quy%E1%BB%81n"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "KẾT QUẢ CHUNG:\n\n✅ Tư sản lên nắm quyền\n✅ Kinh tế CNTB phát triển\n❌ NHƯNG: Dân nghèo vẫn... nghèo 😅\n\n→ Mâu thuẫn mới: Tư sản vs. Vô sản"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🇬🇧 Anh: Quân chủ lập hiến\n🇺🇸 Mỹ: Độc lập, cộng hòa\n🇫🇷 Pháp: Triệt để nhất\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Cách mạng tư sản Anh kết thúc với thể chế nào?",
+            "options": [
+                "Cộng hòa",
+                "Quân chủ lập hiến",
+                "Quân chủ chuyên chế",
+                "Dân chủ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Anh theo Quân chủ lập hiến - Vua còn nhưng quyền lực thuộc Quốc hội!"
+        },
+        {
+            "question": "Ai lãnh đạo chiến tranh giành độc lập Mỹ?",
+            "options": [
+                "Lincoln",
+                "Washington",
+                "Kennedy",
+                "Roosevelt"
+            ],
+            "correctAnswer": 1,
+            "explanation": "George Washington lãnh đạo và trở thành Tổng thống đầu tiên của Mỹ!"
+        },
+        {
+            "question": "Khẩu hiệu của CM Pháp là gì?",
+            "options": [
+                "Độc lập - Tự do",
+                "Tự do - Bình đẳng - Bác ái",
+                "Hòa bình - Phát triển",
+                "Dân chủ - Công bằng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tự do - Bình đẳng - Bác ái là khẩu hiệu bất hủ của CM Pháp!"
+        },
+        {
+            "question": "Vua nào bị chặt đầu trong CM Pháp?",
+            "options": [
+                "Louis 14",
+                "Louis 15",
+                "Louis 16",
+                "Napoleon"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Vua Louis 16 bị xử tử bằng máy chém guillotine năm 1793!"
+        },
+        {
+            "question": "CM tư sản mở đường cho chế độ nào?",
+            "options": [
+                "Phong kiến",
+                "Chủ nghĩa tư bản",
+                "Chủ nghĩa xã hội",
+                "Cộng sản"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CM tư sản lật đổ phong kiến, mở đường cho CNTB phát triển!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_t%C6%B0_s%E1%BA%A3n"
+}

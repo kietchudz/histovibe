@@ -1,0 +1,121 @@
+{
+    "id": "grade10_lesson10",
+    "title": "Bài 10: Văn minh Tây Âu thời Phục hưng",
+    "genZTitle": "Phục Hưng - 'Make Europe Great Again' 🎨",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Renaissance! 🎨\n\nSau 1000 năm 'Đêm trường Trung cổ' (tối tăm, Giáo hội kìm kẹp)...\n\nCon người châu Âu quyết định: 'BUNG LỤA' THÔI! 💃",
+            "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_H%C6%B0ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH - TRUNG CỔ TỐI TĂM 🌑\n\n⛪ Giáo hội thống trị mọi thứ\n📖 Khoa học bị cấm (trái ý giáo hội = bị đốt)\n😔 Con người không được tự do suy nghĩ\n\n→ 1000 năm trì trệ, gọi là 'Đêm trường Trung cổ'",
+            "note": "Trung cổ = Dark Ages (Thời đại đen tối)",
+            "url": "https://vi.wikipedia.org/wiki/Leonardo_da_Vinci"
+        },
+        {
+            "id": 3,
+            "type": "quote",
+            "content": "Phục hưng = KHÔI PHỤC tinh hoa Hy Lạp - La Mã nhưng NÂNG CẤP lên!",
+            "note": "Bình cũ rượu mới - lấy cái hay ngày xưa, thêm cái mới! 🍷",
+            "url": "https://vi.wikipedia.org/wiki/Martin_Luther"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CHỦ NGHĨA NHÂN VĂN 🧠\n\nTư tưởng cốt lõi: Đề cao CON NGƯỜI!\n\n• Trước: Thần thánh là trung tâm\n• Sau: CON NGƯỜI là trung tâm\n\n'Con người có thể làm mọi thứ!'\n'Hãy tận hưởng cuộc sống!'",
+            "note": "Humanism = Chủ nghĩa nhân văn",
+            "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1t_ki%E1%BA%BFn_%C4%91%E1%BB%8Ba_l%C3%BD"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "IDOL PHỤC HƯNG 🌟\n\n🎨 Leonardo da Vinci:\n• Vẽ Mona Lisa (bức tranh nổi tiếng nhất thế giới)\n• Giỏi đủ thứ: họa sĩ, nhà phát minh, kỹ sư...\n\n🗿 Michelangelo:\n• Tạc tượng David (cơ bắp siêu chuẩn)\n• Vẽ trần nhà Sistine Chapel",
+            "note": "Da Vinci là 'người đàn ông hoàn hảo' thời Phục hưng!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "IDOL PHỤC HƯNG (tiếp) 📚\n\n✍️ Shakespeare (William):\n• Viết kịch Romeo & Juliet\n• 'To be or not to be'\n• Cha đẻ của kịch nghệ hiện đại\n\n🔭 Galileo, Copernicus:\n• Chứng minh Trái Đất quay quanh Mặt Trời\n• Bị Giáo hội... ép rút lại 😅"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Ý NGHĨA PHỤC HƯNG 🚀\n\n✅ Giải phóng tư tưởng con người\n✅ Mở đường cho khoa học kỹ thuật\n✅ Đặt nền móng cho xã hội hiện đại\n✅ Nghệ thuật đạt đỉnh cao mới\n\n→ Châu Âu bắt đầu vượt lên thế giới!",
+            "note": "Không có Phục hưng = Không có thế giới hiện đại!"
+        },
+        {
+            "id": 8,
+            "type": "timeline",
+            "content": "1300 | Phục hưng bắt đầu ở Ý (Florence)\n1503 | Da Vinci vẽ Mona Lisa 🎨\n1508 | Michelangelo vẽ Sistine Chapel\n1600 | Shakespeare viết Hamlet ✍️",
+            "note": "Phục hưng kéo dài khoảng 300 năm!"
+        },
+        {
+            "id": 9,
+            "type": "text",
+            "content": "Tóm tắt bài 10:\n\n🌑 Bối cảnh: Sau 1000 năm Trung cổ tối tăm\n🧠 Tư tưởng: Chủ nghĩa nhân văn - đề cao con người\n🎨 Nghệ thuật: Da Vinci, Michelangelo, Shakespeare\n🚀 Ý nghĩa: Mở đường cho thế giới hiện đại\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "'Đêm trường Trung cổ' ám chỉ điều gì?",
+            "options": [
+                "Châu Âu thiếu điện",
+                "Thời kỳ Giáo hội thống trị, tư tưởng bị kìm kẹp",
+                "Châu Âu có nhiều đêm",
+                "Thời kỳ phát triển rực rỡ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Trung cổ gọi là 'Dark Ages' vì Giáo hội kìm kẹp tư tưởng, khoa học bị cấm!"
+        },
+        {
+            "question": "Chủ nghĩa nhân văn đề cao điều gì?",
+            "options": [
+                "Thần thánh",
+                "Con người",
+                "Vua chúa",
+                "Giáo hội"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhân văn (Humanism) = Đề cao giá trị CON NGƯỜI thay vì thần thánh!"
+        },
+        {
+            "question": "Leonardo da Vinci nổi tiếng với tác phẩm nào?",
+            "options": [
+                "Tượng David",
+                "Mona Lisa",
+                "Romeo & Juliet",
+                "Hamlet"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mona Lisa của Da Vinci là bức tranh nổi tiếng nhất thế giới!"
+        },
+        {
+            "question": "Phục hưng có ý nghĩa gì?",
+            "options": [
+                "Quay lại thời Trung cổ",
+                "Khôi phục và nâng cấp tinh hoa Hy Lạp - La Mã",
+                "Đốt hết sách cũ",
+                "Xây thêm nhà thờ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phục hưng = Renaissance = Khôi phục tinh hoa cổ đại + thêm tư tưởng nhân văn mới!"
+        },
+        {
+            "question": "Ai là tác giả của vở kịch 'Romeo & Juliet'?",
+            "options": [
+                "Leonardo da Vinci",
+                "Michelangelo",
+                "Shakespeare",
+                "Galileo"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Shakespeare là nhà soạn kịch vĩ đại, viết Romeo & Juliet và nhiều tác phẩm để đời!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_H%C6%B0ng"
+}

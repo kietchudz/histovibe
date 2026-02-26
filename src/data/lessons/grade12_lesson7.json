@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson7",
+    "title": "Bài 10: Thống nhất đất nước & Đổi mới (1975-1991)",
+    "genZTitle": "Gian Nan Hậu Chiến & Cú Quay Xe 'Đổi Mới' 🔄",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "SAU 1975 - ĐỔI MỚI! 🔄\n\nThống nhất → Khó khăn → ĐỔI MỚI!\n\nCú 'quay xe' lịch sử năm 1986!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_30_th%C3%A1ng_4_n%C4%83m_1975"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "THỐNG NHẤT NHÀ NƯỚC 🇻🇳\n\n📅 1976: Tổng tuyển cử toàn quốc\n🏛️ Nước CHXHCN Việt Nam ra đời\n🏙️ Sài Gòn → TP Hồ Chí Minh\n\n→ Một quốc gia, một chính phủ!",
+            "note": "Kết thúc chia cắt hơn 20 năm!",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "KHÓ KHĂN CHỒNG CHẤT 😰\n\n⚔️ Chiến tranh biên giới Tây Nam (Pol Pot)\n⚔️ Chiến tranh biên giới phía Bắc (1979)\n🚫 Mỹ CẤM VẬN\n📉 Cơ chế BAO CẤP trì trệ\n\n→ Kinh tế kiệt quệ, đời sống khó khăn!",
+            "note": "Vừa hết chiến tranh lại đánh tiếp!",
+            "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "ĐẠI HỘI VI (1986) - ĐỔI MỚI! 🚀\n\n'NHÌN THẲNG VÀO SỰ THẬT!'\n\n🔄 Từ BAO CẤP → KINH TẾ THỊ TRƯỜNG\n(Định hướng XHCN)\n\n→ Cú 'quay xe' cứu đất nước!",
+            "note": "Đổi mới hay là chết!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "THÀNH QUẢ BAN ĐẦU ✅\n\n✅ Xóa bỏ tem phiếu\n✅ Lạm phát giảm (từ 700% → 30%)\n✅ Đời sống dễ thở hơn\n✅ Bắt đầu xuất khẩu gạo (1989)\n\n→ Đổi mới đúng hướng!",
+            "note": "Từ đói ăn → xuất khẩu gạo!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🇻🇳 1976: Thống nhất nhà nước\n😰 Khó khăn: Chiến tranh, cấm vận, bao cấp\n🚀 1986: Đổi mới\n✅ Thành quả: Xóa tem phiếu, xuất khẩu gạo\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Nước CHXHCN Việt Nam ra đời năm nào?",
+            "options": [
+                "1975",
+                "1976",
+                "1986",
+                "1991"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1976 - Sau tổng tuyển cử, nước Cộng hòa xã hội chủ nghĩa Việt Nam ra đời!"
+        },
+        {
+            "question": "Đại hội VI (1986) quyết định điều gì?",
+            "options": [
+                "Tiếp tục bao cấp",
+                "Đổi mới kinh tế",
+                "Đóng cửa đất nước",
+                "Chiến tranh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đại hội VI quyết định Đổi mới - chuyển sang kinh tế thị trường!"
+        },
+        {
+            "question": "Khó khăn sau 1975 gồm những gì?",
+            "options": [
+                "Kinh tế phát triển",
+                "Chiến tranh biên giới, cấm vận, bao cấp",
+                "Hòa bình hoàn toàn",
+                "Được viện trợ nhiều"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vừa thống nhất đã phải đối mặt chiến tranh biên giới, Mỹ cấm vận, bao cấp trì trệ!"
+        },
+        {
+            "question": "Cơ chế bao cấp có đặc điểm gì?",
+            "options": [
+                "Kinh tế thị trường",
+                "Nhà nước phân phối mọi thứ, tem phiếu",
+                "Tự do kinh doanh",
+                "Xuất khẩu mạnh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bao cấp = Nhà nước quản lý, phân phối, dùng tem phiếu - không hiệu quả!"
+        },
+        {
+            "question": "VN bắt đầu xuất khẩu gạo năm nào?",
+            "options": [
+                "1975",
+                "1980",
+                "1989",
+                "2000"
+            ],
+            "correctAnswer": 2,
+            "explanation": "1989 - Từ nước đói ăn, VN xuất khẩu gạo nhờ Đổi mới!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_30_th%C3%A1ng_4_n%C4%83m_1975"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "grade11_lesson11",
+    "title": "Bài 10: Cải cách Lê Thánh Tông",
+    "genZTitle": "Lê Thánh Tông - CEO Hoàn Hảo 👑",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "LÊ THÁNH TÔNG! 👑\n\nVị vua CẢI CÁCH TOÀN DIỆN nhất lịch sử!\n\nĐưa Đại Việt lên ĐỈNH CAO!",
+            "url": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH 📍\n\n📅 Thời Lê Sơ (1460-1497)\n✅ Sau chiến thắng quân Minh\n✅ Đất nước cần ổn định, phát triển\n\n→ Lê Thánh Tông tiến hành cải cách!",
+            "note": "38 năm trị vì - dài nhất thời Lê!",
+            "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_H%E1%BB%93ng_%C4%90%E1%BB%A9c"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "LUẬT PHÁP - LUẬT HỒNG ĐỨC ⚖️\n\nBộ luật HOÀN CHỈNH NHẤT Việt Nam!\n\n✅ Bảo vệ quyền lợi PHỤ NỮ\n✅ Bảo vệ người yếu thế\n✅ Nghiêm trị tham nhũng\n\n→ Tiến bộ hơn cả luật phương Tây cùng thời!",
+            "note": "Phụ nữ được quyền ly hôn, thừa kế!",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "HÀNH CHÍNH 🏛️\n\n🗺️ Chia nước thành 13 đạo thừa tuyên\n👔 Bộ máy quan lại hoàn chỉnh\n👁️ Tập quyền cao độ (vua nắm tất cả)\n\n→ Quản lý hiệu quả từ trung ương đến địa phương!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "GIÁO DỤC & VĂN HÓA 🎓\n\n📚 Khoa cử nghiêm ngặt\n🏛️ Mở rộng Quốc Tử Giám\n📜 Dựng bia tiến sĩ\n\n'Hiền tài là nguyên khí quốc gia!'",
+            "note": "Trọng dụng người tài!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n⚖️ Luật Hồng Đức: Bảo vệ phụ nữ, tiến bộ\n🏛️ Hành chính: 13 đạo, tập quyền\n🎓 Giáo dục: Khoa cử nghiêm ngặt\n\n→ Thời kỳ THỊNH TRỊ NHẤT!\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Lê Thánh Tông trị vì bao nhiêu năm?",
+            "options": [
+                "10 năm",
+                "20 năm",
+                "38 năm",
+                "50 năm"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lê Thánh Tông trị vì 38 năm (1460-1497) - dài nhất thời Lê!"
+        },
+        {
+            "question": "Luật Hồng Đức có điểm tiến bộ gì?",
+            "options": [
+                "Chỉ bảo vệ vua",
+                "Bảo vệ quyền lợi phụ nữ",
+                "Không có gì tiến bộ",
+                "Chỉ dành cho quan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Luật Hồng Đức bảo vệ phụ nữ: quyền ly hôn, thừa kế - tiến bộ hơn cả phương Tây!"
+        },
+        {
+            "question": "Lê Thánh Tông chia nước thành mấy đạo?",
+            "options": [
+                "10 đạo",
+                "13 đạo",
+                "15 đạo",
+                "20 đạo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chia thành 13 đạo thừa tuyên để quản lý hiệu quả!"
+        },
+        {
+            "question": "'Hiền tài là nguyên khí quốc gia' nghĩa gì?",
+            "options": [
+                "Không cần người tài",
+                "Người tài là sức mạnh của nước",
+                "Chỉ cần tiền",
+                "Chỉ cần quân đội"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Người tài là sức mạnh cốt lõi làm nên sự thịnh vượng quốc gia!"
+        },
+        {
+            "question": "Thời Lê Thánh Tông được gọi là gì?",
+            "options": [
+                "Thời loạn",
+                "Thời thịnh trị",
+                "Thời suy",
+                "Thời chiến"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thời Lê Thánh Tông là thời kỳ thịnh trị nhất của Đại Việt!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+}

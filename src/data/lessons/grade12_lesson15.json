@@ -1,0 +1,107 @@
+{
+    "id": "grade12_lesson15",
+    "title": "Bài 9: Đại thắng mùa Xuân 1975",
+    "genZTitle": "30/4/1975 - Ngày Lịch Sử ✌️",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ĐẠI THẮNG MÙA XUÂN 1975! ✌️\n\nChiến dịch Hồ Chí Minh lịch sử!\n\nXe tăng húc đổ cổng Dinh Độc Lập!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH 📍\n\n📅 1973: Hiệp định Paris - Mỹ rút quân\n😰 VNCH: Mất chỗ dựa, tinh thần lung lay\n💪 Ta: Chuẩn bị tổng tiến công\n\n→ Thời cơ chiến lược!",
+            "note": "Mỹ rút quân nhưng vẫn viện trợ VNCH!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_Nguy%C3%AAn"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CÁC CHIẾN DỊCH 🔥\n\n1️⃣ TÂY NGUYÊN (4-24/3): Giải phóng Buôn Ma Thuột → VNCH vỡ trận\n2️⃣ HUẾ - ĐÀ NẴNG (21-29/3): Giải phóng miền Trung\n3️⃣ HỒ CHÍ MINH (26/4-30/4): Tổng tiến công Sài Gòn!",
+            "note": "55 ngày đêm thần tốc!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_30_th%C3%A1ng_4_n%C4%83m_1975"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CHIẾN DỊCH HỒ CHÍ MINH 🎯\n\n⏰ 17h ngày 26/4: Bắt đầu\n🎯 5 mũi tiến công Sài Gòn\n🏛️ Mục tiêu: Dinh Độc Lập, Đài phát thanh, Bộ Tổng Tham mưu...\n\n→ Đánh nhanh, thắng nhanh!"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "11h30 ngày 30/4/1975\n\nXe tăng 843 húc đổ cổng Dinh Độc Lập!\n\nDương Văn Minh tuyên bố đầu hàng vô điều kiện! 🇻🇳",
+            "note": "Kết thúc 21 năm chia cắt!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Ý NGHĨA 🌟\n\n✅ Thống nhất đất nước\n✅ Chấm dứt 30 năm chiến tranh\n✅ Mở ra kỷ nguyên mới: Độc lập, thống nhất\n✅ Đánh bại siêu cường số 1 thế giới\n\n→ 'NON SÔNG THU VỀ MỘT MỐI'!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🔥 Tây Nguyên → Huế-Đà Nẵng → HCM\n📅 30/4/1975, 11h30: Thống nhất\n🌟 Ý nghĩa: Kết thúc chia cắt, độc lập hoàn toàn\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Chiến dịch mở màn Đại thắng mùa Xuân là gì?",
+            "options": [
+                "Huế-Đà Nẵng",
+                "Tây Nguyên",
+                "Hồ Chí Minh",
+                "Sài Gòn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chiến dịch Tây Nguyên (4-24/3/1975) mở màn, giải phóng Buôn Ma Thuột!"
+        },
+        {
+            "question": "Xe tăng nào húc đổ cổng Dinh Độc Lập?",
+            "options": [
+                "Xe 390",
+                "Xe 843",
+                "Xe 101",
+                "Xe 555"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Xe tăng 843 (Lữ đoàn 203) húc đổ cổng Dinh Độc Lập!"
+        },
+        {
+            "question": "Ai tuyên bố đầu hàng ngày 30/4/1975?",
+            "options": [
+                "Ngô Đình Diệm",
+                "Nguyễn Văn Thiệu",
+                "Dương Văn Minh",
+                "Trần Văn Hương"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tổng thống Dương Văn Minh tuyên bố đầu hàng vô điều kiện lúc 11h30!"
+        },
+        {
+            "question": "Đại thắng mùa Xuân kéo dài bao lâu?",
+            "options": [
+                "30 ngày",
+                "55 ngày",
+                "100 ngày",
+                "365 ngày"
+            ],
+            "correctAnswer": 1,
+            "explanation": "55 ngày đêm từ 4/3 đến 30/4/1975!"
+        },
+        {
+            "question": "Ngày 30/4 hàng năm là ngày gì?",
+            "options": [
+                "Quốc khánh",
+                "Giải phóng miền Nam, thống nhất đất nước",
+                "Sinh nhật Bác",
+                "Ngày Lao động"
+            ],
+            "correctAnswer": 1,
+            "explanation": "30/4 là ngày Giải phóng miền Nam, thống nhất đất nước!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh"
+}

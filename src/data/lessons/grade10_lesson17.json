@@ -1,0 +1,104 @@
+{
+    "id": "grade10_lesson17",
+    "title": "Bài 17: Văn minh Đại Việt (P2: Văn hóa - Giáo dục)",
+    "genZTitle": "Đại Việt - Văn Hiến Ngàn Năm 📚",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ĐẠI VIỆT - Văn hiến ngàn năm! 📚\n\n'Văn hiến chi bang' - Nước có nền văn hiến!\n\nTừ Phật giáo đến Nho giáo, từ chữ Hán đến chữ Nôm...",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_h%E1%BB%8Da_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "TƯ TƯỞNG - TAM GIÁO ĐỒNG NGUYÊN 🙏\n\nNho - Phật - Đạo CÙNG TỒN TẠI!\n\n☸️ Lý-Trần: Phật giáo cực thịnh\n📚 Lê sơ: Nho giáo ĐỘC TÔN\n🕉️ Đạo giáo: Ảnh hưởng dân gian",
+            "note": "Người Việt dung hòa các tôn giáo!",
+            "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "GIÁO DỤC - KHOA CỬ 🎓\n\nThi để làm quan!\n\n📝 Thi Hương → Thi Hội → Thi Đình\n🏆 Trạng nguyên = Số 1\n🏛️ Văn Miếu - Quốc Tử Giám = Trường ĐH đầu tiên\n📜 Bia Tiến sĩ = Vinh danh hiền tài",
+            "note": "'Hiền tài là nguyên khí quốc gia'",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VĂN HỌC ✍️\n\n🈯 Chữ Hán: Dùng trong triều đình\n🇻🇳 Chữ Nôm: Chữ của người Việt\n\n📜 Tác phẩm để đời:\n• 'Nam quốc sơn hà' - Tuyên ngôn độc lập\n• 'Bình Ngô đại cáo' - Nguyễn Trãi",
+            "note": "Chữ Nôm = Tự hào dân tộc!",
+            "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "NGHỆ THUẬT 🎭\n\n🎭 Chèo, Tuồng, Rối nước\n🏛️ Kiến trúc: Chùa Một Cột, Kinh thành Huế\n🎨 Điêu khắc: Rồng, Phượng đặc sắc",
+            "note": "Rối nước = Nghệ thuật độc đáo chỉ VN có!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🙏 Tư tưởng: Tam giáo đồng nguyên\n🎓 Giáo dục: Khoa cử, Văn Miếu\n✍️ Văn học: Chữ Hán, Chữ Nôm\n🎭 Nghệ thuật: Chèo, Tuồng, Rối nước\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "'Tam giáo đồng nguyên' là gì?",
+            "options": [
+                "3 nhà vua",
+                "Nho-Phật-Đạo cùng tồn tại",
+                "3 bộ luật",
+                "3 kinh đô"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tam giáo đồng nguyên = Nho giáo, Phật giáo, Đạo giáo cùng tồn tại hài hòa!"
+        },
+        {
+            "question": "Văn Miếu - Quốc Tử Giám là gì?",
+            "options": [
+                "Chùa thờ Phật",
+                "Trường đại học đầu tiên",
+                "Cung điện vua",
+                "Thương cảng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Văn Miếu - Quốc Tử Giám là trường đại học đầu tiên của Việt Nam!"
+        },
+        {
+            "question": "Chữ Nôm là gì?",
+            "options": [
+                "Chữ Trung Quốc",
+                "Chữ viết do người Việt sáng tạo",
+                "Chữ Ấn Độ",
+                "Chữ Champa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chữ Nôm do người Việt sáng tạo dựa trên chữ Hán để ghi tiếng Việt!"
+        },
+        {
+            "question": "'Bình Ngô đại cáo' do ai viết?",
+            "options": [
+                "Lê Lợi",
+                "Nguyễn Trãi",
+                "Trần Hưng Đạo",
+                "Lý Thường Kiệt"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nguyễn Trãi viết 'Bình Ngô đại cáo' - bản tuyên ngôn độc lập thứ 2!"
+        },
+        {
+            "question": "Nghệ thuật nào chỉ Việt Nam có?",
+            "options": [
+                "Kinh kịch",
+                "Rối nước",
+                "Opera",
+                "Ballet"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Múa rối nước là nghệ thuật độc đáo chỉ Việt Nam mới có!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+}

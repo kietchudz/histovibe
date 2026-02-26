@@ -1,0 +1,102 @@
+{
+    "id": "grade10_lesson15",
+    "title": "Bài 15: Văn minh Phù Nam",
+    "genZTitle": "Đế Chế Thương Mại Vùng Sông Nước 🚢",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "PHÙ NAM - Vương quốc sông nước! 🚢\n\nNằm ở Nam Bộ ngày nay!\n\nThương cảng Óc Eo từng sầm uất nhất ĐNÁ!",
+            "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "ĐỊA BÀN 📍\n\nNam Bộ ngày nay\n(Đồng bằng sông Cửu Long)\n\n🌊 Vùng sông nước, kênh rạch\n🚢 Vị trí chiến lược trên đường biển",
+            "note": "Di tích Óc Eo ở An Giang!",
+            "url": "https://vi.wikipedia.org/wiki/%C3%93c_Eo"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "KINH TẾ - THƯƠNG CẢNG ÓC EO 🏆\n\nSầm uất nhất khu vực!\n\n🇮🇳 Giao thương với Ấn Độ\n🇨🇳 Giao thương với Trung Quốc\n🏛️ Thậm chí cả La Mã!\n\n→ 'Hub' thương mại quốc tế!",
+            "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VĂN HÓA 🏠\n\n🏠 Ở nhà sàn trên cọc (chống ngập)\n💍 Giỏi làm đồ trang sức vàng, đá quý\n🙏 Ảnh hưởng Ấn Độ (Phật giáo, Bà La Môn)",
+            "note": "Đồ vàng Óc Eo rất tinh xảo!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "KẾT CỤC 📉\n\n⚔️ Suy yếu vào thế kỷ VI-VII\n🏴 Bị Chân Lạp (Campuchia) thôn tính\n\n→ Nhưng để lại di sản văn hóa quý giá!",
+            "note": "Phù Nam tồn tại khoảng 500 năm!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📍 Địa bàn: Nam Bộ (ĐBSCL)\n🚢 Kinh tế: Thương cảng Óc Eo sầm uất\n🏠 Văn hóa: Nhà sàn, đồ vàng\n📉 Kết cục: Suy yếu, sáp nhập Chân Lạp\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Phù Nam nằm ở vùng nào của Việt Nam?",
+            "options": [
+                "Bắc Bộ",
+                "Trung Bộ",
+                "Nam Bộ",
+                "Tây Nguyên"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Phù Nam nằm ở Nam Bộ - vùng Đồng bằng sông Cửu Long!"
+        },
+        {
+            "question": "Óc Eo nổi tiếng vì điều gì?",
+            "options": [
+                "Kim tự tháp",
+                "Thương cảng sầm uất nhất ĐNÁ",
+                "Rừng rậm",
+                "Núi cao"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Óc Eo là thương cảng quốc tế, giao thương với cả La Mã!"
+        },
+        {
+            "question": "Phù Nam giao thương với những nơi nào?",
+            "options": [
+                "Chỉ VN",
+                "Ấn Độ, Trung Quốc, La Mã",
+                "Chỉ Trung Quốc",
+                "Châu Mỹ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phù Nam giao thương rộng rãi với Ấn Độ, Trung Quốc, thậm chí La Mã!"
+        },
+        {
+            "question": "Người Phù Nam giỏi nghề gì?",
+            "options": [
+                "Đúc đồng",
+                "Làm đồ trang sức vàng",
+                "Xây kim tự tháp",
+                "Làm giấy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Người Phù Nam rất giỏi làm đồ trang sức vàng, đá quý!"
+        },
+        {
+            "question": "Phù Nam bị thôn tính bởi ai?",
+            "options": [
+                "Champa",
+                "Đại Việt",
+                "Chân Lạp",
+                "Trung Quốc"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Phù Nam suy yếu và bị Chân Lạp (Campuchia cổ) thôn tính!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam"
+}

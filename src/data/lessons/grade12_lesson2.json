@@ -1,0 +1,102 @@
+{
+    "id": "grade12_lesson2",
+    "title": "Bài 2: Trật tự thế giới sau Chiến tranh lạnh",
+    "genZTitle": "Từ 'Hai Cực' Sang 'Đa Cực' 🌏",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "TRẬT TỰ THẾ GIỚI! 🌏\n\nTừ 2 siêu cường (Mỹ vs Liên Xô)\n→ Nhiều 'ông lớn' cùng chơi!\n\nĐa cực hóa!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CHIẾN TRANH LẠNH (1947-1989) ❄️\n\n🇺🇸 Mỹ (Tư bản) vs 🇷🇺 Liên Xô (XHCN)\n\n⚔️ Chạy đua vũ trang căng thẳng\n❌ NHƯNG không đánh nhau trực diện\n→ Gọi là 'LẠNH' vì không nổ súng trực tiếp!",
+            "note": "Căng thẳng tột độ nhưng không hot war!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_tan_r%C3%A3_c%E1%BB%A7a_Li%C3%AAn_X%C3%B4"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "SAU 1991 📉\n\n💥 Liên Xô tan rã (1991)\n→ Trật tự 'HAI CỰC' I-an-ta sụp đổ!\n→ Mỹ tạm thời 'một mình một sân'",
+            "note": "Mỹ là siêu cường duy nhất còn lại!",
+            "url": "https://vi.wikipedia.org/wiki/To%C3%A0n_c%E1%BA%A7u_h%C3%B3a"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "HIỆN TẠI - ĐA CỰC 🌐\n\nNhiều 'ông lớn' cùng có tiếng nói:\n\n🇺🇸 Mỹ, 🇪🇺 EU, 🇨🇳 Trung Quốc\n🇷🇺 Nga, 🇯🇵 Nhật, 🇮🇳 Ấn Độ\n\n→ Không ai 'thống trị' 100%!",
+            "note": "Thế giới đa cực = Nhiều trung tâm quyền lực!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "XU THẾ CHỦ ĐẠO 🕊️\n\n✅ Hòa bình, hợp tác phát triển\n✅ Toàn cầu hóa kinh tế\n✅ Đối thoại thay vì đối đầu\n\n→ Xu thế tích cực dù còn xung đột cục bộ!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n❄️ Chiến tranh lạnh: Mỹ vs Liên Xô\n💥 1991: Liên Xô tan → Hai cực đổ\n🌐 Hiện tại: Đa cực (nhiều ông lớn)\n🕊️ Xu thế: Hòa bình, hợp tác\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Chiến tranh lạnh giữa ai?",
+            "options": [
+                "Anh-Pháp",
+                "Mỹ-Liên Xô",
+                "Đức-Nhật",
+                "Trung-Ấn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chiến tranh lạnh = Mỹ (tư bản) vs Liên Xô (XHCN) từ 1947-1989!"
+        },
+        {
+            "question": "'Chiến tranh lạnh' nghĩa là gì?",
+            "options": [
+                "Đánh nhau ở vùng lạnh",
+                "Căng thẳng nhưng không đánh trực tiếp",
+                "Chiến tranh về kinh tế",
+                "Chiến tranh ngắn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lạnh = Không 'nóng' (không đánh trực tiếp) nhưng căng thẳng tột độ!"
+        },
+        {
+            "question": "Trật tự hai cực sụp đổ khi nào?",
+            "options": [
+                "1945",
+                "1975",
+                "1991",
+                "2000"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Liên Xô tan rã năm 1991 → Trật tự hai cực I-an-ta sụp đổ!"
+        },
+        {
+            "question": "Thế giới hiện nay theo trật tự gì?",
+            "options": [
+                "Một cực",
+                "Hai cực",
+                "Đa cực",
+                "Không có trật tự"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Đa cực = Nhiều trung tâm quyền lực: Mỹ, EU, Trung Quốc, Nga, Nhật, Ấn..."
+        },
+        {
+            "question": "Xu thế chủ đạo hiện nay là gì?",
+            "options": [
+                "Chiến tranh",
+                "Hòa bình, hợp tác phát triển",
+                "Cô lập",
+                "Đối đầu"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Xu thế chủ đạo: Hòa bình, hợp tác, toàn cầu hóa kinh tế!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADt_t%E1%BB%B1_th%E1%BA%BF_gi%E1%BB%9Bi_m%E1%BB%9Bi"
+}

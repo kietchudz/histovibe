@@ -1,0 +1,104 @@
+{
+    "id": "grade11_lesson7",
+    "title": "Bài 7: Chiến tranh bảo vệ Tổ quốc trong lịch sử VN (Trước 1945)",
+    "genZTitle": "Những Cuộc 'Va Chạm' Lịch Sử ⚔️",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BẢO VỆ TỔ QUỐC! ⚔️\n\nVN luôn phải chống kẻ thù TO HƠN gấp nhiều lần!\n\nTống, Nguyên, Minh, Thanh... tất cả đều thua!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CHỐNG TỐNG (Nhà Lý) 🏹\n\n🦸 Lý Thường Kiệt chủ động TẤN CÔNG:\n'Tiên phát chế nhân' - Ra tay trước!\n\n📍 Sông Như Nguyệt: Mồ chôn quân xâm lược!\n📜 'Nam quốc sơn hà' - Tuyên ngôn độc lập đầu tiên!",
+            "note": "Đánh trước khi địch chuẩn bị xong!",
+            "url": "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CHỐNG NGUYÊN (Nhà Trần) 🔥\n\n3 lần thắng quân Mông Cổ HUNG HÃN NHẤT thế giới!\n\n🦸 Trần Hưng Đạo\n🏠 'Vườn không nhà trống'\n💪 'Hào khí Đông A'\n🔥 Cọc Bạch Đằng",
+            "note": "Quân Nguyên chinh phục cả châu Âu mà thua VN 3 lần!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CHỐNG MINH ⚔️\n\n❌ Nhà Hồ (Hồ Quý Ly): THẤT BẠI vì mất lòng dân!\n\n✅ Lê Lợi - Nguyễn Trãi:\n• Khởi nghĩa Lam Sơn (10 năm gian khổ)\n• Chi Lăng - Xương Giang đại thắng\n• 'Bình Ngô đại cáo'",
+            "note": "Không có dân thì không thắng được!",
+            "url": "https://vi.wikipedia.org/wiki/Quang_Trung"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CHỐNG THANH (Tây Sơn) ⚡\n\n🦸 Quang Trung - Nguyễn Huệ\n\n⚡ THẦN TỐC tiến quân dịp Tết Kỷ Dậu (1789)\n💥 Đánh tan 29 VẠN quân Thanh\n🏆 Giải phóng Thăng Long!\n\n5 ngày đêm xong!",
+            "note": "Tốc độ hành quân nhanh nhất lịch sử!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🏹 Chống Tống: Lý Thường Kiệt\n🔥 Chống Nguyên: Trần Hưng Đạo (3-0)\n⚔️ Chống Minh: Lê Lợi - Nguyễn Trãi\n⚡ Chống Thanh: Quang Trung (Thần tốc)\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "'Nam quốc sơn hà' được viết trong cuộc kháng chiến nào?",
+            "options": [
+                "Chống Nguyên",
+                "Chống Tống",
+                "Chống Minh",
+                "Chống Thanh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "'Nam quốc sơn hà' được cho là của Lý Thường Kiệt, viết khi chống Tống!"
+        },
+        {
+            "question": "Ai lãnh đạo 3 lần đánh thắng quân Nguyên?",
+            "options": [
+                "Lý Thường Kiệt",
+                "Trần Hưng Đạo",
+                "Lê Lợi",
+                "Quang Trung"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Trần Hưng Đạo lãnh đạo quân dân nhà Trần 3 lần đánh bại quân Nguyên!"
+        },
+        {
+            "question": "Tại sao nhà Hồ thất bại trước quân Minh?",
+            "options": [
+                "Vũ khí yếu",
+                "Mất lòng dân",
+                "Quân ít",
+                "Địa hình khó"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhà Hồ cải cách vội vàng, mất lòng dân nên không có dân hỗ trợ!"
+        },
+        {
+            "question": "Quang Trung đánh tan bao nhiêu quân Thanh?",
+            "options": [
+                "10 vạn",
+                "20 vạn",
+                "29 vạn",
+                "50 vạn"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Quang Trung đánh tan 29 vạn quân Thanh trong dịp Tết Kỷ Dậu 1789!"
+        },
+        {
+            "question": "'Tiên phát chế nhân' nghĩa là gì?",
+            "options": [
+                "Chờ địch đánh trước",
+                "Ra tay trước để kiểm soát",
+                "Hòa đàm",
+                "Rút lui"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tiên phát chế nhân = Ra tay trước để kiểm soát, không để địch chuẩn bị!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_qu%C3%A2n_s%E1%BB%B1_Vi%E1%BB%87t_Nam"
+}

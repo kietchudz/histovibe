@@ -1,0 +1,104 @@
+{
+    "id": "grade11_lesson8",
+    "title": "Bài 8: Nghệ thuật quân sự Việt Nam",
+    "genZTitle": "Binh Pháp Việt Nam - Lấy Nhỏ Thắng Lớn 🧠",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BINH PHÁP VIỆT NAM! 🧠\n\nLấy ít địch nhiều, lấy yếu chống mạnh!\n\nSmart fighting > Brute force!",
+            "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_thu%E1%BA%ADt_qu%C3%A2n_s%E1%BB%B1"
+        },
+        {
+            "id": 2,
+            "type": "quote",
+            "content": "Lấy ít địch nhiều, lấy yếu chống mạnh!\nCHIẾN TRANH NHÂN DÂN = Cả nước cùng đánh!",
+            "note": "Tư tưởng cốt lõi của binh pháp VN",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "TIÊN PHÁT CHẾ NHÂN 🏹\n\n= Ra tay TRƯỚC để chặn thế mạnh của địch!\n\n🦸 Lý Thường Kiệt:\nĐánh sang đất Tống → Phá tan kho lương\n→ Địch hết phương tiện đánh ta!",
+            "note": "Phòng thủ bằng cách tấn công trước!",
+            "url": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VƯỜN KHÔNG NHÀ TRỐNG 🏚️\n\n= Không để lại GÌ cho địch!\n\n🦸 Nhà Trần vs. Quân Nguyên:\n❌ Lương thực, nhà cửa... đốt hết\n→ Địch đói, mệt, bệnh\n→ Tự rút lui!",
+            "note": "Để địch tự thua vì logistics!",
+            "url": "https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "ĐÁNH DU KÍCH 🌿\n\n= Ẩn nấp, đánh bất ngờ, đánh lâu dài!\n\n• Bám dân, dựa vào dân\n• Đánh nhanh, rút gọn\n• 'Đống rơm cũng có thể đánh giặc'\n\n→ Kháng chiến chống Pháp/Mỹ dùng nhiều!",
+            "note": "Đánh mọi lúc mọi nơi, địch không biết ở đâu!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🧠 Tư tưởng: Lấy nhỏ thắng lớn\n🏹 Tiên phát chế nhân: Đánh trước\n🏚️ Vườn không nhà trống: Địch tự thua\n🌿 Du kích: Đánh bất ngờ, lâu dài\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Tư tưởng cốt lõi binh pháp VN là gì?",
+            "options": [
+                "Quân đông thắng",
+                "Vũ khí mạnh thắng",
+                "Lấy ít địch nhiều, lấy yếu chống mạnh",
+                "Đầu hàng khi yếu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "VN luôn nhỏ hơn địch nhưng vẫn thắng nhờ chiến tranh nhân dân, mưu trí!"
+        },
+        {
+            "question": "'Tiên phát chế nhân' được ai áp dụng?",
+            "options": [
+                "Trần Hưng Đạo",
+                "Lý Thường Kiệt",
+                "Quang Trung",
+                "Lê Lợi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lý Thường Kiệt đánh sang đất Tống trước để phá kho lương địch!"
+        },
+        {
+            "question": "'Vườn không nhà trống' nhằm mục đích gì?",
+            "options": [
+                "Tiết kiệm tài sản",
+                "Để địch tự thua vì đói, mệt",
+                "Trốn chạy",
+                "Đầu hàng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Không để lại gì cho địch → Địch đói, mệt, bệnh → Tự rút lui!"
+        },
+        {
+            "question": "Đặc điểm của chiến tranh du kích?",
+            "options": [
+                "Đánh trận lớn",
+                "Ẩn nấp, đánh bất ngờ, lâu dài",
+                "Dùng xe tăng",
+                "Đánh nhanh thắng nhanh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Du kích = Ẩn trong dân, đánh bất ngờ, đánh mọi lúc mọi nơi!"
+        },
+        {
+            "question": "'Chiến tranh nhân dân' nghĩa là gì?",
+            "options": [
+                "Chỉ quân đội đánh",
+                "Cả nước cùng đánh giặc",
+                "Thuê lính đánh",
+                "Nhờ nước ngoài đánh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chiến tranh nhân dân = Toàn dân, toàn diện, cả nước cùng đánh giặc!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_qu%C3%A2n_s%E1%BB%B1_Vi%E1%BB%87t_Nam"
+}

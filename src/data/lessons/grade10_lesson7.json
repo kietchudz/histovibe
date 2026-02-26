@@ -1,0 +1,115 @@
+{
+    "id": "grade10_lesson7",
+    "title": "Bài 7: Văn minh Ấn Độ cổ - trung đại",
+    "genZTitle": "Ấn Độ - Cái Nôi Tôn Giáo 🕉️",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Namaste! 🙏\n\nẤn Độ - Nơi sinh ra những tôn giáo lớn nhất thế giới và... SỐ 0!\n\nCùng explore nền văn minh này nào! 🇮🇳",
+            "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99_c%E1%BB%95_%C4%91%E1%BA%A1i"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "ĐỊA LÝ 🗺️\n\n💧 Hai con sông mẹ:\n• Sông Ấn (Indus) - tên nước 'India' từ đây\n• Sông Hằng (Ganges) - sông thiêng\n\n🌧️ Khí hậu gió mùa, mưa nhiều\n→ Nông nghiệp phát triển mạnh!",
+            "note": "Sông Hằng linh thiêng đến mức người ta tắm để tẩy tội!",
+            "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99_gi%C3%A1o"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "XÃ HỘI - CHẾ ĐỘ ĐẲNG CẤP VARNA ⚠️\n\n4 đẳng cấp (sinh ra ở đâu ở yên đó!):\n\n1️⃣ Bà-la-môn (Thầy tu) - cao nhất\n2️⃣ Ksa-tri-a (Vua, chiến binh)\n3️⃣ Vai-si-a (Nông dân, thương nhân)\n4️⃣ Su-đra (Nô lệ) - thấp nhất\n\n+ Ngoài đẳng cấp: Dalit (tiện dân)",
+            "note": "Chế độ này cực kỳ khắc nghiệt, tồn tại đến tận ngày nay!",
+            "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TÔN GIÁO - ĐẠO BÀ LA MÔN (Hindu) 🙏\n\n• Đa thần (nhiều thần)\n• Thờ bò (bò là con vật thiêng, không được ăn thịt bò!)\n• Sông Hằng thiêng (tắm = tẩy tội)\n\n→ Là đạo theo đẳng cấp, ai sinh ra giai cấp nào giữ nguyên!",
+            "note": "Hindu là tôn giáo lớn thứ 3 thế giới!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_s%E1%BB%91_%E1%BA%A2_R%E1%BA%ADp"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "TÔN GIÁO - ĐẠO PHẬT ☸️\n\nNgười sáng lập: Thích Ca Mâu Ni (Siddartha Gautama)\n\n• Chủ trương: BÌNH ĐẲNG (ngược lại Varna!)\n• Từ bi, hỉ xả\n• 'Đời là bể khổ, tu để giải thoát'\n\nLan rộng ra: Đông Nam Á, Trung Quốc, Nhật, Việt Nam!",
+            "note": "Đạo Phật phản đối đẳng cấp nên được người nghèo ủng hộ!"
+        },
+        {
+            "id": 6,
+            "type": "quote",
+            "content": "Ấn Độ phát minh ra SỐ 0 và hệ số thập phân (1, 2, 3...) mà CẢ THẾ GIỚI đang dùng!",
+            "note": "Không có số 0 = Không có máy tính! 🖥️"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "THÀNH TỰU KHÁC 🎯\n\n📐 Toán học: Số 0, hệ thập phân\n🏥 Y học: Phẫu thuật chỉnh hình\n🕌 Kiến trúc: Đền Taj Mahal (1 trong 7 kỳ quan mới)\n📖 Văn học: Sử thi Mahabharata, Ramayana"
+        },
+        {
+            "id": 8,
+            "type": "text",
+            "content": "Tóm tắt bài 7:\n\n🌊 Địa lý: Sông Ấn, sông Hằng\n⚠️ Xã hội: Đẳng cấp Varna khắc nghiệt\n🙏 Tôn giáo: Hindu (đẳng cấp), Phật giáo (bình đẳng)\n🔢 Toán: Số 0 - best invention ever!\n\nQuiz nào! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Hai con sông lớn nào nuôi dưỡng văn minh Ấn Độ?",
+            "options": [
+                "Sông Nin và Sông Hoàng Hà",
+                "Sông Ấn và Sông Hằng",
+                "Sông Hồng và Sông Mekong",
+                "Sông Tigris và Euphrates"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sông Ấn (Indus) và Sông Hằng (Ganges) là 2 con sông mẹ của văn minh Ấn Độ!"
+        },
+        {
+            "question": "Đẳng cấp nào cao nhất trong chế độ Varna?",
+            "options": [
+                "Ksa-tri-a (chiến binh)",
+                "Bà-la-môn (thầy tu)",
+                "Vai-si-a (thương nhân)",
+                "Su-đra (nô lệ)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bà-la-môn (thầy tu, giáo sĩ) là đẳng cấp cao nhất - nắm quyền lực tôn giáo!"
+        },
+        {
+            "question": "Đạo Phật có đặc điểm gì khác biệt với đạo Hindu?",
+            "options": [
+                "Thờ nhiều thần hơn",
+                "Chủ trương bình đẳng, phản đối đẳng cấp",
+                "Coi bò là con vật thiêng",
+                "Chỉ dành cho vua chúa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đạo Phật do Thích Ca sáng lập, chủ trương bình đẳng - ngược lại với đẳng cấp Varna!"
+        },
+        {
+            "question": "Phát minh quan trọng nhất của Ấn Độ trong toán học là gì?",
+            "options": [
+                "Định lý Pi-ta-go",
+                "Số 0 và hệ thập phân",
+                "Hình học Euclid",
+                "Logarit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Số 0 và hệ thập phân (1,2,3...) do Ấn Độ phát minh - cả thế giới đang dùng!"
+        },
+        {
+            "question": "Người sáng lập đạo Phật là ai?",
+            "options": [
+                "Krishna",
+                "Brahma",
+                "Thích Ca Mâu Ni",
+                "Vishnu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Thích Ca Mâu Ni (Siddartha Gautama) - hoàng tử từ bỏ vinh hoa để tìm chân lý!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99_c%E1%BB%95_%C4%91%E1%BA%A1i"
+}

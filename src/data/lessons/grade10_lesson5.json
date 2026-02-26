@@ -1,0 +1,113 @@
+{
+    "id": "grade10_lesson5",
+    "title": "Bài 5: Khái niệm văn minh",
+    "genZTitle": "Văn Hóa vs. Văn Minh - Khác Nhau Chỗ Nào? 🤔",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Văn hóa và Văn minh - Nghe giống nhau mà KHÁC nhau! 🤔\n\nNhiều người hay nhầm 2 khái niệm này.\n\nHôm nay sẽ clear hết confusion nha! 🎯"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "VĂN HÓA là gì? 🌸\n\nLà TẤT CẢ giá trị vật chất + tinh thần con người tạo ra.\n\nBao gồm:\n🏠 Nhà cửa, công cụ (cái nơm cá)\n🎵 Âm nhạc, thơ ca (câu ca dao)\n🙏 Phong tục, tín ngưỡng",
+            "note": "Văn hóa có từ khi loài người xuất hiện!",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a"
+        },
+        {
+            "id": 3,
+            "type": "quote",
+            "content": "Văn minh là trạng thái PHÁT TRIỂN CAO của văn hóa.",
+            "note": "Văn minh = Văn hóa đã 'level up'! 📈",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_minh"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "4 TIÊU CHUẨN nhận diện VĂN MINH:\n\n1️⃣ Có NHÀ NƯỚC (Hết sống bầy đàn)\n2️⃣ Có ĐÔ THỊ (Phố xá đông vui)\n3️⃣ Có CHỮ VIẾT (Ghi chép lại drama)\n4️⃣ Có KIM KHÍ (Đồ đồng, sắt thay đồ đá)",
+            "note": "Nhớ 4 cái này = Hiểu văn minh!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "Giải thích chi tiết:\n\n🏛️ NHÀ NƯỚC: Tổ chức quản lý xã hội, có vua/chính quyền\n\n🏙️ ĐÔ THỊ: Thành phố, trung tâm kinh tế-văn hóa\n\n✍️ CHỮ VIẾT: Lưu giữ thông tin, truyền lại hậu duệ\n\n⚔️ KIM KHÍ: Đồ đồng, sắt (nâng cao năng suất)"
+        },
+        {
+            "id": 6,
+            "type": "timeline",
+            "content": "3500 TCN | Văn minh Lưỡng Hà (Sumer) - chữ viết đầu tiên\n3000 TCN | Văn minh Ai Cập - Kim tự tháp\n2500 TCN | Văn minh Ấn Độ - Sông Ấn\n2000 TCN | Văn minh Trung Hoa - Sông Hoàng Hà",
+            "note": "Các nền văn minh lớn đều gắn với sông!",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_minh_L%C6%B0%E1%BB%A1ng_H%C3%A0"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "So sánh nhanh:\n\n🌸 Văn hóa:\n• Xuất hiện sớm (từ khi có loài người)\n• Bao gồm mọi sáng tạo của con người\n\n🏛️ Văn minh:\n• Xuất hiện sau (khi có nhà nước, chữ viết)\n• Là giai đoạn cao của văn hóa"
+        },
+        {
+            "id": 8,
+            "type": "text",
+            "content": "Tóm tắt bài 5:\n\n🌸 Văn hóa: Mọi sáng tạo của con người\n🏛️ Văn minh: Trạng thái cao của văn hóa\n📋 4 tiêu chuẩn: Nhà nước, Đô thị, Chữ viết, Kim khí\n\nQuiz ngay thôi! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Văn hóa bao gồm những gì?",
+            "options": [
+                "Chỉ nghệ thuật, âm nhạc",
+                "Tất cả giá trị vật chất và tinh thần con người tạo ra",
+                "Chỉ phong tục tập quán",
+                "Chỉ các công trình kiến trúc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Văn hóa = TẤT CẢ sáng tạo của con người: vật chất (nhà cửa, công cụ) + tinh thần (nghệ thuật, tín ngưỡng)!"
+        },
+        {
+            "question": "Văn minh khác văn hóa ở điểm nào?",
+            "options": [
+                "Văn minh xuất hiện trước văn hóa",
+                "Văn minh là trạng thái phát triển cao của văn hóa",
+                "Văn minh và văn hóa giống nhau",
+                "Văn hóa cao hơn văn minh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Văn minh = Văn hóa đã 'level up', khi xã hội có nhà nước, chữ viết, đô thị, kim khí!"
+        },
+        {
+            "question": "Đâu KHÔNG phải tiêu chuẩn nhận diện văn minh?",
+            "options": [
+                "Có nhà nước",
+                "Có chữ viết",
+                "Có internet",
+                "Có kim khí"
+            ],
+            "correctAnswer": 2,
+            "explanation": "4 tiêu chuẩn văn minh: Nhà nước, Đô thị, Chữ viết, Kim khí. Internet là phát minh hiện đại!"
+        },
+        {
+            "question": "'Kim khí' trong tiêu chuẩn văn minh là gì?",
+            "options": [
+                "Vàng bạc châu báu",
+                "Đồ đồng, đồ sắt thay thế đồ đá",
+                "Tiền kim loại",
+                "Đồ trang sức"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kim khí = Đồ đồng, sắt dùng làm công cụ, vũ khí - nâng cao năng suất lao động!"
+        },
+        {
+            "question": "Tại sao chữ viết là tiêu chuẩn của văn minh?",
+            "options": [
+                "Để viết thư tình",
+                "Để lưu giữ thông tin, truyền lại hậu duệ",
+                "Để trang trí",
+                "Chỉ dành cho vua chúa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chữ viết giúp ghi chép lịch sử, luật pháp, tri thức - truyền từ đời này sang đời khác!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/V%C4%83n_minh"
+}

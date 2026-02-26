@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson10",
+    "title": "Bài 13: Hồ Chí Minh trong lịch sử dân tộc",
+    "genZTitle": "Bác Hồ - Người Cha Già Dân Tộc ❤️",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BÁC HỒ! ❤️\n\nNgười sáng lập Đảng, khai sinh nước Việt Nam!\n\nDanh nhân văn hóa thế giới! 🌏",
+            "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "TÌM ĐƯỜNG CỨU NƯỚC 🚢\n\n📅 1911: Ra đi tìm đường cứu nước\n📅 1920: Tìm ra chủ nghĩa Mác-Lênin\n📅 1930: Sáng lập Đảng Cộng sản VN\n\n→ Con đường CÁCH MẠNG VÔ SẢN!",
+            "note": "30 năm bôn ba, tìm ra con đường đúng đắn!",
+            "url": "https://vi.wikipedia.org/wiki/T%C6%B0_t%C6%B0%E1%BB%9Fng_H%E1%BB%93_Ch%C3%AD_Minh"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "SÁNG LẬP NHÀ NƯỚC 🇻🇳\n\n📅 2/9/1945: Đọc Tuyên ngôn Độc lập\n→ Khai sinh nước VNDCCH\n\n👔 Chủ tịch nước đầu tiên\n💪 Lãnh đạo kháng chiến chống Pháp, Mỹ",
+            "note": "Từ một nước nô lệ → Độc lập, tự do!",
+            "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TƯ TƯỞNG HỒ CHÍ MINH 🧠\n\n❤️ Độc lập - Tự do - Hạnh phúc\n🤝 Đại đoàn kết dân tộc\n🌏 Ngoại giao nhân văn\n🌱 Đạo đức cách mạng\n\n→ Kim chỉ nam cho VN đến ngày nay!",
+            "note": "'Không có gì quý hơn độc lập, tự do!'"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "DANH NHÂN VĂN HÓA 🏆\n\n📅 1990: UNESCO vinh danh 'Anh hùng giải phóng dân tộc, Danh nhân văn hóa kiệt xuất'\n\n🌏 Được thế giới tôn vinh\n📚 Để lại di sản tư tưởng quý báu",
+            "note": "1 trong số ít lãnh tụ được UNESCO vinh danh!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🚢 1911: Ra đi tìm đường cứu nước\n📅 1930: Sáng lập Đảng\n🇻🇳 1945: Khai sinh nước VN\n🏆 1990: Danh nhân văn hóa thế giới\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Bác Hồ ra đi tìm đường cứu nước năm nào?",
+            "options": [
+                "1900",
+                "1911",
+                "1920",
+                "1930"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1911 - Nguyễn Tất Thành rời bến Nhà Rồng tìm đường cứu nước!"
+        },
+        {
+            "question": "Bác Hồ sáng lập Đảng CSVN năm nào?",
+            "options": [
+                "1920",
+                "1925",
+                "1930",
+                "1945"
+            ],
+            "correctAnswer": 2,
+            "explanation": "3/2/1930 - Đảng Cộng sản Việt Nam được thành lập!"
+        },
+        {
+            "question": "UNESCO vinh danh Bác Hồ là gì?",
+            "options": [
+                "Nhà bác học",
+                "Danh nhân văn hóa kiệt xuất",
+                "Nhà thơ",
+                "Nhà văn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1990 - UNESCO vinh danh: 'Anh hùng giải phóng dân tộc, Danh nhân văn hóa kiệt xuất'!"
+        },
+        {
+            "question": "Câu nói nổi tiếng của Bác Hồ?",
+            "options": [
+                "Yêu nước là tốt",
+                "'Không có gì quý hơn độc lập, tự do'",
+                "Học giỏi để thành công",
+                "Tiền là tất cả"
+            ],
+            "correctAnswer": 1,
+            "explanation": "'Không có gì quý hơn độc lập, tự do!' - Tư tưởng cốt lõi của Bác!"
+        },
+        {
+            "question": "Bác Hồ tìm ra con đường cứu nước nào?",
+            "options": [
+                "Cải cách",
+                "Cách mạng vô sản (Mác-Lênin)",
+                "Dựa vào Nhật",
+                "Dựa vào Pháp"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bác tìm ra con đường cách mạng vô sản theo chủ nghĩa Mác-Lênin!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "grade10_lesson9",
+    "title": "Bài 9: Văn minh Hy Lạp - La Mã cổ đại",
+    "genZTitle": "Phương Tây - Dân Chủ & Luật Pháp 🏛️",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Hello Europa! 🇬🇷🇮🇹\n\nHy Lạp + La Mã = Nền tảng của văn minh PHƯƠNG TÂY!\n\nĐây là nơi sinh ra DÂN CHỦ và LUẬT PHÁP hiện đại! 🏛️",
+            "url": "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "ĐỊA LÝ 🗺️\n\n🌊 Biển bao quanh, núi non hiểm trở\n\n→ Nông nghiệp KHÓ (đất ít, núi nhiều)\n→ Nhưng: THƯƠNG MẠI BIỂN siêu phát triển!\n\n'Ship hàng' khắp Địa Trung Hải! 🚢",
+            "note": "Địa lý quyết định kinh tế - trade is life!",
+            "url": "https://vi.wikipedia.org/wiki/D%C3%A2n_ch%E1%BB%A7_Athena"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "HY LẠP - CÁI NÔI DÂN CHỦ 🗳️\n\n📍 Athens - Thành phố đầu tiên có DÂN CHỦ!\n\n• Công dân được BẦU CỬ\n• Đại hội nhân dân bàn việc nước\n• (Nhưng nô lệ và phụ nữ không được vote 😅)\n\n→ Tiền thân của dân chủ hiện đại!",
+            "note": "Democracy = Demos (dân) + Kratos (quyền lực)",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_La_M%C3%A3"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "HY LẠP - NGHỆ THUẬT 🎭\n\n🏛️ Kiến trúc: Đền Parthenon - đỉnh cao\n🗿 Điêu khắc: Tượng khỏa thân tỷ lệ vàng\n🎭 Kịch: Bi kịch, hài kịch\n🏟️ Thể thao: OLYMPIC (bắt đầu năm 776 TCN!)",
+            "note": "Olympic Games - truyền thống hơn 2800 năm!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "LA MÃ - ĐẾ CHẾ HÙNG MẠNH 🦅\n\n📜 Luật 12 bảng - Nền tảng luật pháp phương Tây\n🏛️ Mô hình Đế quốc siêu rộng lớn\n🛣️ Đường sá: 'Mọi con đường đều dẫn về Rome'\n\n→ La Mã cai trị 1/4 dân số thế giới lúc đó!",
+            "note": "Luật La Mã ảnh hưởng đến luật hiện đại của nhiều nước!",
+            "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_v%E1%BA%ADn_h%E1%BB%99i_c%E1%BB%95_%C4%91%E1%BA%A1i"
+        },
+        {
+            "id": 6,
+            "type": "quote",
+            "content": "Mọi con đường đều dẫn về Rome!",
+            "note": "Vì La Mã xây hơn 80.000 km đường khắp đế chế 🛣️"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "KHOA HỌC ĐỂ ĐỜI 🔬\n\nÔng tổ của mấy môn bạn học:\n\n📐 Pi-ta-go (Pythagoras) - Định lý hình học\n📏 Ta-lét (Thales) - Toán học, triết học\n🔭 Ác-si-mét (Archimedes) - Vật lý, cơ học\n🧠 Plato, Socrates, Aristotle - Triết học",
+            "note": "Mấy ông này sống 2500 năm trước mà vẫn dạy bạn!"
+        },
+        {
+            "id": 8,
+            "type": "timeline",
+            "content": "776 TCN | Olympic Games đầu tiên 🏟️\n508 TCN | Dân chủ Athens ra đời 🗳️\n450 TCN | Luật 12 bảng của La Mã 📜\n27 TCN | Đế chế La Mã thành lập 🦅\n476 SCN | Đế chế Tây La Mã sụp đổ",
+            "note": "Gần 1000 năm lịch sử rực rỡ!"
+        },
+        {
+            "id": 9,
+            "type": "text",
+            "content": "Tóm tắt bài 9:\n\n🇬🇷 Hy Lạp: Dân chủ, Olympic, Nghệ thuật, Khoa học\n🇮🇹 La Mã: Luật pháp, Đế chế, Đường sá\n🔬 Khoa học: Pi-ta-go, Ác-si-mét...\n\nQuiz time! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Tại sao Hy Lạp phát triển thương mại biển?",
+            "options": [
+                "Vì có nhiều dầu mỏ",
+                "Vì đất nông nghiệp ít, biển bao quanh",
+                "Vì người Hy Lạp thích bơi",
+                "Vì muốn chiến tranh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Địa hình núi non hiểm trở, đất nông nghiệp ít nên người Hy Lạp chuyển sang thương mại biển!"
+        },
+        {
+            "question": "Athens nổi tiếng vì điều gì?",
+            "options": [
+                "Xây kim tự tháp",
+                "Là nơi ra đời nền dân chủ đầu tiên",
+                "Phát minh thuốc súng",
+                "Có sông Nin"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Athens là thành bang đầu tiên có nền dân chủ - công dân được bầu cử!"
+        },
+        {
+            "question": "'Mọi con đường đều dẫn về Rome' ám chỉ điều gì?",
+            "options": [
+                "Rome rất nhỏ",
+                "La Mã xây đường sá khắp đế chế",
+                "Rome ở giữa thế giới",
+                "Rome có nhiều núi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Mã xây hơn 80.000 km đường để kết nối đế chế rộng lớn!"
+        },
+        {
+            "question": "Luật 12 bảng của La Mã có ý nghĩa gì?",
+            "options": [
+                "Chỉ là 12 bức tranh",
+                "Là nền tảng luật pháp phương Tây",
+                "Luật về xây 12 đền thờ",
+                "Không có ý nghĩa gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Luật 12 bảng là bộ luật thành văn đầu tiên, ảnh hưởng đến luật pháp phương Tây hiện đại!"
+        },
+        {
+            "question": "Olympic Games bắt đầu từ năm nào?",
+            "options": [
+                "1896 SCN",
+                "776 TCN",
+                "500 SCN",
+                "2000 TCN"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Olympic Games đầu tiên tổ chức năm 776 TCN tại Olympia, Hy Lạp - truyền thống hơn 2800 năm!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i"
+}

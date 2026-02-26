@@ -1,0 +1,104 @@
+{
+    "id": "grade11_lesson3",
+    "title": "Bài 3: Liên bang Xô viết (Sự ra đời & tan rã)",
+    "genZTitle": "Liên Xô - Người Anh Cả XHCN ☭",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "LIÊN XÔ - Siêu cường XHCN! ☭\n\nNhà nước công nông ĐẦU TIÊN trên thế giới!\n\nTừ đỉnh cao → Sụp đổ. Vì sao?",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_M%C6%B0%E1%BB%9Di_Nga"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "RA ĐỜI 🌟\n\n📅 1917: CM tháng Mười Nga (Lê-nin lãnh đạo)\n📅 1922: Liên Xô (USSR) thành lập\n\n→ Nhà nước công nông đầu tiên!",
+            "note": "Cách mạng vô sản thành công đầu tiên!",
+            "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "THÀNH TỰU (FLEX) 💪\n\n🏭 Công nghiệp hóa thần tốc\n⚔️ Cứu thế giới khỏi Hitler (WWII)\n🚀 Bay vào vũ trụ ĐẦU TIÊN (Gagarin - 1961)\n💣 Cường quốc hạt nhân",
+            "note": "Liên Xô từng là siêu cường đối đầu Mỹ!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_tan_r%C3%A3_c%E1%BB%A7a_Li%C3%AAn_X%C3%B4"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "KHỦNG HOẢNG & TAN RÃ 📉\n\nNhững năm 80:\n❌ Kinh tế trì trệ\n❌ Cơ chế quan liêu bao cấp\n❌ Goóc-ba-chốp cải tổ sai lầm\n\n📅 1991: LIÊN XÔ SỤP ĐỔ!",
+            "note": "Kết thúc 69 năm tồn tại!",
+            "url": "https://vi.wikipedia.org/wiki/Mikhail_Gorbachyov"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "Bài học: Muốn tồn tại phải đổi mới ĐÚNG HƯỚNG, không được xa rời dân!",
+            "note": "VN học từ bài học này → Đổi mới 1986"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🌟 Ra đời: 1917 (CM), 1922 (thành lập)\n💪 Thành tựu: Công nghiệp, WWII, Vũ trụ\n📉 Sụp đổ: 1991\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Liên Xô ra đời sau sự kiện nào?",
+            "options": [
+                "Thế chiến 2",
+                "Cách mạng tháng Mười Nga 1917",
+                "Chiến tranh lạnh",
+                "Thế chiến 1"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CM tháng Mười Nga (1917) do Lê-nin lãnh đạo đã lập nên nhà nước XHCN đầu tiên!"
+        },
+        {
+            "question": "Ai là người đầu tiên bay vào vũ trụ?",
+            "options": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Alan Shepard"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Yuri Gagarin (Liên Xô) bay vào vũ trụ năm 1961 - trước cả Mỹ!"
+        },
+        {
+            "question": "Liên Xô sụp đổ năm nào?",
+            "options": [
+                "1985",
+                "1989",
+                "1991",
+                "2000"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Liên Xô chính thức tan rã ngày 26/12/1991!"
+        },
+        {
+            "question": "Nguyên nhân Liên Xô sụp đổ?",
+            "options": [
+                "Kinh tế phát triển quá nhanh",
+                "Quan liêu, cải tổ sai lầm",
+                "Bị Mỹ xâm lược",
+                "Dân số quá đông"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kinh tế trì trệ, quan liêu bao cấp và cải tổ sai lầm dẫn đến sụp đổ!"
+        },
+        {
+            "question": "Bài học từ Liên Xô là gì?",
+            "options": [
+                "Không cần đổi mới",
+                "Đổi mới đúng hướng, gần dân",
+                "Cứ sai cũng được",
+                "Không quan trọng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phải đổi mới ĐÚNG HƯỚNG và không xa rời nhân dân!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+}

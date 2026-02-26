@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson5",
+    "title": "Bài 6, 7: Kháng chiến chống Pháp (1945-1954)",
+    "genZTitle": "9 Năm Làm Một Điện Biên 🔥",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "KHÁNG CHIẾN CHỐNG PHÁP! 🔥\n\n9 năm gian khổ (1945-1954)\n\nKết thúc bằng chiến thắng ĐIỆN BIÊN PHỦ LỊCH SỬ!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "KHỞI ĐẦU - NGÀN CÂN TREO SỢI TÓC 😰\n\n😵 Giặc ĐÓI (2 triệu người chết đói 1945)\n📚 Giặc DỐT (95% mù chữ)\n⚔️ Giặc NGOẠI XÂM (Pháp quay lại!)\n\n→ Khó khăn chồng chất!",
+            "note": "Thù trong giặc ngoài, thiên tai địch họa!",
+            "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Vi%E1%BB%87t_B%E1%BA%AFc_Thu_%C4%90%C3%B4ng_1947"
+        },
+        {
+            "id": 3,
+            "type": "quote",
+            "content": "'Thà hy sinh TẤT CẢ chứ nhất định KHÔNG CHỊU mất nước, nhất định KHÔNG CHỊU làm nô lệ!'",
+            "note": "Lời kêu gọi toàn quốc kháng chiến - 19/12/1946",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CHIẾN DỊCH LỚN ⚔️\n\n🏔️ Việt Bắc 1947: Phá gọng kìm Pháp\n🌉 Biên Giới 1950: Thông đường sang TQ\n🏰 Hòa Bình, Tây Bắc: Giữ căn cứ\n\n→ Giành thế chủ động dần dần!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "ĐIỆN BIÊN PHỦ 1954 💥\n\n'Lừng lẫy năm châu, chấn động địa cầu!'\n\n📅 56 ngày đêm (13/3 - 7/5/1954)\n⛰️ 'Vây, lấn, tấn, diệt'\n🏳️ Pháp đầu hàng!\n\n→ Hiệp định Geneva: Pháp RÚT QUÂN!",
+            "note": "Chiến thắng vang dội, chấm dứt 9 năm kháng chiến!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n😰 Khởi đầu: Ngàn cân treo sợi tóc\n⚔️ Chiến dịch: Việt Bắc, Biên Giới\n💥 Đỉnh cao: Điện Biên Phủ 1954\n📜 Kết quả: Pháp ký Geneva, rút quân\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "'Ngàn cân treo sợi tóc' ám chỉ gì?",
+            "options": [
+                "Kinh tế phát triển",
+                "Tình hình cực kỳ khó khăn",
+                "Chiến thắng lớn",
+                "Hòa bình"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sau CM tháng 8, VN đối mặt giặc đói, giặc dốt, giặc ngoại xâm - cực kỳ nguy khốn!"
+        },
+        {
+            "question": "Toàn quốc kháng chiến bắt đầu ngày nào?",
+            "options": [
+                "2/9/1945",
+                "19/12/1946",
+                "7/5/1954",
+                "30/4/1975"
+            ],
+            "correctAnswer": 1,
+            "explanation": "19/12/1946 - Hồ Chủ tịch ra lời kêu gọi toàn quốc kháng chiến!"
+        },
+        {
+            "question": "Chiến thắng Điện Biên Phủ kết thúc ngày nào?",
+            "options": [
+                "13/3/1954",
+                "7/5/1954",
+                "21/7/1954",
+                "2/9/1954"
+            ],
+            "correctAnswer": 1,
+            "explanation": "7/5/1954 - Pháp đầu hàng, kết thúc chiến dịch Điện Biên Phủ!"
+        },
+        {
+            "question": "Hiệp định nào kết thúc chiến tranh chống Pháp?",
+            "options": [
+                "Paris",
+                "Geneva",
+                "Potsdam",
+                "Yalta"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiệp định Geneva (21/7/1954) - Pháp công nhận độc lập VN và rút quân!"
+        },
+        {
+            "question": "Chiến dịch nào 'thông đường' sang Trung Quốc?",
+            "options": [
+                "Việt Bắc",
+                "Biên Giới 1950",
+                "Điện Biên Phủ",
+                "Hòa Bình"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chiến dịch Biên Giới 1950 thông đường liên lạc quốc tế với Trung Quốc!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng"
+}

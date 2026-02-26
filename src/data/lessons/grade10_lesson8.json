@@ -1,0 +1,114 @@
+{
+    "id": "grade10_lesson8",
+    "title": "Bài 8: Văn minh Trung Hoa cổ - trung đại",
+    "genZTitle": "Trung Hoa - 'Pháp Sư' Phát Minh 🧧",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Nǐ hǎo! 你好 🇨🇳\n\nTrung Hoa - Nền văn minh với những phát minh THAY ĐỔI cả thế giới!\n\nLet's go! 🚀",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_minh_Trung_Hoa"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "ĐỊA LÝ 🗺️\n\n💧 Hai con sông mẹ:\n• Hoàng Hà (Sông Vàng) - Cái nôi văn minh\n• Trường Giang (Sông Dài) - Dài nhất châu Á\n\n🌾 Đồng bằng siêu rộng\n→ Dân số đông nhất thế giới cổ đại!",
+            "note": "Hoàng Hà nhiều phù sa màu vàng nên được gọi là 'sông Vàng'",
+            "url": "https://vi.wikipedia.org/wiki/Nho_gi%C3%A1o"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "TƯ TƯỞNG - NHO GIÁO 📚\n\nNgười sáng lập: KHỔNG TỬ (Confucius)\n\n• Dạy cách làm QUÂN TỬ (người tốt)\n• Nhấn mạnh: Lễ nghĩa, Trung hiếu, Trật tự xã hội\n• 'Vua ra vua, tôi ra tôi, cha ra cha, con ra con'\n\n→ Thống trị TƯ TƯỞNG hàng nghìn năm!",
+            "note": "Nho giáo ảnh hưởng cả Nhật, Hàn, Việt Nam!",
+            "url": "https://vi.wikipedia.org/wiki/T%E1%BB%A9_%C4%91%E1%BA%A1i_ph%C3%A1t_minh"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TỨ ĐẠI PHÁT MINH 🎯\n\n4 phát minh LÀM THAY ĐỔI thế giới:\n\n📄 GIẤY - Đỡ phải viết lên tre\n🖨️ KỸ THUẬT IN - Copy sách nhanh hơn\n🧭 LA BÀN - Đi biển không lạc\n💥 THUỐC SÚNG - Ban đầu làm pháo hoa!",
+            "note": "4 phát minh này châu Âu phải học lại từ TQ!",
+            "url": "https://vi.wikipedia.org/wiki/V%E1%BA%A1n_l%C3%BD_Tr%C6%B0%E1%BB%9Dng_Th%C3%A0nh"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CHI TIẾT TỨ ĐẠI PHÁT MINH:\n\n📄 GIẤY (105 SCN): Thái Luân phát minh\n→ Rẻ hơn lụa, tiện hơn tre\n\n🖨️ IN ẤN (TK 8): In bản gỗ → In rời (chữ rời)\n→ Sách phổ biến hơn\n\n🧭 LA BÀN (TK 3 TCN): Đầu tiên để xem phong thủy!\n→ Sau dùng đi biển\n\n💥 THUỐC SÚNG (TK 9): Luyện đan tìm thuốc trường sinh\n→ Vô tình phát minh ra!"
+        },
+        {
+            "id": 6,
+            "type": "timeline",
+            "content": "551 TCN | Khổng Tử ra đời - ông tổ Nho giáo\n221 TCN | Tần Thủy Hoàng thống nhất TQ, xây Vạn Lý Trường Thành\n105 SCN | Thái Luân phát minh giấy 📄\nTK 8 | Kỹ thuật in ấn ra đời 🖨️",
+            "note": "Trung Hoa luôn đi trước thế giới!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "THÀNH TỰU KHÁC 🎨\n\n🧱 Kiến trúc: Vạn Lý Trường Thành, Tử Cấm Thành\n🩺 Y học: Châm cứu, thuốc bắc (đông y)\n🎭 Nghệ thuật: Kinh kịch, thư pháp\n🥋 Võ thuật: Kung Fu, Thiếu Lâm"
+        },
+        {
+            "id": 8,
+            "type": "text",
+            "content": "Tóm tắt bài 8:\n\n🌊 Địa lý: Hoàng Hà, Trường Giang\n📚 Tư tưởng: Nho giáo (Khổng Tử)\n🎯 4 phát minh: Giấy, In, La bàn, Thuốc súng\n\nQuiz ngay thôi! 🧧"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Hai con sông nào là 'cái nôi' của văn minh Trung Hoa?",
+            "options": [
+                "Sông Ấn và Sông Hằng",
+                "Hoàng Hà và Trường Giang",
+                "Sông Nin và Sông Tigris",
+                "Sông Mekong và Sông Hồng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hoàng Hà (Sông Vàng) và Trường Giang (Sông Dài) nuôi dưỡng văn minh Trung Hoa!"
+        },
+        {
+            "question": "Người sáng lập Nho giáo là ai?",
+            "options": [
+                "Lão Tử",
+                "Khổng Tử",
+                "Mạnh Tử",
+                "Trang Tử"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Khổng Tử (Confucius) sáng lập Nho giáo - hệ tư tưởng thống trị hàng nghìn năm!"
+        },
+        {
+            "question": "Đâu KHÔNG phải là Tứ đại phát minh của Trung Quốc?",
+            "options": [
+                "Giấy",
+                "La bàn",
+                "Kính viễn vọng",
+                "Thuốc súng"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tứ đại phát minh: Giấy, Kỹ thuật in, La bàn, Thuốc súng. Kính viễn vọng do người Hà Lan phát minh!"
+        },
+        {
+            "question": "Thuốc súng ban đầu được phát minh để làm gì?",
+            "options": [
+                "Làm vũ khí chiến tranh",
+                "Luyện đan tìm thuốc trường sinh",
+                "Làm pháo hoa",
+                "Đào mỏ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thuốc súng ra đời khi các đạo sĩ luyện đan tìm thuốc trường sinh - phát minh ngẫu nhiên!"
+        },
+        {
+            "question": "La bàn ban đầu được dùng để làm gì?",
+            "options": [
+                "Đi biển",
+                "Xem phong thủy",
+                "Đo thời gian",
+                "Vẽ bản đồ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La bàn ban đầu dùng để xem phong thủy, sau đó mới được áp dụng cho hàng hải!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/V%C4%83n_minh_Trung_Hoa"
+}

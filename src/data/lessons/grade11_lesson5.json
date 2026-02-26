@@ -1,0 +1,103 @@
+{
+    "id": "grade11_lesson5",
+    "title": "Bài 5: Quá trình xâm lược của thực dân phương Tây vào ĐNA",
+    "genZTitle": "Tây Vào ĐNA - Cuộc Xâm Lăng Vì Gia Vị 🌶️",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "PHƯƠNG TÂY XÂM LƯỢC ĐNA! 🌶️\n\nTại sao họ nhắm vào Đông Nam Á?\n\nVì GIA VỊ, TÀI NGUYÊN và VỊ TRÍ CHIẾN LƯỢC!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_th%E1%BB%B1c_d%C3%A2n"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "TẠI SAO ĐNA? 🎯\n\n🌶️ Giàu tài nguyên (hương liệu, gia vị, khoáng sản)\n🚢 Vị trí chiến lược (Ngã tư đường biển)\n🌴 Khí hậu nhiệt đới, đất đai màu mỡ",
+            "note": "Hồ tiêu, quế, đinh hương... quý như vàng!",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_thu%E1%BB%99c_Ph%C3%A1p"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "DIỄN BIẾN 🏴‍☠️\n\n🇵🇹🇪🇸 Bồ Đào Nha, TBN đi trước (TK 16)\n🇬🇧🇫🇷🇳🇱🇺🇸 Anh, Pháp, Hà Lan, Mỹ theo sau\n\n🇫🇷 Pháp → Đông Dương (VN, Lào, Cam)\n🇬🇧 Anh → Miến Điện, Mã Lai, Singapore",
+            "note": "Gần như toàn ĐNA bị chiếm!",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_%E1%BA%A4n_%C4%91%E1%BB%99_H%C3%A0_Lan"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "NGOẠI LỆ - THÁI LAN 🇹🇭\n\nXiêm (Thái Lan) = Nước DUY NHẤT giữ được độc lập!\n\n🎋 Ngoại giao 'CÂY TRE'\n→ Đu dây giữa Anh và Pháp\n→ Nhượng đất, giữ được nước!",
+            "note": "Thái Lan = 'Vùng đệm' giữa thuộc địa Anh-Pháp!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CHÍNH SÁCH CAI TRỊ 😡\n\n🔪 'CHIA ĐỂ TRỊ'\n💰 Vơ vét tài nguyên\n📚 NGU DÂN (Không cho học)\n⚔️ Đàn áp khởi nghĩa",
+            "note": "Bóc lột tàn bạo, dân ĐNA cực khổ!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🎯 Mục đích: Tài nguyên, thị trường\n🏴‍☠️ Chiếm: Gần hết ĐNA\n🇹🇭 Ngoại lệ: Thái Lan (ngoại giao khéo)\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Tại sao phương Tây xâm lược ĐNA?",
+            "options": [
+                "Du lịch",
+                "Gia vị, tài nguyên, vị trí chiến lược",
+                "Tìm vàng",
+                "Truyền đạo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "ĐNA giàu gia vị, tài nguyên và nằm ở vị trí chiến lược!"
+        },
+        {
+            "question": "Nước nào xâm lược Đông Dương?",
+            "options": [
+                "Anh",
+                "Pháp",
+                "Hà Lan",
+                "Mỹ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pháp xâm lược 3 nước Đông Dương: Việt Nam, Lào, Campuchia!"
+        },
+        {
+            "question": "Nước ĐNA nào giữ được độc lập?",
+            "options": [
+                "Việt Nam",
+                "Indonesia",
+                "Thái Lan",
+                "Philippines"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Thái Lan (Xiêm) là nước DUY NHẤT ở ĐNA không bị thực dân chiếm!"
+        },
+        {
+            "question": "Thái Lan giữ độc lập bằng cách nào?",
+            "options": [
+                "Đánh thắng",
+                "Ngoại giao cây tre",
+                "Nhờ Mỹ bảo vệ",
+                "Trả tiền chuộc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thái Lan dùng ngoại giao khéo léo - đu dây giữa Anh và Pháp!"
+        },
+        {
+            "question": "'Chia để trị' là chính sách gì?",
+            "options": [
+                "Chia đất cho dân",
+                "Chia rẽ người bản địa để dễ cai trị",
+                "Chia phần lợi nhuận",
+                "Chia sẻ quyền lực"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chia để trị = Gây mâu thuẫn giữa các dân tộc, tôn giáo để dễ cai trị!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Nam_%C3%81"
+}

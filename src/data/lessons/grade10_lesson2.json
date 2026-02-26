@@ -1,0 +1,115 @@
+{
+    "id": "grade10_lesson2",
+    "title": "Bài 2: Tri thức lịch sử và cuộc sống",
+    "genZTitle": "Tại Sao Phải Học Sử? (Không Phải Để Trả Bài) 🙄",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Câu hỏi muôn thuở: HỌC SỬ ĐỂ LÀM GÌ? 🤔\n\nBạn có bao giờ nghĩ: 'Học mấy cái năm tháng ngày xưa có ích gì đâu?'\n\nHmm... Để mình chứng minh ngược lại nha! 👇"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "Lý do 1: BIẾT CỘI NGUỒN 🌳\n\nMình là ai? Từ đâu tới?\n\nHọc sử giúp bạn hiểu:\n• Tổ tiên mình đã sống như thế nào\n• Văn hóa Việt Nam hình thành ra sao\n• Tại sao mình lại là... mình",
+            "note": "Biết gốc rễ = Hiểu bản thân hơn",
+            "url": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "Lý do 2: ĐÚC KẾT KINH NGHIỆM 🧠\n\nThấy người ta SAI thì mình NÉ ra!\n\nLịch sử là kho tàng bài học:\n• Tại sao nước này thắng, nước kia thua?\n• Sai lầm nào dẫn đến sụp đổ?\n• Quyết định nào đã thay đổi cục diện?",
+            "note": "Học từ sai lầm của người khác = Thông minh!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)"
+        },
+        {
+            "id": 4,
+            "type": "quote",
+            "content": "Mọi sự kiện hôm nay đều là HỆ QUẢ của hôm qua.",
+            "note": "Muốn hiểu tại sao biên giới vẽ như thế này? Hỏi lịch sử! 🗺️"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "KẾT NỐI HIỆN TẠI 🔗\n\nMọi thứ bạn thấy đều có lịch sử:\n• Tên đường phố\n• Các ngày lễ\n• Thậm chí cả... món ăn!\n\nHiểu lịch sử = Nhìn thế giới sâu hơn",
+            "note": "Tại sao đường Hai Bà Trưng? Vì 2 bà đã đánh đuổi quân Hán!",
+            "url": "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "HỌC TẬP SUỐT ĐỜI 📚\n\nLịch sử KHÔNG chỉ nằm trong SGK!\n\nBạn có thể học qua:\n🎬 Phim ảnh (Kingdom, Gladiator...)\n🏛️ Bảo tàng, di tích\n🎮 Game (Age of Empires, Civilization)\n📱 Podcast, YouTube",
+            "note": "Học mà chơi, chơi mà học!",
+            "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_Qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "CƠ HỘI NGHỀ NGHIỆP 💼\n\nBiết sử giúp bạn:\n✈️ Làm hướng dẫn viên du lịch\n🎮 Thiết kế game lịch sử\n📝 Viết content, làm phim\n🏛️ Nghiên cứu, bảo tồn di sản\n\nLịch sử = Tiền đó bạn! 💰"
+        },
+        {
+            "id": 8,
+            "type": "text",
+            "content": "Tóm tắt bài 2:\n\n✅ Học sử để biết cội nguồn\n✅ Học sử để rút kinh nghiệm\n✅ Học sử để hiểu hiện tại\n✅ Học sử để MỞ CƠ HỘI NGHỀ NGHIỆP\n\nQuiz time! Xem bạn nhớ được bao nhiêu! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Học lịch sử giúp ta điều gì đầu tiên?",
+            "options": [
+                "Kiếm được nhiều tiền",
+                "Biết cội nguồn, biết mình là ai",
+                "Đi du lịch miễn phí",
+                "Thi đỗ đại học"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Học sử giúp ta hiểu tổ tiên, văn hóa và bản thân mình - đó là biết cội nguồn!"
+        },
+        {
+            "question": "Tại sao nói 'mọi sự kiện hôm nay là hệ quả của hôm qua'?",
+            "options": [
+                "Vì thời gian chạy liên tục",
+                "Vì hiện tại được tạo nên từ quá khứ",
+                "Vì sách giáo khoa viết vậy",
+                "Vì người xưa đoán tương lai"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lịch sử kết nối quá khứ - hiện tại - tương lai. Hiểu quá khứ giúp giải thích hiện tại!"
+        },
+        {
+            "question": "Lịch sử có thể học qua những nguồn nào?",
+            "options": [
+                "Chỉ sách giáo khoa",
+                "Chỉ bảo tàng",
+                "Phim ảnh, game, bảo tàng, di tích, podcast...",
+                "Chỉ từ thầy cô"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lịch sử ở khắp nơi! Phim, game, bảo tàng, di tích, YouTube... đều là nguồn học tuyệt vời!"
+        },
+        {
+            "question": "Biết lịch sử có thể giúp bạn làm nghề gì?",
+            "options": [
+                "Chỉ làm giáo viên",
+                "Du lịch, thiết kế game, viết content, bảo tồn di sản...",
+                "Không liên quan đến nghề nghiệp",
+                "Chỉ làm nhà sử học"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kiến thức lịch sử mở ra nhiều cơ hội: du lịch, game, content, phim ảnh, bảo tồn..."
+        },
+        {
+            "question": "Học từ sai lầm trong lịch sử có ý nghĩa gì?",
+            "options": [
+                "Để chê bai người xưa",
+                "Để tránh lặp lại sai lầm đó",
+                "Để viết sách",
+                "Không có ý nghĩa gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thấy người ta sai thì mình né ra! Đó là cách học thông minh từ lịch sử."
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Tri_th%E1%BB%A9c_l%E1%BB%8Bch_s%E1%BB%AD"
+}

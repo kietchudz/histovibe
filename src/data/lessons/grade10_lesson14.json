@@ -1,0 +1,102 @@
+{
+    "id": "grade10_lesson14",
+    "title": "Bài 14: Văn minh Champa",
+    "genZTitle": "Vương Quốc Gạch Nung & Biển Cả 🧱",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CHAMPA - Vương quốc bí ẩn! 🧱\n\nNằm ngay miền Trung Việt Nam!\n\nTháp cổ, gạch nung, biển cả... Cùng khám phá nào!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "ĐỊA BÀN 📍\n\nMiền Trung Việt Nam ngày nay\n(Từ Quảng Bình đến Bình Thuận)\n\n🌊 Dọc biển, thuận lợi thương mại\n⛰️ Xen kẽ núi đồi",
+            "note": "Thánh địa Mỹ Sơn ở Quảng Nam là di sản thế giới!",
+            "url": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "ĐẶC SẮC - THÁP GẠCH 🧱\n\nBậc thầy xây tháp gạch!\n\n• Thánh địa Mỹ Sơn - 70+ tháp\n• Kỹ thuật xây LIỀN MẠCH\n• Không thấy chất kết dính!\n\n→ Đến giờ còn bí ẩn cách xây!",
+            "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99_gi%C3%A1o"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TÍN NGƯỠNG 🙏\n\nẢnh hưởng mạnh từ ẤN ĐỘ:\n\n🕉️ Ấn Độ giáo (thờ Linga - Yoni)\n☸️ Phật giáo\n\n→ Tháp Chăm thờ thần Shiva",
+            "note": "Linga-Yoni = Biểu tượng sinh sản, phồn thực"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "KINH TẾ ⚓\n\n'VUA BIỂN' của ĐNÁ!\n\n⚓ Buôn bán đường biển cực mạnh\n🚢 Thủy quân thiện chiến\n💎 Trầm hương, vàng, ngà voi...",
+            "note": "Champa kiểm soát con đường tơ lụa trên biển!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📍 Địa bàn: Miền Trung VN\n🧱 Đặc sắc: Tháp gạch Mỹ Sơn\n🙏 Tín ngưỡng: Ấn Độ giáo, Phật giáo\n⚓ Kinh tế: 'Vua biển' thương mại\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Vương quốc Champa nằm ở đâu?",
+            "options": [
+                "Miền Bắc VN",
+                "Miền Trung VN",
+                "Miền Nam VN",
+                "Campuchia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Champa nằm ở miền Trung Việt Nam ngày nay!"
+        },
+        {
+            "question": "Thánh địa Mỹ Sơn nổi tiếng vì điều gì?",
+            "options": [
+                "Kim tự tháp",
+                "Tháp gạch kỹ thuật cao",
+                "Chùa chiền",
+                "Cung điện vàng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mỹ Sơn có 70+ tháp gạch với kỹ thuật xây liền mạch bí ẩn!"
+        },
+        {
+            "question": "Champa chịu ảnh hưởng văn hóa từ đâu?",
+            "options": [
+                "Trung Hoa",
+                "Ấn Độ",
+                "Hy Lạp",
+                "Ai Cập"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Champa chịu ảnh hưởng mạnh từ Ấn Độ (Ấn Độ giáo, Phật giáo)!"
+        },
+        {
+            "question": "Kinh tế Champa mạnh về lĩnh vực gì?",
+            "options": [
+                "Nông nghiệp lúa nước",
+                "Thương mại đường biển",
+                "Khai thác mỏ",
+                "Chăn nuôi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Champa là 'Vua biển' - buôn bán đường biển cực mạnh!"
+        },
+        {
+            "question": "Tháp Chăm chủ yếu thờ ai?",
+            "options": [
+                "Phật",
+                "Thần Shiva",
+                "Vua Hùng",
+                "Khổng Tử"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tháp Chăm chủ yếu thờ thần Shiva của Ấn Độ giáo!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "grade11_lesson13",
+    "title": "Bài 13: Biển Đông - Chủ quyền và Bảo vệ",
+    "genZTitle": "Bảo Vệ Biển Đông - Trách Nhiệm Thế Hệ 🛡️",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BẢO VỆ BIỂN ĐÔNG! 🛡️\n\nKhông chỉ là lịch sử - mà là TRÁCH NHIỆM!\n\nThế hệ trẻ cần biết và hành động!",
+            "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "THỰC TRẠNG HIỆN NAY ⚠️\n\n🔴 Tranh chấp phức tạp\n🔴 Một số nước xâm phạm\n🔴 Xây dựng trái phép trên đảo VN\n\n→ Chủ quyền bị đe dọa!",
+            "note": "Tình hình không đơn giản!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_%C6%B0%E1%BB%9Bc_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c_v%E1%BB%81_Lu%E1%BA%ADt_bi%E1%BB%83n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "LẬP TRƯỜNG VIỆT NAM 🇻🇳\n\n✅ Kiên quyết bảo vệ chủ quyền\n✅ Giải quyết bằng LUẬT PHÁP QUỐC TẾ\n✅ Biện pháp HÒA BÌNH\n✅ Đối thoại thay vì đối đầu",
+            "note": "Hòa bình nhưng KIÊN QUYẾT!",
+            "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Ho%C3%A0ng_Sa"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CƠ SỞ PHÁP LÝ 📜\n\n📜 UNCLOS 1982 (Công ước Luật Biển LHQ)\n📜 Luật Biển Việt Nam 2012\n📜 DOC (Tuyên bố ứng xử Biển Đông)\n\n→ VN có đầy đủ cơ sở pháp lý!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "THẾ HỆ TRẺ CẦN LÀM GÌ? 💪\n\n📚 Hiểu biết về chủ quyền\n📢 Tuyên truyền đúng đắn\n🛡️ Sẵn sàng bảo vệ Tổ quốc\n❤️ Yêu nước bằng hành động\n\n→ Mỗi người một phần trách nhiệm!",
+            "note": "Bảo vệ chủ quyền = Trách nhiệm thế hệ!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n⚠️ Thực trạng: Tranh chấp phức tạp\n🇻🇳 Lập trường: Kiên quyết, hòa bình\n📜 Pháp lý: UNCLOS, Luật Biển VN\n💪 Trách nhiệm: Mỗi người đều có!\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Lập trường của VN về Biển Đông?",
+            "options": [
+                "Dùng vũ lực",
+                "Kiên quyết, giải quyết hòa bình",
+                "Bỏ qua",
+                "Nhờ nước lớn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "VN kiên quyết bảo vệ chủ quyền bằng biện pháp hòa bình, luật pháp quốc tế!"
+        },
+        {
+            "question": "Luật Biển Việt Nam ban hành năm nào?",
+            "options": [
+                "2000",
+                "2010",
+                "2012",
+                "2015"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Luật Biển Việt Nam được ban hành năm 2012!"
+        },
+        {
+            "question": "DOC là gì?",
+            "options": [
+                "Luật quốc tế",
+                "Tuyên bố ứng xử các bên ở Biển Đông",
+                "Tổ chức quân sự",
+                "Hiệp ước thương mại"
+            ],
+            "correctAnswer": 1,
+            "explanation": "DOC = Declaration on Conduct - Tuyên bố về ứng xử các bên ở Biển Đông!"
+        },
+        {
+            "question": "Thanh niên cần làm gì để bảo vệ chủ quyền?",
+            "options": [
+                "Không cần làm gì",
+                "Hiểu biết, tuyên truyền, sẵn sàng",
+                "Chỉ học giỏi",
+                "Chờ người lớn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mỗi người đều có trách nhiệm: hiểu biết, tuyên truyền, sẵn sàng bảo vệ!"
+        },
+        {
+            "question": "Giải quyết tranh chấp Biển Đông bằng cách nào?",
+            "options": [
+                "Chiến tranh",
+                "Luật pháp quốc tế và đối thoại",
+                "Bỏ qua tranh chấp",
+                "Nhờ Mỹ đánh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Giải quyết bằng luật pháp quốc tế (UNCLOS) và đối thoại hòa bình!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng"
+}

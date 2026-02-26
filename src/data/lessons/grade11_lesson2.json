@@ -1,0 +1,100 @@
+{
+    "id": "grade11_lesson2",
+    "title": "Bài 2: Sự xác lập và phát triển của CNTB",
+    "genZTitle": "Tư Bản Chủ Nghĩa - Trùm Kinh Tế Thế Giới 💰",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CHỦ NGHĨA TƯ BẢN! 💰\n\nSau các cuộc CM tư sản...\nCNTB lan rộng từ Âu → Mỹ → Á (Nhật Bản)\n\nTrở thành HỆ THỐNG KINH TẾ thống trị!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_t%C6%B0_b%E1%BA%A3n"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "XÁC LẬP 🌍\n\n🇬🇧 Anh - 'Công xưởng thế giới'\n🇫🇷 Pháp - CM triệt để\n🇺🇸 Mỹ - Đất mới, phát triển nhanh\n🇯🇵 Nhật - Duy tân Minh Trị\n\n→ CNTB thống trị toàn cầu!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CHỦ NGHĨA ĐẾ QUỐC 🏴‍☠️\n\nTư bản giàu → Thừa tiền → Cần thị trường!\n\n→ ĐI XÂM LƯỢC THUỘC ĐỊA!\n\n🇬🇧 Anh, 🇫🇷 Pháp, 🇩🇪 Đức chia nhau 'cái bánh' thế giới",
+            "note": "Châu Phi, châu Á bị chia nhau!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_%C4%91%E1%BA%BF_qu%E1%BB%91c"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CNTB HIỆN ĐẠI 📈\n\nSau 2 cuộc Thế chiến, CNTB 'NÂNG CẤP':\n\n✅ Có sự điều tiết của nhà nước\n✅ Phúc lợi xã hội tốt hơn\n✅ Áp dụng công nghệ cao\n\n(Ví dụ: Silicon Valley)"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "THÁCH THỨC 😰\n\n❌ Khủng hoảng tài chính (2008...)\n❌ Chênh lệch giàu nghèo ngày càng lớn\n❌ Ô nhiễm môi trường\n\nCNTB không hoàn hảo!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📈 Xác lập: Sau CM tư sản\n🏴‍☠️ Đế quốc: Xâm lược thuộc địa\n🔄 Hiện đại: Có điều tiết, công nghệ cao\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "CNTB xác lập sau sự kiện gì?",
+            "options": [
+                "Thế chiến 1",
+                "Các cuộc CM tư sản",
+                "Chiến tranh lạnh",
+                "CM tháng 10"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CNTB xác lập và lan rộng sau các cuộc cách mạng tư sản!"
+        },
+        {
+            "question": "Chủ nghĩa đế quốc là gì?",
+            "options": [
+                "Yêu hòa bình",
+                "Xâm lược thuộc địa để mở rộng thị trường",
+                "Giúp đỡ nước nghèo",
+                "Cô lập"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đế quốc = Tư bản thừa tiền nên đi xâm lược thuộc địa để tìm thị trường!"
+        },
+        {
+            "question": "Nước châu Á nào phát triển CNTB sớm nhất?",
+            "options": [
+                "Trung Quốc",
+                "Việt Nam",
+                "Nhật Bản",
+                "Thái Lan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nhật Bản thông qua Duy tân Minh Trị (1868) phát triển CNTB!"
+        },
+        {
+            "question": "CNTB hiện đại có đặc điểm gì?",
+            "options": [
+                "Không có nhà nước",
+                "Có điều tiết của nhà nước",
+                "Không dùng công nghệ",
+                "Không có phúc lợi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CNTB hiện đại có sự điều tiết của nhà nước và phúc lợi xã hội!"
+        },
+        {
+            "question": "Thách thức của CNTB là gì?",
+            "options": [
+                "Không có thách thức",
+                "Khủng hoảng, chênh lệch giàu nghèo",
+                "Quá hoàn hảo",
+                "Phát triển chậm"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CNTB đối mặt với khủng hoảng, chênh lệch giàu nghèo, ô nhiễm..."
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_t%C6%B0_b%E1%BA%A3n"
+}

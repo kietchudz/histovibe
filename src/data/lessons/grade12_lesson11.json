@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson11",
+    "title": "Bài 14, 15: Di sản văn hóa",
+    "genZTitle": "Gìn Giữ 'Kho Báu' Quốc Gia 🏺",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "DI SẢN VĂN HÓA! 🏺\n\nKho báu của dân tộc!\n\nBảo tồn + Phát huy = Di sản 'SỐNG'!",
+            "url": "https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "PHÂN LOẠI 📋\n\n🏛️ DI SẢN VẬT THỂ:\n• Cố đô Huế, Phố cổ Hội An\n• Chùa, đình, đền, lăng mộ\n\n🎭 DI SẢN PHI VẬT THỂ:\n• Nhã nhạc Huế\n• Dân ca Quan họ\n• Tín ngưỡng thờ Hùng Vương",
+            "note": "Cả 2 loại đều quý giá!",
+            "url": "https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_th%E1%BA%BF_gi%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "DI SẢN THẾ GIỚI CỦA VN 🌏\n\n🏛️ Vật thể: Cố đô Huế, Hội An, Mỹ Sơn...\n🎭 Phi vật thể: Nhã nhạc, Quan họ, Ca trù, Hát xoan...\n🌄 Thiên nhiên: Vịnh Hạ Long, Phong Nha...\n\n→ VN có 8 di sản thế giới!",
+            "note": "UNESCO công nhận!",
+            "url": "https://vi.wikipedia.org/wiki/UNESCO"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "BẢO TỒN 🛡️\n\n✅ Giữ nguyên trạng (không làm méo mó)\n✅ Trùng tu khoa học (dùng kỹ thuật đúng)\n✅ Số hóa, lưu trữ\n✅ Giáo dục, tuyên truyền\n\n→ Để các thế hệ sau được hưởng thụ!",
+            "note": "Bảo tồn không phải 'đóng băng' mà là giữ gìn đúng cách!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "PHÁT HUY 🚀\n\n✅ Biến di sản → Sản phẩm du lịch\n✅ Giáo dục trong nhà trường\n✅ Sáng tạo trên nền tảng truyền thống\n\n→ Để di sản 'SỐNG' trong đời sống!",
+            "note": "Di sản không chỉ để ngắm, mà để trải nghiệm!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📋 Phân loại: Vật thể & Phi vật thể\n🌏 Thế giới: 8 di sản UNESCO\n🛡️ Bảo tồn: Giữ nguyên, trùng tu khoa học\n🚀 Phát huy: Du lịch, giáo dục, sáng tạo\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Di sản phi vật thể là gì?",
+            "options": [
+                "Chùa chiền",
+                "Âm nhạc, lễ hội, tín ngưỡng",
+                "Nhà cổ",
+                "Cố đô"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phi vật thể = Không sờ được: âm nhạc, lễ hội, tín ngưỡng, phong tục..."
+        },
+        {
+            "question": "VN có bao nhiêu di sản thế giới UNESCO?",
+            "options": [
+                "3",
+                "5",
+                "8",
+                "10"
+            ],
+            "correctAnswer": 2,
+            "explanation": "VN có 8 di sản thế giới (vật thể, phi vật thể, thiên nhiên)!"
+        },
+        {
+            "question": "Bảo tồn di sản cần làm gì?",
+            "options": [
+                "Phá đi xây mới",
+                "Giữ nguyên trạng, trùng tu khoa học",
+                "Đóng cửa không cho ai vào",
+                "Bán cho nước ngoài"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bảo tồn = Giữ nguyên bản gốc, trùng tu đúng kỹ thuật, không làm méo mó!"
+        },
+        {
+            "question": "Nhã nhạc Huế thuộc loại di sản nào?",
+            "options": [
+                "Vật thể",
+                "Phi vật thể",
+                "Thiên nhiên",
+                "Kiến trúc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhã nhạc là âm nhạc cung đình = Di sản phi vật thể!"
+        },
+        {
+            "question": "'Phát huy' di sản nghĩa là gì?",
+            "options": [
+                "Bỏ đi",
+                "Đưa vào đời sống: du lịch, giáo dục",
+                "Để đó không làm gì",
+                "Bán đi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phát huy = Làm cho di sản 'sống' trong đời sống: du lịch, giáo dục, sáng tạo!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a"
+}

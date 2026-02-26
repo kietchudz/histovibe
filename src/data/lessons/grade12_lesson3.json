@@ -1,0 +1,103 @@
+{
+    "id": "grade12_lesson3",
+    "title": "Bài 3, 4: ASEAN",
+    "genZTitle": "ASEAN - Hội Anh Em Đông Nam Á 🤝",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ASEAN - Anh em ĐNA! 🤝\n\nHiệp hội các quốc gia Đông Nam Á\n\n10 nước, 1 nhà!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_h%E1%BB%99i_c%C3%A1c_qu%E1%BB%91c_gia_%C4%90%C3%B4ng_Nam_%C3%81"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "THÀNH LẬP 🌟\n\n📅 1967, Bangkok (Thái Lan)\n🏳️ 5 nước đầu: Indonesia, Malaysia, Philippines, Singapore, Thái Lan\n\n📅 Hiện nay: 10 NƯỚC\n(+ Brunei, VN, Lào, Myanmar, Campuchia)",
+            "note": "Đông Timor đang chờ gia nhập!",
+            "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_b%E1%BB%91_B%C4%83ng_C%E1%BB%91c"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "MỤC TIÊU 🎯\n\n🤝 Hợp tác kinh tế, văn hóa\n🕊️ Giữ HÒA BÌNH khu vực\n\nNguyên tắc:\n❌ Không can thiệp nội bộ\n✅ Quyết định bằng ĐỒNG THUẬN",
+            "note": "ASEAN Way = Tôn trọng, đồng thuận!",
+            "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CỘNG ĐỒNG ASEAN (2015) 🏆\n\nNâng cấp lên mức chặt chẽ hơn (kiểu EU lite)!\n\n3 TRỤ CỘT:\n🛡️ Cộng đồng Chính trị - An ninh\n💰 Cộng đồng Kinh tế\n🎭 Cộng đồng Văn hóa - Xã hội",
+            "note": "Liên kết sâu hơn, nhưng vẫn tôn trọng chủ quyền!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "VIỆT NAM & ASEAN 🇻🇳\n\n📅 Gia nhập: 1995\n🏆 Chủ tịch ASEAN: 2010, 2020\n\n→ VN đóng vai trò TÍCH CỰC trong ASEAN!",
+            "note": "VN từ đối thủ (chiến tranh) → thành viên tích cực!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📅 Thành lập: 1967\n🏳️ Thành viên: 10 nước\n🎯 Mục tiêu: Hợp tác, hòa bình\n🏆 2015: Cộng đồng ASEAN (3 trụ cột)\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "ASEAN thành lập năm nào?",
+            "options": [
+                "1945",
+                "1955",
+                "1967",
+                "1975"
+            ],
+            "correctAnswer": 2,
+            "explanation": "ASEAN thành lập năm 1967 tại Bangkok với 5 nước đầu!"
+        },
+        {
+            "question": "Hiện nay ASEAN có bao nhiêu thành viên?",
+            "options": [
+                "5",
+                "7",
+                "10",
+                "11"
+            ],
+            "correctAnswer": 2,
+            "explanation": "ASEAN hiện có 10 thành viên, Đông Timor đang chờ gia nhập!"
+        },
+        {
+            "question": "Nguyên tắc quan trọng của ASEAN?",
+            "options": [
+                "Đa số thắng",
+                "Không can thiệp nội bộ, đồng thuận",
+                "Nước lớn quyết định",
+                "Bỏ phiếu kín"
+            ],
+            "correctAnswer": 1,
+            "explanation": "ASEAN Way: Không can thiệp nội bộ, quyết định bằng đồng thuận!"
+        },
+        {
+            "question": "Cộng đồng ASEAN có bao nhiêu trụ cột?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correctAnswer": 1,
+            "explanation": "3 trụ cột: Chính trị-An ninh, Kinh tế, Văn hóa-Xã hội!"
+        },
+        {
+            "question": "Việt Nam gia nhập ASEAN năm nào?",
+            "options": [
+                "1986",
+                "1990",
+                "1995",
+                "2000"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Việt Nam gia nhập ASEAN năm 1995!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_h%E1%BB%99i_c%C3%A1c_qu%E1%BB%91c_gia_%C4%90%C3%B4ng_Nam_%C3%81"
+}

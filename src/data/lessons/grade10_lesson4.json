@@ -1,0 +1,108 @@
+{
+    "id": "grade10_lesson4",
+    "title": "Bài 4: Sử học với một số lĩnh vực, ngành nghề hiện đại",
+    "genZTitle": "Kiếm Tiền Từ Lịch Sử - Tại Sao Không? 💸",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Ai bảo học Sử không kiếm được tiền? 💰\n\nLịch sử liên quan đến RẤT NHIỀU ngành hot hiện nay!\n\nLet's see nào... 👀"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BẢO TỒN DI SẢN 🏛️\n\nDi sản văn hóa = 'MỎ VÀNG' của quốc gia!\n\nSử học giúp:\n✅ Xác định giá trị (cái nào đáng bảo tồn)\n✅ Lên phương án bảo vệ\n✅ Phát triển du lịch",
+            "note": "Bảo tồn tốt → Du lịch phát triển → Tiền vào!",
+            "url": "https://vi.wikipedia.org/wiki/Du_l%E1%BB%8Bch"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "DU LỊCH VĂN HÓA ✈️\n\nKhách Tây sang VN để xem gì?\n\n❌ Không phải nhà lầu, xe hơi\n✅ Cố đô Huế, Phố cổ Hội An, Thánh địa Mỹ Sơn!\n\nKiến thức lịch sử = TIỀN 💵",
+            "note": "Hướng dẫn viên giỏi sử = Được tip nhiều!",
+            "url": "https://vi.wikipedia.org/wiki/B%C3%A1o_ch%C3%AD"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CÔNG NGHIỆP VĂN HÓA 🎬\n\nTất cả đều cần 'chất liệu' lịch sử:\n\n🎥 Phim cổ trang (Kingdom, Joseon Exorcist)\n🎮 Game lịch sử (7554, Đế Chế, Total War)\n👗 Thời trang cách tân (áo dài hiện đại)\n📚 Truyện, tiểu thuyết lịch sử",
+            "note": "Content creator cũng cần biết sử để làm viral content!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_ngh%E1%BB%87_th%C3%B4ng_tin"
+        },
+        {
+            "id": 5,
+            "type": "quote",
+            "content": "Lịch sử + Sáng tạo = Sản phẩm văn hóa giá trị cao!",
+            "note": "Biết càng nhiều sử, làm content càng chất! 🔥"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Nghề nghiệp liên quan đến Sử học:\n\n📚 Nhà nghiên cứu, giảng viên\n✈️ Hướng dẫn viên du lịch\n🎬 Biên kịch, đạo diễn phim\n🎮 Game designer\n📱 Content creator\n🏛️ Chuyên viên bảo tồn"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt bài 4:\n\n🏛️ Bảo tồn di sản = Giữ gìn giá trị\n✈️ Du lịch văn hóa = Kiếm tiền từ di tích\n🎬 Công nghiệp văn hóa = Sáng tạo từ lịch sử\n\nLịch sử = Cơ hội nghề nghiệp! 💼"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Di sản văn hóa được ví như gì?",
+            "options": [
+                "Gánh nặng quốc gia",
+                "Mỏ vàng của quốc gia",
+                "Đồ cổ vô giá trị",
+                "Chỉ để trưng bày"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Di sản văn hóa là mỏ vàng vì nó thu hút du khách và tạo ra giá trị kinh tế!"
+        },
+        {
+            "question": "Khách du lịch quốc tế đến Việt Nam chủ yếu để xem gì?",
+            "options": [
+                "Nhà cao tầng hiện đại",
+                "Di tích lịch sử, văn hóa",
+                "Khu công nghiệp",
+                "Trung tâm thương mại"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cố đô Huế, Hội An, Mỹ Sơn... là những điểm đến hấp dẫn nhất với khách quốc tế!"
+        },
+        {
+            "question": "Công nghiệp văn hóa bao gồm những sản phẩm nào?",
+            "options": [
+                "Chỉ có phim ảnh",
+                "Phim, game, thời trang, truyện, content...",
+                "Chỉ có sách giáo khoa",
+                "Chỉ có bảo tàng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Công nghiệp văn hóa rất đa dạng: phim cổ trang, game, thời trang cách tân, content viral..."
+        },
+        {
+            "question": "Nghề nào KHÔNG liên quan trực tiếp đến kiến thức lịch sử?",
+            "options": [
+                "Hướng dẫn viên du lịch",
+                "Biên kịch phim cổ trang",
+                "Lập trình viên AI",
+                "Chuyên viên bảo tồn di sản"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lập trình AI không cần kiến thức lịch sử chuyên sâu như các nghề còn lại!"
+        },
+        {
+            "question": "Bảo tồn di sản tốt mang lại lợi ích gì?",
+            "options": [
+                "Chỉ tốn tiền",
+                "Du lịch phát triển, kinh tế tăng trưởng",
+                "Không có lợi ích",
+                "Chỉ để nghiên cứu"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bảo tồn tốt → Du lịch phát triển → Kinh tế địa phương tăng trưởng → Win-win!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+}

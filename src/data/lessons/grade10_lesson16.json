@@ -1,0 +1,103 @@
+{
+    "id": "grade10_lesson16",
+    "title": "Bài 16: Văn minh Đại Việt (P1: Kinh tế - Chính trị)",
+    "genZTitle": "Đại Việt - Khẳng Định Vị Thế 'Rồng Bay' 🐉",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "ĐẠI VIỆT - Rồng vươn mình! 🐉\n\nGần 1000 năm độc lập!\n\nTừ Đại Cồ Việt → Đại Việt → Đại Nam",
+            "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CHÍNH TRỊ 👑\n\nQUÂN CHỦ CHUYÊN CHẾ\n(Vua quyết tất cả!)\n\n• Thời Lý-Trần: Tương đối mềm dẻo\n• Thời Lê sơ: Tập quyền cao độ\n• Thời Nguyễn: Chặt chẽ nhất",
+            "note": "Vua nắm toàn bộ quyền lực!",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "LUẬT PHÁP ⚖️\n\n📜 Hình thư (Nhà Lý) - Bộ luật đầu tiên\n📜 Quốc triều hình luật (Nhà Lê) - Hoàn chỉnh nhất\n\n'Phép vua thua lệ làng' nhưng luật vẫn là tối thượng!",
+            "note": "Luật Hồng Đức rất tiến bộ, bảo vệ phụ nữ!",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "KINH TẾ 🌾\n\n'DĨ NÔNG VI BẢN' (Nông nghiệp là gốc)\n\n🌾 Lúa nước là chủ đạo\n🏺 Thủ công: Gốm sứ, Tơ lụa\n🚢 Thương mại: Vân Đồn, Hội An",
+            "note": "Chính sách 'trọng nông ức thương' - ưu tiên nông nghiệp!",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1"
+        },
+        {
+            "id": 5,
+            "type": "timeline",
+            "content": "968 | Đinh Bộ Lĩnh lập Đại Cồ Việt 🏛️\n1010 | Lý Công Uẩn dời đô về Thăng Long\n1428 | Lê Lợi lập nhà Lê, đỉnh cao Đại Việt\n1802 | Nguyễn Ánh lập nhà Nguyễn"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n👑 Chính trị: Quân chủ chuyên chế\n⚖️ Luật pháp: Hình thư, Quốc triều hình luật\n🌾 Kinh tế: Dĩ nông vi bản\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Đại Việt theo thể chế chính trị nào?",
+            "options": [
+                "Dân chủ",
+                "Quân chủ chuyên chế",
+                "Cộng hòa",
+                "Phong kiến phân quyền"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Quân chủ chuyên chế = Vua nắm toàn bộ quyền lực, quyết định mọi thứ!"
+        },
+        {
+            "question": "Bộ luật đầu tiên của Đại Việt là gì?",
+            "options": [
+                "Quốc triều hình luật",
+                "Hình thư",
+                "Luật Hồng Đức",
+                "Hoàng Việt luật lệ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hình thư do nhà Lý ban hành - bộ luật thành văn đầu tiên!"
+        },
+        {
+            "question": "'Dĩ nông vi bản' nghĩa là gì?",
+            "options": [
+                "Thương mại là chính",
+                "Nông nghiệp là gốc",
+                "Công nghiệp là trọng",
+                "Ngư nghiệp là chủ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dĩ nông vi bản = Lấy nông nghiệp làm gốc, ưu tiên phát triển nông nghiệp!"
+        },
+        {
+            "question": "Thương cảng nổi tiếng thời Đại Việt?",
+            "options": [
+                "Sài Gòn",
+                "Vân Đồn, Hội An",
+                "Đà Nẵng",
+                "Hải Phòng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vân Đồn (Quảng Ninh) và Hội An là thương cảng sầm uất thời Đại Việt!"
+        },
+        {
+            "question": "Ai dời đô về Thăng Long năm 1010?",
+            "options": [
+                "Lê Lợi",
+                "Lý Công Uẩn",
+                "Trần Hưng Đạo",
+                "Nguyễn Huệ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lý Thái Tổ (Lý Công Uẩn) dời đô từ Hoa Lư về Thăng Long năm 1010!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+}

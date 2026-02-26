@@ -1,0 +1,102 @@
+{
+    "id": "grade10_lesson13",
+    "title": "Bài 13: Văn minh Văn Lang - Âu Lạc",
+    "genZTitle": "Ông Tổ Hùng Vương & Thời Đại Trống Đồng 🥁",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "🇻🇳 VỀ NGUỒN CỘI!\n\nVăn minh Văn Lang - Âu Lạc = Cái nôi của dân tộc Việt!\n\nTrống đồng Đông Sơn, Vua Hùng, thành Cổ Loa... Let's go! 🥁",
+            "url": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CƠ SỞ HÌNH THÀNH 🌾\n\n📍 Lưu vực: Sông Hồng, sông Mã, sông Cả\n🔨 Văn hóa Đông Sơn (Đỉnh cao đồ đồng)\n🌾 Nông nghiệp lúa nước\n\n→ Nền văn minh đầu tiên của người Việt!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%91ng_%C4%91%E1%BB%93ng_%C4%90%C3%B4ng_S%C6%A1n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "NHÀ NƯỚC 🏛️\n\n👑 VĂN LANG (Vua Hùng)\n→ ÂU LẠC (An Dương Vương)\n\n• Nhà nước sơ khai\n• Quản lý bằng tập quán (chưa có luật viết)\n• Đất chia làm 15 bộ",
+            "note": "Ngày 10/3 âm lịch = Giỗ tổ Hùng Vương!",
+            "url": "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "ĐỜI SỐNG 🏠\n\n🍚 Ăn cơm tẻ, uống nước chè\n🏠 Ở nhà sàn (chống thú, chống lũ)\n😁 Nhuộm răng đen, ăn trầu\n🙏 Thờ cúng tổ tiên, tín ngưỡng phồn thực",
+            "note": "'Miếng trầu là đầu câu chuyện'",
+            "url": "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "BIỂU TƯỢNG 🥁\n\n🥁 TRỐNG ĐỒNG ĐÔNG SƠN:\n• Đỉnh cao kỹ thuật đúc đồng\n• Hoa văn tinh xảo (chim Lạc, thuyền...)\n\n🏰 THÀNH CỔ LOA:\n• Kiến trúc quân sự độc đáo\n• 3 vòng thành xoáy ốc"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🌾 Cơ sở: Sông Hồng, văn hóa Đông Sơn\n👑 Nhà nước: Văn Lang → Âu Lạc\n🥁 Biểu tượng: Trống đồng, Cổ Loa\n\nQuiz time! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Văn minh Văn Lang hình thành ở đâu?",
+            "options": [
+                "Sông Mekong",
+                "Sông Hồng, sông Mã, sông Cả",
+                "Sông Nin",
+                "Sông Hoàng Hà"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Văn minh Văn Lang hình thành ở lưu vực sông Hồng, sông Mã, sông Cả!"
+        },
+        {
+            "question": "Ai là vua của nước Văn Lang?",
+            "options": [
+                "An Dương Vương",
+                "Vua Hùng",
+                "Ngô Quyền",
+                "Lý Thái Tổ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vua Hùng là người đứng đầu nước Văn Lang - 18 đời vua Hùng!"
+        },
+        {
+            "question": "Trống đồng Đông Sơn thể hiện điều gì?",
+            "options": [
+                "Kỹ thuật đúc đồng đỉnh cao",
+                "Người Việt biết làm giấy",
+                "Có chữ viết",
+                "Đã có kim tự tháp"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Trống đồng Đông Sơn = Đỉnh cao kỹ thuật đúc đồng của người Việt cổ!"
+        },
+        {
+            "question": "Thành Cổ Loa có đặc điểm gì?",
+            "options": [
+                "Vuông vức",
+                "3 vòng xoáy ốc",
+                "Tam giác",
+                "Không có tường"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thành Cổ Loa có 3 vòng thành xoáy ốc - kiến trúc quân sự độc đáo!"
+        },
+        {
+            "question": "Người Việt cổ có phong tục gì?",
+            "options": [
+                "Nhuộm răng trắng",
+                "Nhuộm răng đen, ăn trầu",
+                "Ăn bánh mì",
+                "Ở nhà cao tầng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhuộm răng đen, ăn trầu là phong tục đặc trưng của người Việt cổ!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang"
+}

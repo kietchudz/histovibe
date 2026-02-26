@@ -1,0 +1,122 @@
+{
+    "id": "grade10_lesson1",
+    "title": "Bài 1: Hiện thực lịch sử và nhận thức lịch sử",
+    "genZTitle": "Sự Thật vs. Tin Đồn - Drama Lịch Sử 🧐",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Yo! 👋 Chào mừng đến với HistoVibe!\n\nHôm nay mình sẽ trả lời câu hỏi: Lịch sử là gì?\n\nĐơn giản thôi: Tất cả những gì ĐÃ xảy ra (từ vụ Big Bang đến tin nhắn bạn gửi tối qua) đều là lịch sử!",
+            "note": "Swipe để khám phá thêm nha! →",
+            "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "Để học dễ hơn, ta chia lịch sử làm 2 loại:\n\n📌 Hiện thực lịch sử\n📌 Nhận thức lịch sử\n\nKhác nhau chỗ nào? Tiếp tục đọc nè! 👇"
+        },
+        {
+            "id": 3,
+            "type": "quote",
+            "content": "Hiện thực lịch sử là sự thật 100%, khách quan, đã xảy ra rồi, KHÔNG sửa được.",
+            "note": "Giống như bàn thắng đã vào lưới - VAR cũng không đổi được!",
+            "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+        },
+        {
+            "id": 4,
+            "type": "timeline",
+            "content": "938 | Ngô Quyền đánh thắng Nam Hán trên sông Bạch Đằng 🚩\n1945 | Bác Hồ đọc Tuyên ngôn Độc lập 🇻🇳\n1975 | Thống nhất đất nước 🎉",
+            "note": "Những sự kiện này = Hiện thực lịch sử. Đã xảy ra, point!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "Nhận thức lịch sử là gì? 🤔\n\nLà những gì con người BIẾT và GHI LẠI về quá khứ.\n\nCái này hên xui, phụ thuộc vào POV (góc nhìn) của người viết sử. Có thể đúng, có thể thiếu, có thể bias!",
+            "note": "Ai chép sử = Người đó có quyền kể story"
+        },
+        {
+            "id": 6,
+            "type": "quote",
+            "content": "Hiện thực lịch sử chỉ có 1, nhưng Nhận thức lịch sử thì muôn hình vạn trạng!",
+            "note": "Key point cần nhớ cho bài kiểm tra! 📝"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Mối quan hệ giữa 2 cái này:\n\n🎯 Hiện thực = Sự thật gốc\n🔍 Nhận thức = Cách ta hiểu về nó\n\nNhiệm vụ của Sử học: Làm sao cho 'Nhận thức' TIỆM CẬN nhất với 'Hiện thực'!",
+            "note": "Như detective tìm ra truth vậy đó 🕵️",
+            "url": "https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_ph%C3%A1p_nghi%C3%AAn_c%E1%BB%A9u_l%E1%BB%8Bch_s%E1%BB%AD"
+        },
+        {
+            "id": 8,
+            "type": "text",
+            "content": "Vậy Sử học là gì?\n\nLà môn khoa học 'DỰNG LẠI HIỆN TRƯỜNG' 🔎\n\nChức năng:\n✅ Khôi phục quá khứ (biết chuyện gì đã xảy ra)\n✅ Giáo dục (để bớt 'ngáo' trong tương lai)",
+            "note": "Học sử = Level up tư duy 🧠"
+        },
+        {
+            "id": 9,
+            "type": "text",
+            "content": "Tóm tắt bài 1:\n\n🔹 Hiện thực lịch sử = Sự thật khách quan\n🔹 Nhận thức lịch sử = Góc nhìn chủ quan\n🔹 Sử học = Khoa học dựng lại quá khứ\n\nGiờ thì quiz thử xem nhớ được bao nhiêu! 🧠💪"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Hiện thực lịch sử có đặc điểm gì?",
+            "options": [
+                "Có thể thay đổi theo thời gian",
+                "Khách quan, đã xảy ra, không thể thay đổi",
+                "Phụ thuộc vào người ghi chép",
+                "Luôn được ghi nhận đầy đủ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiện thực lịch sử là sự thật 100%, khách quan, đã xảy ra và KHÔNG THỂ sửa đổi được!"
+        },
+        {
+            "question": "Nhận thức lịch sử là gì?",
+            "options": [
+                "Sự thật tuyệt đối về quá khứ",
+                "Những gì con người biết và ghi lại về quá khứ",
+                "Chỉ những sự kiện quan trọng",
+                "Những điều chưa xảy ra"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nhận thức lịch sử phụ thuộc vào góc nhìn (POV) của người viết, nên có thể đúng, thiếu hoặc bias!"
+        },
+        {
+            "question": "Nhiệm vụ của Sử học là gì?",
+            "options": [
+                "Bịa ra câu chuyện hấp dẫn",
+                "Làm cho nhận thức tiệm cận với hiện thực",
+                "Chỉ ghi lại chiến tranh",
+                "Phục vụ mục đích chính trị"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sử học như detective - tìm cách dựng lại hiện trường, khôi phục sự thật lịch sử!"
+        },
+        {
+            "question": "Về số lượng, hiện thực lịch sử và nhận thức lịch sử có gì khác nhau?",
+            "options": [
+                "Cả hai đều có nhiều phiên bản",
+                "Hiện thực có 1, nhận thức có nhiều",
+                "Nhận thức có 1, hiện thực có nhiều",
+                "Cả hai đều chỉ có 1"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiện thực chỉ có 1 (sự thật), nhưng Nhận thức thì muôn hình vạn trạng tùy góc nhìn!"
+        },
+        {
+            "question": "Chức năng của Sử học gồm những gì?",
+            "options": [
+                "Chỉ ghi chép sự kiện",
+                "Khôi phục quá khứ và giáo dục",
+                "Chỉ phục vụ du lịch",
+                "Chỉ để thi cử"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sử học vừa khôi phục quá khứ (biết chuyện gì xảy ra), vừa giáo dục (rút kinh nghiệm cho tương lai)!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+}

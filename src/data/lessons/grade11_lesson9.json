@@ -1,0 +1,102 @@
+{
+    "id": "grade11_lesson9",
+    "title": "Bài 9, 10, 11: Các cuộc cải cách (Hồ Quý Ly, Lê Thánh Tông, Minh Mạng)",
+    "genZTitle": "Top 3 CEO Cải Tổ Đại Việt 🛠️",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "TOP 3 NHÀ CẢI CÁCH! 🛠️\n\n3 cuộc cải cách lớn trong lịch sử:\n\n1️⃣ Hồ Quý Ly (Cuối Trần)\n2️⃣ Lê Thánh Tông (Lê Sơ)\n3️⃣ Minh Mạng (Nguyễn)",
+            "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "HỒ QUÝ LY (Cuối Trần) ❌\n\nCải cách TÁO BẠO:\n💵 Tiền giấy (thay tiền đồng)\n🌾 Hạn điền, hạn nô (giới hạn ruộng đất, nô tỳ)\n📚 Cải cách giáo dục\n\n❌ THẤT BẠI!\nVì: Không hợp lòng dân + Giặc Minh xâm lược",
+            "note": "Ý tưởng hay nhưng timing và cách làm sai!",
+            "url": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "LÊ THÁNH TÔNG (Lê Sơ) ✅\n\nCải cách TOÀN DIỆN NHẤT!\n\n⚖️ Luật Hồng Đức (bảo vệ cả phụ nữ!)\n🏛️ Bộ máy hành chính hoàn hảo\n👑 Tập quyền cao độ\n🎓 Khoa cử nghiêm ngặt\n\n✅ THÀNH CÔNG!\n→ Đưa Đại Việt lên ĐỈNH CAO!",
+            "note": "Thời kỳ thịnh trị nhất của Đại Việt!",
+            "url": "https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "MINH MẠNG (Nhà Nguyễn) ✅\n\nCải cách HÀNH CHÍNH:\n\n🗺️ Chia cả nước thành 30 TỈNH (bỏ các trấn)\n📋 Quản lý thống nhất từ trên xuống\n👁️ Kiểm soát chặt chẽ địa phương\n\n✅ THÀNH CÔNG!",
+            "note": "Hệ thống tỉnh này duy trì đến ngày nay!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "SO SÁNH:\n\n❌ Hồ Quý Ly: Ý hay, fail vì thời điểm\n✅ Lê Thánh Tông: Hoàn hảo, đỉnh cao!\n✅ Minh Mạng: Hành chính hiệu quả\n\n→ Bài học: Cải cách phải HỢP LÒNG DÂN!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n❌ Hồ Quý Ly: Tiền giấy, hạn điền → Fail\n✅ Lê Thánh Tông: Luật Hồng Đức → Đỉnh cao\n✅ Minh Mạng: 30 tỉnh → Hiệu quả\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Hồ Quý Ly cải cách gì?",
+            "options": [
+                "Luật Hồng Đức",
+                "Tiền giấy, hạn điền, hạn nô",
+                "Chia thành 30 tỉnh",
+                "Khoa cử"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hồ Quý Ly đưa ra tiền giấy, hạn điền (hạn chế ruộng đất), hạn nô (hạn chế nô tỳ)!"
+        },
+        {
+            "question": "Tại sao cải cách Hồ Quý Ly thất bại?",
+            "options": [
+                "Ý tưởng dở",
+                "Không hợp lòng dân, giặc Minh xâm lược",
+                "Không ai biết",
+                "Quá đơn giản"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cải cách vội vàng, mất lòng dân, lại gặp giặc Minh xâm lược!"
+        },
+        {
+            "question": "Cuộc cải cách nào toàn diện nhất?",
+            "options": [
+                "Hồ Quý Ly",
+                "Lê Thánh Tông",
+                "Minh Mạng",
+                "Trần Thái Tông"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lê Thánh Tông cải cách toàn diện: luật pháp, hành chính, giáo dục, văn hóa!"
+        },
+        {
+            "question": "Luật Hồng Đức do ai ban hành?",
+            "options": [
+                "Hồ Quý Ly",
+                "Lê Thánh Tông",
+                "Minh Mạng",
+                "Lê Thái Tổ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lê Thánh Tông ban hành Quốc triều hình luật (Luật Hồng Đức) - bộ luật hoàn chỉnh nhất!"
+        },
+        {
+            "question": "Minh Mạng chia nước thành bao nhiêu tỉnh?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Minh Mạng chia cả nước thành 30 tỉnh - hệ thống này duy trì đến nay!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A3i_c%C3%A1ch"
+}

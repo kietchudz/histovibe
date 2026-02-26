@@ -1,0 +1,101 @@
+{
+    "id": "grade11_lesson12",
+    "title": "Bài 11: Cải cách Minh Mạng",
+    "genZTitle": "Minh Mạng - Thống Nhất Hành Chính 🗺️",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "MINH MẠNG! 🗺️\n\nVua cải cách HÀNH CHÍNH nhà Nguyễn!\n\nThống nhất quản lý từ Bắc → Nam!",
+            "url": "https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BỐI CẢNH 📍\n\n📅 Nhà Nguyễn (1820-1841)\n📍 Sau khi thống nhất đất nước\n⚠️ Cần quản lý lãnh thổ rộng lớn\n\n→ Cải cách để kiểm soát tốt hơn!",
+            "note": "Đất nước dài từ Lạng Sơn đến Cà Mau!",
+            "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_Nguy%E1%BB%85n"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CẢI CÁCH HÀNH CHÍNH 🏛️\n\n🗺️ Chia cả nước thành 30 TỈNH\n(Bỏ các trấn, dinh cũ)\n\n📋 Quản lý THỐNG NHẤT từ trên xuống\n👁️ Kiểm soát CHẶT CHẼ địa phương",
+            "note": "Hệ thống tỉnh này duy trì đến ngày nay!",
+            "url": "https://vi.wikipedia.org/wiki/Kinh_th%C3%A0nh_Hu%E1%BA%BF"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "ĐẶC ĐIỂM 📋\n\n✅ Triều đình kiểm soát mọi thứ\n✅ Quan lại do trung ương bổ nhiệm\n✅ Báo cáo thường xuyên lên vua\n\n→ Không có 'vua con' ở địa phương!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "ĐÁNH GIÁ ⚖️\n\n✅ Tích cực: Thống nhất, hiệu quả\n❌ Hạn chế: Quá tập quyền, cứng nhắc\n\n→ Nhưng đây là cải cách THÀNH CÔNG!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🗺️ Nội dung: Chia 30 tỉnh\n📋 Mục đích: Thống nhất quản lý\n✅ Kết quả: Thành công, duy trì đến nay\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Minh Mạng chia nước thành bao nhiêu tỉnh?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Minh Mạng chia cả nước thành 30 tỉnh!"
+        },
+        {
+            "question": "Mục đích cải cách của Minh Mạng?",
+            "options": [
+                "Phân quyền cho địa phương",
+                "Thống nhất quản lý từ trung ương",
+                "Bỏ bớt quan",
+                "Giảm thuế"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Minh Mạng muốn thống nhất quản lý cả nước từ trung ương!"
+        },
+        {
+            "question": "Cải cách Minh Mạng thay thế gì?",
+            "options": [
+                "Xã",
+                "Huyện",
+                "Trấn và dinh",
+                "Làng"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bỏ các trấn, dinh cũ → thay bằng hệ thống tỉnh!"
+        },
+        {
+            "question": "Hệ thống tỉnh của Minh Mạng còn duy trì đến?",
+            "options": [
+                "Thời Pháp",
+                "Thời Nhật",
+                "Ngày nay",
+                "Đã bỏ lâu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hệ thống chia tỉnh cơ bản vẫn duy trì đến ngày nay!"
+        },
+        {
+            "question": "Hạn chế của cải cách Minh Mạng?",
+            "options": [
+                "Không hiệu quả",
+                "Quá tập quyền, cứng nhắc",
+                "Không ai nghe",
+                "Quá lỏng lẻo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Quá tập quyền vào triều đình, địa phương ít tự chủ!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
+}

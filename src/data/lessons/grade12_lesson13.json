@@ -1,0 +1,101 @@
+{
+    "id": "grade12_lesson13",
+    "title": "Bài 4: Cộng đồng ASEAN",
+    "genZTitle": "Cộng Đồng ASEAN - Level Up! 🏆",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CỘNG ĐỒNG ASEAN! 🏆\n\nTừ Hiệp hội → Cộng đồng (2015)\n\nNâng cấp quan hệ lên tầm cao mới!",
+            "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_%C4%91%E1%BB%93ng_ASEAN"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "3 TRỤ CỘT 🏛️\n\n🛡️ Cộng đồng CHÍNH TRỊ - AN NINH\n💰 Cộng đồng KINH TẾ (AEC)\n🎭 Cộng đồng VĂN HÓA - XÃ HỘI\n\n→ Liên kết toàn diện!",
+            "note": "Giống EU nhưng phiên bản ĐNA!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BA%BFn_ch%C6%B0%C6%A1ng_ASEAN"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "TRỤ CỘT KINH TẾ (AEC) 💰\n\n🛒 Thị trường chung\n🚢 Tự do di chuyển hàng hóa\n💼 Tự do đầu tư\n👷 Di chuyển lao động (8 ngành nghề)\n\n→ Một thị trường 650 triệu người!",
+            "note": "Cơ hội cho doanh nghiệp VN!",
+            "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_h%E1%BB%99i_c%C3%A1c_qu%E1%BB%91c_gia_%C4%90%C3%B4ng_Nam_%C3%81"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "TRỤ CỘT AN NINH 🛡️\n\n🕊️ Giải quyết tranh chấp hòa bình\n🤝 Hợp tác chống khủng bố\n⚓ An ninh biển (Biển Đông)\n🌿 Chống tội phạm xuyên quốc gia\n\n→ Môi trường hòa bình, ổn định!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "TRỤ CỘT VĂN HÓA - XÃ HỘI 🎭\n\n🎓 Công nhận bằng cấp lẫn nhau\n🏥 Hợp tác y tế\n🌍 Bảo vệ môi trường\n🤝 Xây dựng bản sắc ASEAN\n\n→ 'One Vision, One Identity, One Community'!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🏆 2015: Cộng đồng ASEAN thành lập\n🏛️ 3 trụ cột: An ninh, Kinh tế, Văn hóa-XH\n💰 AEC: Thị trường 650 triệu người\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Cộng đồng ASEAN thành lập năm nào?",
+            "options": [
+                "2010",
+                "2015",
+                "2020",
+                "2025"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cộng đồng ASEAN chính thức thành lập ngày 31/12/2015!"
+        },
+        {
+            "question": "Cộng đồng ASEAN có mấy trụ cột?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correctAnswer": 1,
+            "explanation": "3 trụ cột: Chính trị-An ninh, Kinh tế, Văn hóa-Xã hội!"
+        },
+        {
+            "question": "AEC là viết tắt của gì?",
+            "options": [
+                "ASEAN Education Community",
+                "ASEAN Economic Community",
+                "ASEAN Environment Committee",
+                "Asian Economic Council"
+            ],
+            "correctAnswer": 1,
+            "explanation": "AEC = ASEAN Economic Community = Cộng đồng Kinh tế ASEAN!"
+        },
+        {
+            "question": "Thị trường ASEAN có bao nhiêu người?",
+            "options": [
+                "100 triệu",
+                "300 triệu",
+                "650 triệu",
+                "1 tỷ"
+            ],
+            "correctAnswer": 2,
+            "explanation": "ASEAN có dân số khoảng 650 triệu người - thị trường khổng lồ!"
+        },
+        {
+            "question": "Khẩu hiệu của Cộng đồng ASEAN?",
+            "options": [
+                "Unity in Diversity",
+                "One Vision, One Identity, One Community",
+                "Together We Prosper",
+                "ASEAN Way"
+            ],
+            "correctAnswer": 1,
+            "explanation": "One Vision, One Identity, One Community - Một tầm nhìn, Một bản sắc, Một cộng đồng!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_%C4%91%E1%BB%93ng_ASEAN"
+}

@@ -1,0 +1,104 @@
+{
+    "id": "grade12_lesson1",
+    "title": "Bài 1: Liên Hợp Quốc (UN)",
+    "genZTitle": "UN - Tổ Trưởng Tổ Dân Phố Thế Giới 🇺🇳",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "LIÊN HỢP QUỐC! 🇺🇳\n\nTổ chức quốc tế LỚN NHẤT thế giới!\n\nMục đích: Giữ hòa bình, tránh Thế chiến 3!",
+            "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "RA ĐỜI 🌟\n\n📅 1945, San Francisco (Mỹ)\n🎯 Mục đích: Duy trì hòa bình, an ninh thế giới\n\n→ Rút kinh nghiệm từ Hội Quốc Liên (đã fail)!",
+            "note": "Thành lập ngay sau WW2!",
+            "url": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Qu%E1%BB%91c_Li%C3%AAn"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CƠ QUAN CHÍNH 🏛️\n\n📢 ĐẠI HỘI ĐỒNG: Tất cả các nước (mỗi nước 1 phiếu)\n\n🔒 HỘI ĐỒNG BẢO AN: 5 ông lớn có quyền PHỦ QUYẾT\n🇺🇸 Mỹ, 🇷🇺 Nga, 🇨🇳 Trung, 🇬🇧 Anh, 🇫🇷 Pháp",
+            "note": "5 nước thường trực có quyền veto!",
+            "url": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_B%E1%BA%A3o_an_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VAI TRÒ 🕊️\n\n✅ Giải quyết xung đột hòa bình\n✅ Cứu trợ nhân đạo (UNICEF, WHO...)\n✅ Bảo vệ nhân quyền\n✅ Phát triển bền vững",
+            "note": "UN can thiệp vào nhiều lĩnh vực đời sống!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "VIỆT NAM & UN 🇻🇳\n\n📅 Gia nhập: 1977\n🎖️ 2008-2009: Thành viên không thường trực HĐBA\n🎖️ 2020-2021: Thành viên HĐBA lần 2\n\n→ Vị thế VN ngày càng cao!",
+            "note": "VN tham gia tích cực vào LHQ!",
+            "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_trong_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n📅 Ra đời: 1945\n🏛️ Cơ quan: Đại hội đồng, HĐBA (5 nước veto)\n🕊️ Vai trò: Hòa bình, nhân đạo, nhân quyền\n🇻🇳 VN: Gia nhập 1977\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "LHQ được thành lập năm nào?",
+            "options": [
+                "1918",
+                "1939",
+                "1945",
+                "1950"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Liên Hợp Quốc thành lập năm 1945 tại San Francisco sau WW2!"
+        },
+        {
+            "question": "Bao nhiêu nước có quyền phủ quyết ở HĐBA?",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "10"
+            ],
+            "correctAnswer": 1,
+            "explanation": "5 nước thường trực: Mỹ, Nga, Trung Quốc, Anh, Pháp có quyền veto!"
+        },
+        {
+            "question": "Mục đích chính của LHQ là gì?",
+            "options": [
+                "Kinh doanh",
+                "Duy trì hòa bình, an ninh thế giới",
+                "Du lịch",
+                "Thể thao"
+            ],
+            "correctAnswer": 1,
+            "explanation": "LHQ được lập để duy trì hòa bình, tránh chiến tranh thế giới!"
+        },
+        {
+            "question": "Việt Nam gia nhập LHQ năm nào?",
+            "options": [
+                "1945",
+                "1975",
+                "1977",
+                "1986"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Việt Nam gia nhập Liên Hợp Quốc năm 1977!"
+        },
+        {
+            "question": "Quyền veto là gì?",
+            "options": [
+                "Quyền biểu quyết",
+                "Quyền phủ quyết (bác bỏ)",
+                "Quyền tham gia",
+                "Quyền rút lui"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Veto = Phủ quyết, 1 trong 5 nước lớn bỏ phiếu chống thì nghị quyết không được thông qua!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c"
+}

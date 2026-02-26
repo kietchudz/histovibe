@@ -1,0 +1,100 @@
+{
+    "id": "grade10_lesson12",
+    "title": "Bài 12: Cách mạng công nghiệp thời hiện đại",
+    "genZTitle": "Kỷ Nguyên Số & AI - Thế Giới Phẳng 🤖",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Welcome to the Digital Age! 🤖\n\nCMCN lần 3 & 4 đang diễn ra NGAY LÚC NÀY!\n\nAI, Internet, Robot... đang thay đổi mọi thứ!",
+            "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p_l%E1%BA%A7n_th%E1%BB%A9_ba"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CMCN LẦN 3 (Nửa sau TK 20) 💻\n\n🔑 Key: MÁY TÍNH + INTERNET\n\n• Tự động hóa sản xuất\n• World Wide Web (1991)\n• Email thay thư tay\n\n→ Thông tin truyền tức thì!",
+            "url": "https://vi.wikipedia.org/wiki/Internet"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "CMCN LẦN 4 (Hiện nay - 4.0) 🚀\n\n🤖 AI (Trí tuệ nhân tạo)\n📊 Big Data (Dữ liệu lớn)\n🌐 IoT (Vạn vật kết nối)\n🦾 Robot thông minh\n\n→ Máy móc có thể 'suy nghĩ'!",
+            "url": "https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o"
+        },
+        {
+            "id": 4,
+            "type": "quote",
+            "content": "CMCN 4.0 thay đổi cách sống, cách làm việc - như cách bạn đang dùng AI để học sử nè! 🎓",
+            "note": "Bạn đang tận hưởng thành quả 4.0!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CƠ HỘI & THÁCH THỨC:\n\n✅ Cơ hội: Việc làm mới, năng suất cao, kết nối toàn cầu\n\n❌ Thách thức: Mất việc làm truyền thống, an ninh mạng, chênh lệch công nghệ"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n💻 CMCN 3: Máy tính, Internet\n🤖 CMCN 4: AI, Big Data, IoT\n\nQuiz time! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "CMCN lần 3 dựa trên gì?",
+            "options": [
+                "Máy hơi nước",
+                "Điện",
+                "Máy tính và Internet",
+                "AI"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CMCN 3 = Kỷ nguyên máy tính và Internet!"
+        },
+        {
+            "question": "AI là viết tắt của gì?",
+            "options": [
+                "All Internet",
+                "Artificial Intelligence",
+                "Auto Industry",
+                "Asian Integration"
+            ],
+            "correctAnswer": 1,
+            "explanation": "AI = Artificial Intelligence = Trí tuệ nhân tạo!"
+        },
+        {
+            "question": "IoT nghĩa là gì?",
+            "options": [
+                "Internet of Things",
+                "Industry of Tech",
+                "Inside of Tech",
+                "Input of Text"
+            ],
+            "correctAnswer": 0,
+            "explanation": "IoT = Internet of Things = Vạn vật kết nối!"
+        },
+        {
+            "question": "CMCN 4.0 có thách thức gì?",
+            "options": [
+                "Không có thách thức",
+                "Mất việc làm truyền thống",
+                "Không ai dùng",
+                "Quá rẻ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Robot và AI có thể thay thế nhiều công việc truyền thống!"
+        },
+        {
+            "question": "Đặc điểm của CMCN 4.0?",
+            "options": [
+                "Chỉ dùng điện",
+                "AI, Big Data, IoT, Robot",
+                "Chỉ làm nông",
+                "Không dùng máy tính"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CMCN 4.0 = AI + Big Data + IoT + Robot thông minh!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p_l%E1%BA%A7n_th%E1%BB%A9_ba"
+}

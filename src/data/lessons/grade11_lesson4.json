@@ -1,0 +1,110 @@
+{
+    "id": "grade11_lesson4",
+    "title": "Bài 4: CNXH từ 1991 đến nay",
+    "genZTitle": "Xã Hội Chủ Nghĩa - Phiên Bản Nâng Cấp 🚀",
+    "level": 11,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "CNXH SAU 1991 🚀\n\nLiên Xô đổ → XHCN thế giới lung lay\n\nNhưng một số nước VẪN TRỤ và NÂNG CẤP!",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_x%C3%A3_h%E1%BB%99i"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "CÁC NƯỚC CNXH CÒN LẠI 🌏\n\n🇨🇳 Trung Quốc\n🇻🇳 Việt Nam\n🇱🇦 Lào\n🇨🇺 Cuba\n🇰🇵 Triều Tiên\n\n→ Mỗi nước 1 con đường riêng!",
+            "note": "5 nước XHCN còn tồn tại!",
+            "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "TRUNG QUỐC 🇨🇳\n\n📅 1978: Cải cách mở cửa (Đặng Tiểu Bình)\n📈 Từ nghèo → Kinh tế số 2 thế giới!\n\n💡 'CNXH đặc sắc Trung Quốc'\n= Kinh tế thị trường + Chính trị XHCN",
+            "note": "Mèo trắng mèo đen, bắt được chuột là mèo tốt!",
+            "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VIỆT NAM 🇻🇳\n\n📅 1986: ĐỔI MỚI\n📈 Từ nghèo đói → Xuất khẩu gạo!\n📈 Kinh tế năng động, hội nhập quốc tế\n\n💡 Kinh tế thị trường định hướng XHCN",
+            "note": "VN là câu chuyện thành công của đổi mới!",
+            "url": "https://vi.wikipedia.org/wiki/Cuba"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "CUBA 🇨🇺\n\n🏥 Y học miễn phí đỉnh cao\n🎓 Giáo dục miễn phí\n💪 Kiên cường trước cấm vận Mỹ\n\n→ Mô hình riêng, trụ vững dù khó khăn!",
+            "note": "Cuba nổi tiếng với bác sĩ giỏi!"
+        },
+        {
+            "id": 6,
+            "type": "quote",
+            "content": "CNXH không chết, mà đang TỰ ĐIỀU CHỈNH để phù hợp thời đại!",
+            "note": "Mỗi nước 1 con đường, linh hoạt sáng tạo!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🇨🇳 TQ: Cải cách mở cửa → Số 2 TG\n🇻🇳 VN: Đổi mới → Hội nhập\n🇨🇺 Cuba: Y tế, giáo dục miễn phí\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Sau 1991, còn bao nhiêu nước XHCN?",
+            "options": [
+                "2",
+                "3",
+                "5",
+                "10"
+            ],
+            "correctAnswer": 2,
+            "explanation": "5 nước: Trung Quốc, Việt Nam, Lào, Cuba, Triều Tiên!"
+        },
+        {
+            "question": "Trung Quốc cải cách mở cửa năm nào?",
+            "options": [
+                "1976",
+                "1978",
+                "1986",
+                "1991"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1978 - Đặng Tiểu Bình khởi xướng cải cách mở cửa!"
+        },
+        {
+            "question": "Việt Nam bắt đầu Đổi mới năm nào?",
+            "options": [
+                "1975",
+                "1980",
+                "1986",
+                "1991"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Đại hội VI (1986) quyết định Đổi mới kinh tế!"
+        },
+        {
+            "question": "Cuba nổi tiếng về lĩnh vực gì?",
+            "options": [
+                "Công nghệ",
+                "Y tế và giáo dục miễn phí",
+                "Ô tô",
+                "Du lịch"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cuba có y tế và giáo dục miễn phí đỉnh cao, bác sĩ Cuba nổi tiếng thế giới!"
+        },
+        {
+            "question": "Đặc điểm chung của CNXH hiện nay?",
+            "options": [
+                "Cứng nhắc",
+                "Tự điều chỉnh linh hoạt",
+                "Giống hệt nhau",
+                "Không đổi mới"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CNXH đang tự điều chỉnh, mỗi nước 1 con đường phù hợp!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_x%C3%A3_h%E1%BB%99i"
+}

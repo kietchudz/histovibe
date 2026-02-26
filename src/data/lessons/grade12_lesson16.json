@@ -1,0 +1,102 @@
+{
+    "id": "grade12_lesson16",
+    "title": "Bài 15: Bảo tồn và phát huy di sản",
+    "genZTitle": "Làm Sao Để Di Sản 'Sống'? 🌱",
+    "level": 12,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "BẢO TỒN & PHÁT HUY! 🌱\n\nDi sản không chỉ để NGẮM!\n\nPhải làm cho di sản 'SỐNG' trong đời sống!",
+            "url": "https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a"
+        },
+        {
+            "id": 2,
+            "type": "text",
+            "content": "BẢO TỒN LÀ GÌ? 🛡️\n\n✅ Giữ nguyên bản gốc (không thay đổi)\n✅ Trùng tu đúng kỹ thuật\n✅ Chống xuống cấp, hư hại\n✅ Số hóa, lưu trữ\n\n→ Giữ cho thế hệ sau!",
+            "note": "Bảo tồn ≠ Đóng băng, mà là giữ gìn đúng cách!",
+            "url": "https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_th%E1%BA%BF_gi%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "PHÁT HUY LÀ GÌ? 🚀\n\n✅ Đưa vào du lịch\n✅ Giáo dục trong nhà trường\n✅ Sáng tạo trên nền truyền thống\n✅ Ứng dụng công nghệ (VR, AR...)\n\n→ Để di sản 'sống' trong đời sống!",
+            "note": "Phát huy = Để di sản có ích cho hiện tại!",
+            "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_c%E1%BB%95_H%E1%BB%99i_An"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "VÍ DỤ THỰC TẾ 🎯\n\n🏛️ Hội An: Du lịch + giữ nguyên kiến trúc\n🎭 Quan họ: Trình diễn + dạy trong trường\n👗 Áo dài: Cách tân + giữ bản sắc\n📱 Bảo tàng ảo: Công nghệ + văn hóa\n\n→ Kết hợp bảo tồn VÀ phát huy!"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "THANH NIÊN CÓ THỂ LÀM GÌ? 💪\n\n📚 Tìm hiểu, học hỏi\n📢 Quảng bá trên mạng xã hội\n🎨 Sáng tạo content về văn hóa\n🚫 Không phá hoại, xâm phạm\n\n→ Ai cũng có thể góp phần!",
+            "note": "Một video TikTok cũng là quảng bá văn hóa!"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Tóm tắt:\n\n🛡️ Bảo tồn: Giữ nguyên, trùng tu\n🚀 Phát huy: Du lịch, giáo dục, sáng tạo\n💪 Thanh niên: Học hỏi, quảng bá, sáng tạo\n\nQuiz! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Bảo tồn di sản nghĩa là gì?",
+            "options": [
+                "Phá đi xây mới",
+                "Giữ nguyên bản gốc, trùng tu đúng cách",
+                "Bán cho nước ngoài",
+                "Đóng cửa không cho ai vào"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bảo tồn = Giữ nguyên bản gốc, trùng tu đúng kỹ thuật, chống xuống cấp!"
+        },
+        {
+            "question": "Phát huy di sản qua những cách nào?",
+            "options": [
+                "Chỉ để trong bảo tàng",
+                "Du lịch, giáo dục, sáng tạo, ứng dụng công nghệ",
+                "Bỏ đi",
+                "Không làm gì"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Phát huy = Đưa vào du lịch, giáo dục, sáng tạo, dùng công nghệ VR/AR..."
+        },
+        {
+            "question": "Hội An là ví dụ tốt vì sao?",
+            "options": [
+                "Phá bỏ kiến trúc cũ",
+                "Kết hợp du lịch và giữ nguyên kiến trúc",
+                "Không có du khách",
+                "Xây nhà cao tầng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hội An vừa phát triển du lịch vừa giữ nguyên kiến trúc cổ - mẫu mực bảo tồn-phát huy!"
+        },
+        {
+            "question": "Thanh niên có thể làm gì để bảo vệ di sản?",
+            "options": [
+                "Không làm gì",
+                "Tìm hiểu, quảng bá, sáng tạo content",
+                "Phá hoại",
+                "Chờ người lớn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Thanh niên có thể tìm hiểu, quảng bá trên mạng xã hội, sáng tạo content văn hóa!"
+        },
+        {
+            "question": "VR/AR dùng trong di sản để làm gì?",
+            "options": [
+                "Phá hoại",
+                "Tham quan ảo, trải nghiệm tương tác",
+                "Thay thế di sản",
+                "Không có tác dụng"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Công nghệ VR/AR giúp tham quan ảo, trải nghiệm di sản theo cách hiện đại!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%E1%BB%93n_di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a"
+}

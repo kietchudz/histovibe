@@ -1,0 +1,123 @@
+{
+    "id": "grade10_lesson6",
+    "title": "Bài 6: Văn minh Ai Cập cổ đại",
+    "genZTitle": "Ai Cập - 'Flex' Bên Dòng Sông Nin 🐫",
+    "level": 10,
+    "cards": [
+        {
+            "id": 1,
+            "type": "text",
+            "content": "Welcome to Egypt! 🇪🇬\n\nAi Cập cổ đại - Một trong những nền văn minh ĐẦU TIÊN và HOÀNH TRÁNG nhất thế giới!\n\nCùng khám phá nào! 🏛️",
+            "url": "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+        },
+        {
+            "id": 2,
+            "type": "quote",
+            "content": "Ai Cập là QUÀ TẶNG của sông Nin.",
+            "note": "Không có sông Nin = Toàn cát (Sa mạc). Triết gia Hy Lạp Herodotus nói vậy!",
+            "url": "https://vi.wikipedia.org/wiki/S%C3%B4ng_Nin"
+        },
+        {
+            "id": 3,
+            "type": "text",
+            "content": "ĐỊA LÝ 🗺️\n\nSông Nin dài 6.650km - dài nhất châu Phi!\n\nHàng năm sông dâng nước, để lại phù sa màu mỡ → Đất nông nghiệp cực tốt giữa sa mạc.\n\nNên người Ai Cập phát triển rực rỡ!",
+            "note": "Sông = Mạch sống của văn minh",
+            "url": "https://vi.wikipedia.org/wiki/Kim_t%E1%BB%B1_th%C3%A1p_Giza"
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "content": "CHÍNH TRỊ 👑\n\nPharaoh = TRÙM CUỐI!\n\n• Vừa là VUA (quyền lực tuyệt đối)\n• Vừa là THẦN (con của thần Ra)\n\nNói gì nghe nấy, không ai dám cãi!",
+            "note": "Pharaoh nghĩa là 'Ngôi nhà lớn' - biệt danh của vua",
+            "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_t%C6%B0%E1%BB%A3ng_h%C3%ACnh_Ai_C%E1%BA%ADp"
+        },
+        {
+            "id": 5,
+            "type": "text",
+            "content": "KIẾN TRÚC - KIM TỰ THÁP 🔺\n\nMộ vua siêu to khổng lồ!\n\n• Giza (lớn nhất): cao 146m, xây 20 năm\n• Dùng 2.3 triệu khối đá\n• Không dùng bánh xe hay ròng rọc!\n\nĐến giờ còn bí ẩn cách xây! 🤯",
+            "note": "1 trong 7 kỳ quan thế giới cổ đại còn sót lại",
+            "url": "https://vi.wikipedia.org/wiki/Pharaon"
+        },
+        {
+            "id": 6,
+            "type": "text",
+            "content": "Y HỌC - ƯỚP XÁC 💀\n\nNgười Ai Cập tin vào SỰ BẤT TỬ!\n\nLinh hồn sẽ quay về thân xác → Phải giữ thân xác nguyên vẹn → Kỹ thuật ướp xác (Mummy).\n\nXác ướp 3000 năm vẫn còn!",
+            "note": "Nhờ ướp xác mà ta biết pharaoh chết vì bệnh gì!"
+        },
+        {
+            "id": 7,
+            "type": "text",
+            "content": "CHỮ VIẾT ✍️\n\n📜 CHỮ TƯỢNG HÌNH (Hieroglyph)\n• Vẽ hình để biểu ý (con chim = chữ chim)\n• Rất đẹp nhưng khó học\n\n📜 GIẤY PAPYRUS\n• Làm từ cây papyrus mọc ven sông Nin\n• Tiền thân của giấy hiện đại!",
+            "note": "Chữ 'Paper' (giấy tiếng Anh) có gốc từ Papyrus!"
+        },
+        {
+            "id": 8,
+            "type": "timeline",
+            "content": "3100 TCN | Ai Cập thống nhất, Pharaoh đầu tiên\n2560 TCN | Xây Kim tự tháp Giza 🔺\n1336 TCN | Pharaoh Tutankhamun (mộ vàng siêu khủng)\n30 TCN | Ai Cập cổ đại sụp đổ (La Mã chiếm)",
+            "note": "Văn minh kéo dài gần 3000 năm!"
+        },
+        {
+            "id": 9,
+            "type": "text",
+            "content": "Tóm tắt bài 6:\n\n🌊 Địa lý: Sông Nin = Nguồn sống\n👑 Chính trị: Pharaoh = Vua + Thần\n🔺 Kiến trúc: Kim tự tháp vĩ đại\n💀 Y học: Ướp xác siêu đỉnh\n✍️ Chữ viết: Tượng hình + Papyrus\n\nQuiz time! 🎯"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Tại sao nói 'Ai Cập là quà tặng của sông Nin'?",
+            "options": [
+                "Vì sông Nin rất đẹp",
+                "Vì sông Nin mang phù sa màu mỡ giữa sa mạc",
+                "Vì sông Nin có nhiều cá",
+                "Vì sông Nin dài nhất"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sông Nin dâng nước hàng năm, để lại phù sa màu mỡ - tạo đất nông nghiệp giữa sa mạc!"
+        },
+        {
+            "question": "Pharaoh là ai?",
+            "options": [
+                "Tên một vị thần",
+                "Vua Ai Cập được coi là thần sống",
+                "Kiến trúc sư xây kim tự tháp",
+                "Nhà khoa học Ai Cập"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pharaoh vừa là VUA (quyền lực tuyệt đối) vừa được coi là THẦN (con của thần Ra)!"
+        },
+        {
+            "question": "Kim tự tháp được xây để làm gì?",
+            "options": [
+                "Làm cung điện",
+                "Làm đền thờ",
+                "Làm lăng mộ cho Pharaoh",
+                "Làm kho chứa lương thực"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kim tự tháp là lăng mộ siêu to khổng lồ dành cho Pharaoh - để họ sống đời sau!"
+        },
+        {
+            "question": "Tại sao người Ai Cập ướp xác?",
+            "options": [
+                "Để trang trí",
+                "Vì tin linh hồn sẽ quay về thân xác",
+                "Để nghiên cứu khoa học",
+                "Vì luật pháp bắt buộc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Người Ai Cập tin vào sự bất tử - linh hồn sẽ quay về nên cần giữ thân xác nguyên vẹn!"
+        },
+        {
+            "question": "Giấy Papyrus được làm từ gì?",
+            "options": [
+                "Từ da động vật",
+                "Từ cây papyrus mọc ven sông Nin",
+                "Từ đá mài",
+                "Từ lá cọ"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Papyrus là cây mọc ven sông Nin, được ép thành giấy - tiền thân của giấy hiện đại!"
+        }
+    ],
+    "url": "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+}
