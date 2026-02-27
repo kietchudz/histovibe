@@ -17,7 +17,7 @@ export async function POST(req: Request) {
 
         const genAI = new GoogleGenerativeAI(apiKey);
         const model = genAI.getGenerativeModel({
-            model: "gemini-1.5-flash", // Rollback xuống 1.5-flash để đảm bảo tương thích 100%
+            model: "gemini-2.5-flash",
             systemInstruction: SYSTEM_PROMPT
         });
 
