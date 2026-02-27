@@ -17,7 +17,7 @@ export async function POST(req: Request) {
 
         const genAI = new GoogleGenerativeAI(apiKey);
         const model = genAI.getGenerativeModel({
-            model: "gemini-2.5-flash",
+            model: "gemini-1.5-flash", // Rollback xuống 1.5-flash để đảm bảo tương thích 100%
             systemInstruction: SYSTEM_PROMPT
         });
 
@@ -29,8 +29,11 @@ export async function POST(req: Request) {
         const responseText = result.response.text();
 
         return NextResponse.json({ response: responseText });
-    } catch (error) {
+    } catch (error: any) {
         console.error("Chat API error:", error);
-        return NextResponse.json({ error: "Mốm đang bị lỗi kết nối, chủ nhân thử lại sau nha! 🙀" }, { status: 500 });
+        return NextResponse.json({
+            error: "Mốm đang bị lỗi kết nối, chủ nhân thử lại sau nha! 🙀",
+            details: error?.message || String(error)
+        }, { status: 500 });
     }
 }
